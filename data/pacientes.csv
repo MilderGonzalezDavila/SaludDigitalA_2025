@@ -1,0 +1,3001 @@
+id_paciente,nombre,edad,sexo,Distrito,servicio,fecha_atencion,monto
+P001,Paciente Juan ,15,M,Miraflores,Dermatología,2024-11-15,403.98
+P002,Paciente Luis García,72,F,Callao,Pediatría,2020-04-14,
+P003,Paciente Maria García,86,M,Miraflores,Pediatría,2020-05-24,158.02
+P004,Paciente Juan Pérez,88,M,Surco,Cardiología,2022-08-30,404.19
+P005,Paciente Luis Pérez,26,M,Cajamarca,Pediatría,2024-05-05,349.04
+P006,Paciente  ,27,M,La Molina,Cardiología,,264.97
+P007,Paciente  García,14,NA,Miraflores,Dermatología,,248.07
+P008,Paciente Luis ,80,M,Callao,Cardiología,2020-12-03,367.9
+P009,Paciente Maria ,85,M,San Isidro,Odontología,2021-03-07,356.63
+P010,Paciente Ana García,43,NA,Lince,Pediatría,2021-02-01,152.75
+P011,Paciente  Torres,31,M,Surco,Pediatría,2022-09-17,
+P012,Paciente  Torres,,F,Cajamarca,Pediatría,2024-02-08,293.84
+P013,Paciente  García,84,F,San Isidro,Odontología,2022-05-07,209.41
+P014,Paciente Maria ,15,NA,Cajamarca,Cardiología,2022-09-23,352.86
+P015,Paciente Juan Torres,53,NA,Lince,NA,2021-02-24,55.46
+P016,Paciente Maria ,23,NA,San Isidro,Pediatría,2021-02-04,239.94
+P017,Paciente Ana Torres,1,NA,San Isidro,Odontología,2022-12-06,195.52
+P018,Paciente Ana García,39,F,Surco,Cardiología,2021-07-20,147.23
+P019,Paciente  Pérez,28,M,Lince,NA,2024-01-07,226.31
+P020,Paciente Juan ,41,NA,Lince,NA,2023-05-06,461.27
+P021,Paciente Juan Torres,8,F,Cajamarca,Odontología,2020-01-17,246.36
+P022,Paciente Ana Torres,35,M,Surco,NA,2024-06-28,144.06
+P023,Paciente Juan Pérez,,M,San Isidro,Odontología,2021-10-26,455.22
+P024,Paciente Ana García,35,M,Miraflores,Dermatología,2021-06-23,493.2
+P025,Paciente  ,38,NA,San Isidro,NA,2020-08-04,60.0
+P026,Paciente  Torres,1,NA,San Isidro,Cardiología,2024-10-28,426.87
+P027,Paciente Luis Torres,,F,Callao,NA,2024-08-19,218.11
+P028,Paciente  ,,M,Miraflores,Pediatría,2024-04-25,
+P029,Paciente Maria García,73,M,Lince,Dermatología,2024-01-02,194.39
+P030,Paciente Juan Torres,42,NA,La Molina,NA,2020-09-25,318.88
+P031,Paciente Ana Torres,22,M,San Isidro,NA,,313.46
+P032,Paciente Luis ,68,M,Cajamarca,Dermatología,2024-01-24,336.17
+P033,Paciente Ana Pérez,40,NA,Miraflores,Dermatología,2024-04-07,
+P034,Paciente Luis ,22,F,La Molina,Odontología,2021-10-20,112.29
+P035,Paciente  Pérez,43,F,San Isidro,NA,2022-07-25,353.73
+P036,Paciente Maria García,7,M,San Isidro,Pediatría,2023-03-05,162.23
+P037,Paciente Juan Torres,54,NA,Lince,NA,2024-05-13,359.26
+P038,Paciente Maria García,74,F,Surco,Cardiología,2020-07-13,108.83
+P039,Paciente Luis García,27,M,Lince,Cardiología,2023-08-22,382.14
+P040,Paciente Maria García,46,NA,La Molina,Dermatología,,71.68
+P041,Paciente Luis ,83,F,La Molina,NA,2024-06-25,237.64
+P042,Paciente Luis García,6,F,Surco,Odontología,2021-12-03,219.63
+P043,Paciente Luis Pérez,49,M,Surco,Odontología,2024-06-01,460.2
+P044,Paciente  ,53,NA,Miraflores,NA,2024-09-24,208.99
+P045,Paciente Ana García,76,M,La Molina,Odontología,2023-12-14,388.27
+P046,Paciente Ana ,5,NA,Lince,Odontología,2021-12-31,298.09
+P047,Paciente  Torres,54,M,Miraflores,Cardiología,2021-01-18,
+P048,Paciente  García,55,M,Callao,Dermatología,2024-08-06,254.26
+P049,Paciente Juan Pérez,60,NA,Lince,Cardiología,2024-03-23,393.68
+P050,Paciente  Pérez,10,F,Lince,Cardiología,2023-06-17,152.37
+P051,Paciente  Pérez,68,F,Surco,NA,2024-04-10,392.92
+P052,Paciente  ,21,M,San Isidro,Odontología,2024-03-29,
+P053,Paciente Juan Pérez,60,F,Miraflores,Cardiología,2021-01-03,384.19
+P054,Paciente Luis ,36,NA,Cajamarca,Odontología,2024-08-15,410.09
+P055,Paciente  Torres,41,NA,San Isidro,Odontología,,309.37
+P056,Paciente Ana García,79,M,San Isidro,NA,2023-06-03,
+P057,Paciente Maria Torres,15,F,Cajamarca,NA,2024-03-07,98.71
+P058,Paciente Juan García,22,M,San Isidro,Pediatría,2020-02-16,285.51
+P059,Paciente Juan Pérez,26,M,Callao,Pediatría,2020-01-14,271.8
+P060,Paciente Luis Torres,2,NA,Cajamarca,Pediatría,2021-04-22,365.32
+P061,Paciente  Torres,34,F,San Isidro,Dermatología,2020-01-23,113.25
+P062,Paciente  García,63,M,La Molina,Dermatología,2021-01-30,258.89
+P063,Paciente Maria García,87,NA,Lince,Odontología,2020-07-20,318.71
+P064,Paciente Juan Pérez,12,F,Lince,Dermatología,2022-02-06,304.91
+P065,Paciente Luis Torres,41,F,Cajamarca,Cardiología,2023-09-20,463.24
+P066,Paciente Maria ,31,M,Lince,Odontología,,
+P067,Paciente Luis ,28,NA,Callao,Dermatología,2020-01-20,406.45
+P068,Paciente Ana García,8,NA,Cajamarca,NA,2023-07-07,91.53
+P069,Paciente Juan Pérez,34,NA,La Molina,NA,2022-02-25,423.25
+P070,Paciente Juan Torres,10,NA,Callao,Pediatría,2021-12-10,437.13
+P071,Paciente Juan Torres,51,F,San Isidro,Odontología,2022-03-06,184.63
+P072,Paciente Ana Pérez,18,NA,San Isidro,Pediatría,2021-03-18,499.14
+P073,Paciente Juan Torres,76,NA,La Molina,NA,2020-08-31,444.29
+P074,Paciente Luis Pérez,41,M,Callao,Dermatología,,346.48
+P075,Paciente Luis Torres,17,F,San Isidro,Odontología,2021-05-21,236.56
+P076,Paciente  Torres,61,NA,La Molina,Pediatría,2022-09-22,248.72
+P077,Paciente Juan Pérez,33,M,Lince,Odontología,2023-05-05,492.37
+P078,Paciente Maria Torres,54,F,Cajamarca,Pediatría,2023-05-18,75.55
+P079,Paciente Maria García,26,NA,Lince,Cardiología,2020-01-25,141.14
+P080,Paciente Maria Pérez,90,NA,San Isidro,Odontología,2022-05-09,327.96
+P081,Paciente Ana Torres,70,F,Miraflores,Dermatología,2023-10-16,445.35
+P082,Paciente Maria Pérez,78,NA,La Molina,Odontología,2020-05-08,71.93
+P083,Paciente Maria García,52,M,Lince,Dermatología,2022-01-28,310.34
+P084,Paciente Luis Pérez,49,F,Cajamarca,Odontología,2020-04-19,411.44
+P085,Paciente  Pérez,7,F,Surco,Odontología,2024-07-10,209.11
+P086,Paciente Ana García,34,M,Cajamarca,Dermatología,2021-06-06,281.64
+P087,Paciente Juan García,84,M,Cajamarca,Dermatología,2023-12-14,321.62
+P088,Paciente Ana ,57,M,Lince,NA,2023-05-22,439.07
+P089,Paciente Maria García,47,M,Lince,Odontología,2024-01-05,410.19
+P090,Paciente Juan García,49,NA,San Isidro,Dermatología,2024-01-12,212.19
+P091,Paciente Luis García,30,M,San Isidro,Odontología,2024-12-28,249.59
+P092,Paciente Juan Torres,32,F,Miraflores,NA,2023-07-16,281.23
+P093,Paciente Ana ,35,NA,Miraflores,Cardiología,2021-01-15,380.86
+P094,Paciente Ana Pérez,54,NA,Callao,Dermatología,2020-04-05,213.56
+P095,Paciente Maria Pérez,8,M,San Isidro,Odontología,2020-10-23,56.06
+P096,Paciente Juan ,58,F,Surco,NA,2022-10-20,82.98
+P097,Paciente Juan Pérez,44,M,Surco,Pediatría,2024-06-21,450.96
+P098,Paciente Luis Pérez,60,NA,La Molina,Pediatría,2021-11-17,187.73
+P099,Paciente Luis ,56,M,Callao,Odontología,2022-02-23,
+P100,Paciente Luis García,24,F,Callao,Pediatría,2020-09-10,481.39
+P101,Paciente Luis ,58,NA,Callao,Dermatología,2020-02-04,200.78
+P102,Paciente Luis García,39,NA,Surco,NA,2021-03-17,108.57
+P103,Paciente Juan García,83,M,Callao,NA,2021-06-02,262.77
+P104,Paciente Juan Pérez,25,F,Surco,Odontología,2020-10-18,95.49
+P105,Paciente Ana ,20,NA,La Molina,NA,2022-06-08,469.6
+P106,Paciente Juan Torres,88,F,Surco,Dermatología,2021-04-03,352.11
+P107,Paciente Ana Pérez,41,F,Cajamarca,Odontología,2020-12-11,50.48
+P108,Paciente Maria García,4,F,Callao,Dermatología,2023-07-18,264.82
+P109,Paciente Luis ,50,F,San Isidro,Dermatología,2022-08-11,245.07
+P110,Paciente Maria García,24,NA,La Molina,Pediatría,2022-08-28,93.35
+P111,Paciente Juan Pérez,86,M,Surco,Odontología,2020-02-28,487.22
+P112,Paciente Maria Torres,45,M,La Molina,NA,,315.77
+P113,Paciente Maria Pérez,27,NA,San Isidro,Odontología,2023-08-27,
+P114,Paciente Ana Torres,13,M,Lince,Dermatología,,154.48
+P115,Paciente  García,64,M,San Isidro,Odontología,2021-12-22,
+P116,Paciente  García,85,NA,Surco,NA,2022-03-21,204.56
+P117,Paciente Juan ,76,M,Callao,Dermatología,2020-09-03,490.93
+P118,Paciente Ana Torres,50,NA,La Molina,Cardiología,2020-10-20,397.73
+P119,Paciente Juan Torres,34,NA,La Molina,Cardiología,2023-12-09,69.11
+P120,Paciente Maria García,42,F,San Isidro,NA,2022-03-01,404.51
+P121,Paciente Luis Torres,42,F,Callao,Dermatología,2021-07-15,288.05
+P122,Paciente Ana García,82,M,Cajamarca,Dermatología,2022-01-12,110.03
+P123,Paciente Maria ,15,NA,La Molina,NA,2022-02-04,317.07
+P124,Paciente Juan Pérez,60,M,Cajamarca,Odontología,2023-10-16,122.51
+P125,Paciente Luis ,7,M,San Isidro,Dermatología,2021-10-18,85.38
+P126,Paciente Maria Torres,18,F,Lince,Cardiología,2022-10-25,173.45
+P127,Paciente Juan García,68,M,Cajamarca,Dermatología,2021-06-22,124.23
+P128,Paciente Juan Pérez,32,NA,Cajamarca,Pediatría,2020-01-04,397.45
+P129,Paciente Luis Pérez,63,M,La Molina,NA,2023-05-28,202.5
+P130,Paciente Juan ,29,M,La Molina,Pediatría,2023-04-06,355.71
+P131,Paciente Maria ,,F,Callao,Pediatría,2021-07-27,439.19
+P132,Paciente Maria García,75,M,Cajamarca,Odontología,2021-04-07,182.19
+P133,Paciente Luis Torres,15,F,Surco,Cardiología,2020-11-06,237.0
+P134,Paciente Ana ,41,F,Callao,Odontología,2023-12-26,148.07
+P135,Paciente Juan ,16,NA,San Isidro,Dermatología,2022-09-06,300.99
+P136,Paciente Luis García,16,F,Miraflores,Dermatología,2023-07-29,150.11
+P137,Paciente Luis ,90,NA,San Isidro,Cardiología,2024-06-22,498.67
+P138,Paciente Luis Torres,20,F,Surco,Odontología,2024-12-03,368.69
+P139,Paciente Juan Pérez,71,M,Surco,Pediatría,2024-06-15,341.22
+P140,Paciente Ana García,45,M,Callao,Dermatología,2024-05-27,427.49
+P141,Paciente Maria ,80,NA,Miraflores,Odontología,2023-10-17,72.72
+P142,Paciente Luis ,80,NA,Lince,Odontología,2023-11-26,312.55
+P143,Paciente Luis ,2,F,Miraflores,Odontología,2023-02-14,365.81
+P144,Paciente Juan García,24,F,Callao,Odontología,2023-03-17,499.2
+P145,Paciente  ,24,M,San Isidro,Pediatría,2021-01-06,151.91
+P146,Paciente  ,1,NA,La Molina,Odontología,2020-11-28,145.66
+P147,Paciente  Pérez,66,F,La Molina,Pediatría,2021-07-01,126.05
+P148,Paciente Juan García,70,NA,Surco,Pediatría,2023-07-06,293.65
+P149,Paciente Juan Pérez,23,M,Miraflores,Odontología,2023-04-18,176.87
+P150,Paciente Juan Pérez,58,F,Surco,Cardiología,2023-07-20,159.86
+P151,Paciente  García,89,F,Callao,Odontología,2024-12-24,169.6
+P152,Paciente  ,29,F,Lince,Pediatría,2023-12-10,327.95
+P153,Paciente Luis ,70,M,Cajamarca,Cardiología,,109.99
+P154,Paciente Ana ,53,F,La Molina,Pediatría,2021-01-25,483.44
+P155,Paciente Maria García,34,NA,Lince,Odontología,2020-04-13,334.38
+P156,Paciente Ana García,6,M,Surco,Pediatría,2021-07-09,131.62
+P157,Paciente  ,19,NA,San Isidro,Odontología,2022-08-02,400.96
+P158,Paciente Ana ,19,F,La Molina,Pediatría,2020-05-15,163.0
+P159,Paciente  ,51,M,Surco,Dermatología,2022-06-02,437.9
+P160,Paciente Luis Torres,79,NA,Callao,Odontología,2021-06-01,326.99
+P161,Paciente Juan ,,NA,La Molina,Cardiología,2022-03-23,427.43
+P162,Paciente Luis ,49,NA,Lince,Pediatría,2020-01-31,418.72
+P163,Paciente Ana García,,F,Surco,Dermatología,2021-12-19,308.53
+P164,Paciente  García,68,M,Cajamarca,Cardiología,2023-09-17,129.63
+P165,Paciente Juan ,66,NA,San Isidro,Dermatología,2020-08-22,192.42
+P166,Paciente Ana ,11,NA,Miraflores,Odontología,2021-04-03,193.18
+P167,Paciente Maria García,68,M,Cajamarca,Pediatría,2023-11-06,338.48
+P168,Paciente Maria García,5,F,Miraflores,Cardiología,2021-11-26,66.01
+P169,Paciente  Torres,24,NA,Miraflores,Dermatología,2024-06-13,380.39
+P170,Paciente Luis Torres,45,F,Surco,Odontología,2023-09-05,98.78
+P171,Paciente  ,71,NA,San Isidro,Odontología,2021-03-23,173.39
+P172,Paciente Ana Pérez,79,M,Cajamarca,Dermatología,2022-01-21,149.94
+P173,Paciente Juan ,5,F,Miraflores,Dermatología,2024-07-07,437.16
+P174,Paciente Luis Torres,90,M,Lince,Pediatría,2020-04-18,
+P175,Paciente Luis García,,M,Lince,Dermatología,2024-08-31,389.68
+P176,Paciente Juan ,11,F,Miraflores,NA,2023-06-01,451.19
+P177,Paciente Luis García,33,NA,San Isidro,NA,2024-05-22,459.03
+P178,Paciente Luis ,48,M,Callao,Odontología,2020-04-14,104.39
+P179,Paciente Juan Pérez,56,M,La Molina,Cardiología,2020-05-22,176.3
+P180,Paciente Juan Torres,45,M,La Molina,Odontología,2023-01-11,248.47
+P181,Paciente Juan ,69,F,San Isidro,Odontología,2024-11-07,246.28
+P182,Paciente Juan ,74,F,Surco,Cardiología,2023-02-11,222.83
+P183,Paciente Ana Torres,30,NA,Callao,Odontología,2020-07-16,77.26
+P184,Paciente Ana García,49,F,Callao,Pediatría,2024-09-18,215.17
+P185,Paciente  ,70,M,Callao,NA,2023-06-19,110.33
+P186,Paciente Juan Torres,38,NA,Lince,Odontología,2024-12-01,255.15
+P187,Paciente Maria Torres,81,NA,Lince,Cardiología,2022-04-05,335.24
+P188,Paciente Luis Pérez,46,M,Surco,NA,2024-06-03,188.19
+P189,Paciente  Torres,44,NA,Callao,NA,2021-03-01,318.51
+P190,Paciente Maria Torres,28,F,Callao,NA,2020-01-20,451.84
+P191,Paciente Juan García,71,F,Cajamarca,NA,2022-02-18,215.55
+P192,Paciente Juan Pérez,89,M,La Molina,Cardiología,2020-06-15,382.81
+P193,Paciente  ,63,F,La Molina,Cardiología,2023-11-28,66.49
+P194,Paciente Ana García,80,NA,Miraflores,NA,2020-12-09,332.02
+P195,Paciente Luis Torres,41,F,Cajamarca,NA,2023-09-24,
+P196,Paciente Juan Torres,71,NA,Cajamarca,NA,2024-05-23,134.97
+P197,Paciente Ana García,85,F,Surco,Pediatría,2023-07-02,63.82
+P198,Paciente Luis ,68,M,Callao,Cardiología,2024-02-21,337.37
+P199,Paciente Ana García,81,M,San Isidro,NA,2023-04-22,356.52
+P200,Paciente Maria García,77,NA,Callao,NA,2022-10-15,259.02
+P201,Paciente Ana ,49,F,San Isidro,Dermatología,2023-05-02,124.27
+P202,Paciente Maria Torres,76,M,Callao,Dermatología,2020-03-11,389.92
+P203,Paciente Ana ,84,NA,Cajamarca,Odontología,2020-04-26,60.84
+P204,Paciente Juan ,66,M,Cajamarca,NA,2024-07-13,350.85
+P205,Paciente Ana Torres,28,M,Miraflores,Dermatología,2022-08-29,270.66
+P206,Paciente Juan Pérez,84,M,La Molina,Cardiología,2024-07-01,160.67
+P207,Paciente Luis ,4,M,Lince,Dermatología,2021-07-26,374.2
+P208,Paciente  Pérez,49,M,Callao,NA,2022-12-09,243.85
+P209,Paciente Maria García,10,F,Miraflores,Odontología,2024-02-13,124.55
+P210,Paciente  García,58,F,Callao,Dermatología,2020-02-22,426.82
+P211,Paciente Ana Torres,53,F,San Isidro,Pediatría,2022-04-24,199.3
+P212,Paciente Luis Pérez,9,NA,Surco,NA,2020-01-04,278.66
+P213,Paciente Maria Torres,62,NA,Surco,Dermatología,2021-08-08,383.21
+P214,Paciente Juan García,69,F,Callao,Pediatría,2022-05-20,168.67
+P215,Paciente Ana Torres,27,F,Surco,Cardiología,2024-08-12,190.07
+P216,Paciente Juan Pérez,51,NA,Miraflores,Cardiología,2024-03-06,391.65
+P217,Paciente Juan García,63,NA,La Molina,Cardiología,,409.77
+P218,Paciente Juan ,81,M,Callao,Cardiología,2023-10-10,353.89
+P219,Paciente Ana Torres,,NA,Surco,Dermatología,2020-01-11,120.21
+P220,Paciente Ana ,89,F,Cajamarca,NA,2023-12-20,424.7
+P221,Paciente Ana García,79,F,La Molina,Cardiología,2022-10-29,263.0
+P222,Paciente Juan Torres,50,F,Miraflores,Pediatría,2022-11-25,435.76
+P223,Paciente  ,12,NA,Callao,Cardiología,2020-11-02,312.02
+P224,Paciente Juan Torres,85,M,Cajamarca,Odontología,2020-02-11,272.89
+P225,Paciente Maria Torres,12,M,Lince,Dermatología,2021-12-10,87.3
+P226,Paciente  Torres,41,NA,Surco,Dermatología,,492.2
+P227,Paciente  García,34,M,Miraflores,Odontología,2023-04-11,402.45
+P228,Paciente Juan Pérez,82,M,Surco,Cardiología,2023-12-27,226.97
+P229,Paciente Maria Torres,29,NA,Cajamarca,Dermatología,2024-07-27,203.53
+P230,Paciente Juan García,29,F,Cajamarca,Cardiología,2022-11-16,100.89
+P231,Paciente Ana Torres,73,F,Cajamarca,Dermatología,2022-11-30,
+P232,Paciente Luis Torres,57,M,Lince,Cardiología,2021-11-08,175.14
+P233,Paciente Luis Torres,37,NA,Callao,NA,2022-02-03,346.25
+P234,Paciente Ana García,74,F,Surco,NA,2024-04-12,217.73
+P235,Paciente  García,39,NA,Surco,NA,2020-01-29,317.97
+P236,Paciente Ana Pérez,54,F,Cajamarca,Cardiología,2022-06-13,408.39
+P237,Paciente Juan García,37,NA,Surco,Pediatría,2022-05-26,257.7
+P238,Paciente Maria ,52,NA,Lince,NA,2022-06-29,
+P239,Paciente Ana García,39,NA,La Molina,Pediatría,2020-04-02,425.44
+P240,Paciente Juan Pérez,2,NA,Surco,Odontología,2022-12-25,470.53
+P241,Paciente Juan Torres,46,F,Cajamarca,Dermatología,2024-10-11,
+P242,Paciente Ana Torres,67,NA,San Isidro,Dermatología,2021-05-04,293.19
+P243,Paciente  García,84,F,Surco,Cardiología,2021-06-29,442.09
+P244,Paciente Maria García,,F,Cajamarca,Dermatología,2023-02-13,438.79
+P245,Paciente Ana ,10,F,Cajamarca,NA,2021-01-28,128.25
+P246,Paciente Luis ,26,NA,Miraflores,Odontología,2023-12-10,329.05
+P247,Paciente Ana Pérez,60,M,Surco,NA,2022-12-19,
+P248,Paciente Juan García,85,M,Surco,NA,2020-10-07,199.75
+P249,Paciente  Torres,38,M,Miraflores,Cardiología,2021-10-01,218.16
+P250,Paciente Ana Torres,2,M,Lince,NA,2021-09-28,240.1
+P251,Paciente Maria ,23,M,Callao,Pediatría,2022-08-01,322.26
+P252,Paciente Juan García,43,M,La Molina,Pediatría,2020-02-18,73.71
+P253,Paciente Maria Pérez,40,F,Cajamarca,Pediatría,2021-09-16,175.89
+P254,Paciente Maria García,2,F,San Isidro,Pediatría,2022-07-25,152.18
+P255,Paciente Ana García,43,M,Cajamarca,Cardiología,2023-03-12,453.13
+P256,Paciente Luis Torres,54,NA,La Molina,NA,2020-06-14,220.33
+P257,Paciente Juan García,23,NA,Callao,Pediatría,2022-08-07,376.41
+P258,Paciente Juan García,21,M,Cajamarca,Cardiología,2022-06-22,255.63
+P259,Paciente Juan García,19,F,San Isidro,Dermatología,2024-07-19,320.01
+P260,Paciente Ana ,30,M,Cajamarca,Cardiología,2022-10-09,363.55
+P261,Paciente Ana ,37,M,Surco,Odontología,2023-08-20,
+P262,Paciente Ana ,14,F,Callao,Odontología,2024-08-14,174.07
+P263,Paciente Juan Torres,77,NA,La Molina,Pediatría,2022-05-18,344.12
+P264,Paciente Juan ,50,F,La Molina,Cardiología,2020-11-13,398.74
+P265,Paciente  Pérez,27,F,Surco,NA,2024-01-01,402.39
+P266,Paciente Ana García,4,NA,La Molina,Odontología,2021-04-30,416.57
+P267,Paciente  Pérez,88,F,San Isidro,NA,2024-03-28,385.62
+P268,Paciente Juan ,66,M,Miraflores,Dermatología,2024-03-10,339.39
+P269,Paciente Maria García,35,M,Lince,NA,2022-07-25,185.16
+P270,Paciente  ,37,F,Miraflores,Pediatría,2020-09-17,472.37
+P271,Paciente Ana Torres,17,NA,Callao,Dermatología,2023-09-25,193.59
+P272,Paciente  García,61,NA,Cajamarca,NA,2024-05-30,64.28
+P273,Paciente Luis García,48,M,Surco,Pediatría,2021-08-05,168.27
+P274,Paciente Maria Torres,69,F,Callao,Odontología,2020-03-29,110.83
+P275,Paciente Maria ,66,NA,San Isidro,Cardiología,2020-02-11,243.03
+P276,Paciente  Pérez,6,F,Miraflores,Cardiología,2023-03-22,133.7
+P277,Paciente  García,4,M,Lince,Pediatría,2023-04-25,193.47
+P278,Paciente Juan Torres,4,F,Lince,Odontología,2022-12-26,228.96
+P279,Paciente Juan Torres,,F,Lince,NA,2021-08-22,110.65
+P280,Paciente  Pérez,46,NA,Lince,Dermatología,2020-07-26,326.45
+P281,Paciente Juan Pérez,46,F,San Isidro,Cardiología,2023-06-13,473.8
+P282,Paciente  Torres,12,NA,Lince,NA,2020-08-27,474.64
+P283,Paciente  ,58,M,La Molina,Pediatría,2024-02-13,154.12
+P284,Paciente  ,17,F,Surco,Cardiología,2024-04-18,108.11
+P285,Paciente  García,80,F,Lince,Dermatología,2023-01-23,90.85
+P286,Paciente Maria García,69,NA,Miraflores,NA,2024-09-12,359.66
+P287,Paciente Juan ,30,F,Surco,Cardiología,2020-04-03,364.97
+P288,Paciente Juan Pérez,55,M,San Isidro,Odontología,2022-12-13,215.36
+P289,Paciente  ,54,F,Cajamarca,Odontología,,309.05
+P290,Paciente  ,75,NA,La Molina,Dermatología,2022-01-17,100.39
+P291,Paciente  Pérez,43,M,San Isidro,Dermatología,2023-09-21,379.46
+P292,Paciente  García,4,NA,Miraflores,Pediatría,2021-07-28,199.91
+P293,Paciente Maria García,84,F,Lince,NA,2021-06-02,474.64
+P294,Paciente  García,20,F,Callao,Pediatría,2023-12-16,268.69
+P295,Paciente  García,19,F,Callao,Odontología,2021-09-08,434.09
+P296,Paciente Maria García,63,M,Lince,NA,2022-12-05,462.86
+P297,Paciente Ana Torres,69,F,Miraflores,Cardiología,2022-04-04,220.14
+P298,Paciente Ana Torres,46,F,Surco,Dermatología,2024-11-17,261.8
+P299,Paciente Luis Pérez,37,M,Surco,Pediatría,2022-08-07,242.47
+P300,Paciente Ana ,82,NA,Callao,Odontología,2021-04-03,484.75
+P301,Paciente Juan ,60,F,Callao,Odontología,2023-05-16,
+P302,Paciente  Torres,6,F,San Isidro,Odontología,2020-02-07,182.58
+P303,Paciente Maria ,3,NA,La Molina,Pediatría,2022-05-09,52.53
+P304,Paciente  García,76,F,Cajamarca,Odontología,2024-09-24,73.29
+P305,Paciente  Pérez,16,NA,Callao,Pediatría,2021-05-16,332.93
+P306,Paciente Luis García,50,NA,Callao,Pediatría,2022-07-18,354.29
+P307,Paciente Maria Torres,54,F,La Molina,NA,,459.83
+P308,Paciente Luis Pérez,56,F,Lince,NA,2020-01-22,195.67
+P309,Paciente Juan Torres,34,NA,Miraflores,Pediatría,,434.45
+P310,Paciente  Pérez,34,F,Cajamarca,Pediatría,2022-02-17,422.82
+P311,Paciente  Torres,,NA,Cajamarca,Cardiología,2023-03-20,456.6
+P312,Paciente  ,85,NA,Lince,Cardiología,2020-07-10,382.46
+P313,Paciente Juan Torres,52,M,Miraflores,NA,2023-03-17,172.65
+P314,Paciente Ana Torres,35,NA,San Isidro,NA,2022-11-13,491.12
+P315,Paciente Juan Torres,69,M,La Molina,Odontología,2024-04-01,379.45
+P316,Paciente Ana Pérez,8,F,La Molina,NA,2020-06-29,417.93
+P317,Paciente Juan García,63,F,La Molina,NA,2022-03-08,435.79
+P318,Paciente  ,,NA,Lince,Dermatología,2024-06-11,487.36
+P319,Paciente Luis ,26,F,Lince,Dermatología,2024-06-01,467.46
+P320,Paciente Luis Torres,45,M,San Isidro,Odontología,,371.6
+P321,Paciente  Pérez,67,M,Lince,NA,2024-11-08,448.28
+P322,Paciente Luis Torres,22,M,Callao,Odontología,2021-07-30,96.99
+P323,Paciente Juan García,11,M,Surco,Dermatología,2023-09-05,173.38
+P324,Paciente Juan Pérez,28,F,San Isidro,Pediatría,2024-07-18,
+P325,Paciente Maria Torres,8,NA,Surco,Cardiología,2024-02-18,328.52
+P326,Paciente  ,77,M,San Isidro,Odontología,2023-01-17,222.16
+P327,Paciente  ,87,F,San Isidro,Odontología,2022-12-11,189.33
+P328,Paciente  García,90,NA,Surco,Dermatología,2020-03-16,113.76
+P329,Paciente Luis Torres,,M,Callao,NA,2024-09-30,61.95
+P330,Paciente Juan ,29,NA,Callao,NA,2021-08-19,55.14
+P331,Paciente Maria Pérez,9,F,Callao,NA,2021-02-16,184.71
+P332,Paciente Juan García,84,NA,San Isidro,Cardiología,2024-04-07,259.85
+P333,Paciente  Pérez,74,M,Surco,NA,2020-12-21,100.41
+P334,Paciente  Torres,72,NA,Lince,Dermatología,2023-12-08,81.3
+P335,Paciente Luis García,44,NA,La Molina,Odontología,2023-08-31,115.89
+P336,Paciente Ana ,87,NA,Callao,Dermatología,2020-02-25,256.89
+P337,Paciente Luis ,12,NA,San Isidro,NA,2022-03-23,
+P338,Paciente Maria ,24,M,Miraflores,Dermatología,2021-10-28,391.88
+P339,Paciente  García,77,NA,Callao,Dermatología,2023-04-28,118.06
+P340,Paciente Juan Pérez,86,F,La Molina,Cardiología,2020-03-12,267.6
+P341,Paciente Juan Torres,,M,Miraflores,Pediatría,2020-11-03,196.83
+P342,Paciente  ,8,F,San Isidro,NA,2020-10-22,330.59
+P343,Paciente Luis ,,M,Callao,NA,2024-04-22,67.27
+P344,Paciente Ana Pérez,31,NA,San Isidro,Odontología,2023-02-26,68.2
+P345,Paciente Juan ,9,M,Miraflores,Cardiología,2021-07-29,425.78
+P346,Paciente Luis García,48,M,La Molina,Pediatría,2021-11-06,256.32
+P347,Paciente Maria García,79,M,Surco,Odontología,2022-12-22,107.19
+P348,Paciente Luis Torres,29,M,La Molina,NA,2022-11-08,94.38
+P349,Paciente Ana Torres,16,NA,San Isidro,Cardiología,2023-09-24,170.85
+P350,Paciente  Torres,11,NA,Lince,Pediatría,2024-04-06,211.6
+P351,Paciente  García,61,M,Miraflores,Cardiología,2021-04-21,236.56
+P352,Paciente Juan ,9,NA,Cajamarca,Cardiología,2021-09-23,
+P353,Paciente Maria ,60,M,Lince,Odontología,2020-12-27,
+P354,Paciente  García,35,F,Callao,Cardiología,2020-11-25,456.8
+P355,Paciente  Pérez,12,NA,San Isidro,Pediatría,2022-04-30,81.68
+P356,Paciente Luis ,70,M,Miraflores,Odontología,,
+P357,Paciente Luis Pérez,40,F,Miraflores,Pediatría,2021-09-19,467.9
+P358,Paciente Juan ,58,NA,La Molina,NA,2024-12-26,200.96
+P359,Paciente Ana ,78,F,Miraflores,Dermatología,2024-11-27,308.3
+P360,Paciente Ana Pérez,27,M,Callao,Pediatría,2020-03-13,267.61
+P361,Paciente  ,6,NA,San Isidro,NA,2024-09-08,344.85
+P362,Paciente Maria ,34,M,Callao,Odontología,2022-01-29,101.05
+P363,Paciente Juan ,82,M,Lince,Dermatología,2023-11-14,59.48
+P364,Paciente Maria ,28,NA,San Isidro,Pediatría,2021-02-17,191.99
+P365,Paciente Juan Pérez,51,NA,Callao,Cardiología,2021-08-17,347.37
+P366,Paciente Juan García,2,NA,Lince,Pediatría,2023-04-17,163.84
+P367,Paciente Juan Pérez,67,F,Callao,NA,2024-08-13,261.74
+P368,Paciente Luis García,9,NA,Surco,Pediatría,2020-09-01,424.59
+P369,Paciente Luis Pérez,42,M,Lince,Pediatría,2023-07-09,276.91
+P370,Paciente Maria Pérez,5,NA,La Molina,Dermatología,2024-08-07,142.91
+P371,Paciente Juan Torres,42,M,La Molina,Cardiología,2023-08-20,218.58
+P372,Paciente  Pérez,34,F,Callao,Cardiología,,165.58
+P373,Paciente  Pérez,9,M,La Molina,Pediatría,2020-03-26,132.09
+P374,Paciente Maria ,77,M,Miraflores,Dermatología,2023-03-26,169.88
+P375,Paciente Maria García,32,M,Lince,Dermatología,2020-05-23,303.36
+P376,Paciente Juan Pérez,72,NA,La Molina,NA,2020-06-27,483.29
+P377,Paciente Juan García,1,M,Lince,Pediatría,2024-09-02,450.09
+P378,Paciente Ana ,1,NA,San Isidro,Cardiología,2021-08-15,253.12
+P379,Paciente  Torres,3,M,Miraflores,Pediatría,2023-11-27,244.62
+P380,Paciente Ana Pérez,,F,Lince,Pediatría,2020-07-21,280.5
+P381,Paciente Juan ,33,F,Lince,Odontología,2023-03-10,317.55
+P382,Paciente  Pérez,82,NA,Miraflores,Dermatología,2023-01-28,459.78
+P383,Paciente Luis García,37,M,Miraflores,NA,2023-07-30,283.97
+P384,Paciente  García,80,NA,Surco,Pediatría,2021-06-16,107.89
+P385,Paciente Maria Pérez,46,NA,Lince,NA,2022-11-18,
+P386,Paciente  García,3,F,Surco,NA,2022-04-13,
+P387,Paciente Ana García,29,M,San Isidro,NA,2022-02-16,346.78
+P388,Paciente Juan García,66,F,Surco,Odontología,2022-05-25,478.85
+P389,Paciente Juan Torres,87,NA,Callao,Dermatología,2023-03-25,244.6
+P390,Paciente Ana García,5,NA,Lince,Cardiología,,118.16
+P391,Paciente Luis Pérez,48,F,Cajamarca,Cardiología,2024-09-28,354.01
+P392,Paciente Maria Pérez,90,NA,La Molina,Pediatría,2021-10-18,328.38
+P393,Paciente Maria ,41,F,Cajamarca,Odontología,2022-03-21,496.71
+P394,Paciente Maria García,32,NA,Lince,Dermatología,2022-04-28,351.32
+P395,Paciente Juan García,48,NA,Lince,Dermatología,2021-06-06,297.77
+P396,Paciente Maria Torres,28,F,Surco,Cardiología,2020-01-08,96.67
+P397,Paciente  Torres,32,F,Lince,Pediatría,2021-03-17,148.83
+P398,Paciente Maria Pérez,21,NA,San Isidro,NA,2021-05-30,482.47
+P399,Paciente Maria ,31,NA,La Molina,Odontología,2024-11-23,387.67
+P400,Paciente Juan García,43,F,Lince,Odontología,2022-04-26,190.74
+P401,Paciente Juan ,58,NA,Miraflores,Pediatría,2021-11-06,214.67
+P402,Paciente Ana Torres,,M,San Isidro,NA,2022-12-27,468.48
+P403,Paciente Ana Torres,49,F,La Molina,Cardiología,2020-12-16,252.08
+P404,Paciente Ana García,9,F,San Isidro,Odontología,2022-10-22,63.78
+P405,Paciente Maria Pérez,,NA,La Molina,NA,2021-06-13,367.46
+P406,Paciente  García,31,M,Callao,Odontología,2021-05-06,
+P407,Paciente Luis Torres,4,M,La Molina,Cardiología,2024-09-19,259.71
+P408,Paciente  García,65,M,San Isidro,Cardiología,2021-09-19,427.14
+P409,Paciente Luis Pérez,64,NA,Cajamarca,Odontología,2021-12-13,233.86
+P410,Paciente Juan ,26,F,Surco,NA,2021-03-14,120.5
+P411,Paciente Luis García,83,NA,Surco,NA,2023-10-19,140.66
+P412,Paciente Juan Torres,67,NA,Lince,NA,2023-01-10,217.68
+P413,Paciente Juan Torres,37,F,Cajamarca,Cardiología,2020-08-11,201.54
+P414,Paciente Juan ,30,NA,Callao,Dermatología,2020-08-12,
+P415,Paciente Ana ,,F,San Isidro,Odontología,2022-06-28,347.65
+P416,Paciente Luis Pérez,31,F,Callao,Cardiología,2021-01-14,200.09
+P417,Paciente Luis Pérez,7,F,San Isidro,Cardiología,2021-05-27,354.02
+P418,Paciente Juan García,14,F,Callao,NA,2023-12-22,96.42
+P419,Paciente Maria ,70,M,Cajamarca,Pediatría,2024-07-15,249.21
+P420,Paciente Maria Torres,85,M,Lince,Cardiología,2021-11-18,254.03
+P421,Paciente Maria García,22,M,Surco,Pediatría,2020-11-05,89.84
+P422,Paciente  García,77,F,Callao,Odontología,2020-11-14,366.87
+P423,Paciente Luis Torres,57,NA,Miraflores,NA,2023-07-02,119.69
+P424,Paciente Juan García,79,M,Miraflores,Dermatología,2023-09-04,
+P425,Paciente Luis Pérez,3,NA,Miraflores,NA,2020-11-14,362.57
+P426,Paciente Juan ,86,M,Surco,Dermatología,2020-05-10,82.98
+P427,Paciente Juan Pérez,51,F,Cajamarca,Dermatología,2022-10-22,346.29
+P428,Paciente Maria Torres,66,NA,Surco,NA,2021-04-07,288.2
+P429,Paciente Maria ,79,M,Callao,NA,2023-02-28,471.09
+P430,Paciente  García,26,NA,San Isidro,Cardiología,2020-02-26,55.98
+P431,Paciente Maria ,5,M,La Molina,Dermatología,2022-09-26,340.69
+P432,Paciente Juan Pérez,46,F,San Isidro,Pediatría,2024-04-10,289.96
+P433,Paciente Juan ,33,F,Miraflores,Cardiología,2021-06-17,352.07
+P434,Paciente Maria Pérez,65,M,La Molina,Pediatría,2020-09-11,388.86
+P435,Paciente Juan Pérez,36,NA,Miraflores,Pediatría,2024-05-27,104.34
+P436,Paciente  García,32,F,Cajamarca,Pediatría,2020-01-31,297.0
+P437,Paciente Juan Pérez,55,NA,San Isidro,Cardiología,2022-04-11,445.3
+P438,Paciente  Pérez,47,M,Lince,Odontología,2021-12-06,419.44
+P439,Paciente Juan García,27,NA,Surco,Dermatología,2023-12-28,137.0
+P440,Paciente Maria Torres,58,M,Surco,Cardiología,2020-06-27,327.61
+P441,Paciente Maria ,9,NA,Miraflores,Odontología,2021-05-29,197.8
+P442,Paciente  ,42,M,Surco,NA,2021-10-09,225.93
+P443,Paciente  García,2,F,Callao,NA,2022-11-04,389.87
+P444,Paciente Luis García,70,M,La Molina,NA,2023-07-14,52.38
+P445,Paciente Juan ,20,NA,Lince,Cardiología,2020-05-06,183.2
+P446,Paciente Juan García,58,F,Miraflores,Odontología,2021-07-17,211.87
+P447,Paciente  Pérez,33,M,Surco,NA,2022-02-16,386.75
+P448,Paciente Luis García,62,M,San Isidro,Odontología,2021-02-21,102.55
+P449,Paciente Luis ,55,NA,Lince,Dermatología,2020-11-06,166.15
+P450,Paciente Luis ,22,NA,La Molina,Dermatología,2020-06-21,60.24
+P451,Paciente  ,13,F,Callao,Cardiología,2020-03-05,117.39
+P452,Paciente Maria Pérez,36,NA,San Isidro,Odontología,2021-12-03,
+P453,Paciente Juan Torres,17,NA,San Isidro,Pediatría,,314.14
+P454,Paciente Ana García,81,M,Surco,NA,2023-05-11,97.49
+P455,Paciente Juan Torres,89,F,Callao,Pediatría,2020-12-01,410.98
+P456,Paciente Juan García,39,NA,San Isidro,Odontología,2023-02-25,348.2
+P457,Paciente Luis ,16,M,Cajamarca,NA,2022-06-29,198.49
+P458,Paciente Luis ,56,NA,Surco,NA,2024-01-08,470.01
+P459,Paciente  Pérez,29,M,Cajamarca,NA,2023-11-05,396.37
+P460,Paciente Juan García,8,F,Miraflores,Pediatría,2024-11-29,160.95
+P461,Paciente Ana ,17,F,Surco,Pediatría,2021-05-05,204.52
+P462,Paciente Juan Pérez,9,M,San Isidro,NA,2020-05-28,68.81
+P463,Paciente Maria Pérez,42,F,Miraflores,Odontología,2021-09-26,
+P464,Paciente Maria Pérez,12,M,Miraflores,Dermatología,2024-05-02,222.66
+P465,Paciente Luis Pérez,89,F,Cajamarca,Cardiología,2020-11-07,477.76
+P466,Paciente Ana Torres,26,NA,Miraflores,Pediatría,2023-10-22,
+P467,Paciente Maria Pérez,43,F,Miraflores,Pediatría,,177.56
+P468,Paciente Luis Pérez,16,M,San Isidro,Dermatología,2022-01-16,159.39
+P469,Paciente Ana Pérez,70,M,Callao,Odontología,2024-06-11,313.94
+P470,Paciente  García,60,M,Cajamarca,NA,2023-04-04,375.76
+P471,Paciente Ana Pérez,,NA,Cajamarca,Dermatología,2022-09-10,261.76
+P472,Paciente Maria García,32,M,Cajamarca,NA,2023-10-15,420.61
+P473,Paciente Ana Pérez,,M,La Molina,Pediatría,2021-05-29,330.74
+P474,Paciente  García,79,M,San Isidro,Pediatría,2022-07-19,189.91
+P475,Paciente  Torres,24,NA,La Molina,Odontología,2021-12-27,190.73
+P476,Paciente Ana Torres,82,F,San Isidro,Cardiología,2024-04-09,404.54
+P477,Paciente Luis Pérez,66,NA,Cajamarca,Odontología,2020-12-18,267.68
+P478,Paciente Ana García,81,F,San Isidro,Cardiología,2023-05-29,91.42
+P479,Paciente Luis García,49,NA,Miraflores,Dermatología,2023-10-19,339.92
+P480,Paciente Maria ,,M,San Isidro,NA,2022-10-03,399.29
+P481,Paciente  Pérez,25,F,Lince,Pediatría,,58.98
+P482,Paciente  García,87,F,San Isidro,Pediatría,2021-06-15,457.71
+P483,Paciente Luis Torres,8,NA,Miraflores,Cardiología,2021-08-21,290.83
+P484,Paciente Maria ,59,F,Lince,Cardiología,2024-08-10,304.22
+P485,Paciente Luis García,38,F,Cajamarca,NA,2022-05-23,369.78
+P486,Paciente  ,,F,San Isidro,Odontología,2024-07-16,236.09
+P487,Paciente Ana ,23,M,San Isidro,Cardiología,2021-04-10,476.36
+P488,Paciente Ana Torres,76,M,San Isidro,Cardiología,2023-10-23,108.72
+P489,Paciente Luis Torres,10,F,Cajamarca,Odontología,2023-09-03,
+P490,Paciente Juan ,24,M,Surco,NA,2022-05-14,387.41
+P491,Paciente Ana Torres,89,NA,Cajamarca,NA,2024-11-15,95.87
+P492,Paciente Luis Pérez,7,NA,Lince,NA,2022-01-02,89.18
+P493,Paciente Luis ,87,F,Cajamarca,Dermatología,2022-07-21,276.93
+P494,Paciente Ana Torres,50,F,Surco,Pediatría,2021-07-02,79.9
+P495,Paciente Luis García,11,M,Cajamarca,Odontología,2020-10-12,262.44
+P496,Paciente  Torres,6,NA,Surco,NA,2024-09-29,
+P497,Paciente  Torres,36,NA,Cajamarca,Dermatología,2022-03-17,371.52
+P498,Paciente Ana ,7,NA,Callao,Odontología,,236.62
+P499,Paciente Luis Torres,35,F,Lince,Odontología,2023-01-09,475.23
+P500,Paciente Maria Torres,11,M,Lince,Odontología,2021-03-19,298.67
+P501,Paciente Ana Pérez,1,NA,Lince,Pediatría,2021-08-22,429.45
+P502,Paciente  ,,F,Surco,Odontología,2024-07-29,137.9
+P503,Paciente Ana García,1,F,Cajamarca,NA,2020-12-15,471.62
+P504,Paciente Maria ,3,M,Cajamarca,Cardiología,2022-01-15,147.58
+P505,Paciente Ana Pérez,24,NA,Miraflores,Dermatología,2022-09-01,234.05
+P506,Paciente  Torres,83,F,Lince,Cardiología,2022-01-10,177.79
+P507,Paciente  García,66,F,Miraflores,NA,2024-12-03,191.19
+P508,Paciente Juan García,,M,Miraflores,Cardiología,2020-05-29,331.12
+P509,Paciente Luis Torres,39,F,San Isidro,Odontología,2023-09-24,393.01
+P510,Paciente Luis ,49,F,La Molina,Dermatología,2023-09-29,145.14
+P511,Paciente Luis Torres,49,F,Cajamarca,Odontología,2024-08-10,470.27
+P512,Paciente  García,25,M,La Molina,Cardiología,2024-10-30,414.95
+P513,Paciente  Torres,18,F,La Molina,Cardiología,2023-10-04,340.13
+P514,Paciente Juan García,8,F,Callao,Pediatría,2024-09-19,112.92
+P515,Paciente  Torres,25,NA,Surco,Pediatría,2023-11-27,184.53
+P516,Paciente Ana García,6,F,San Isidro,Dermatología,2021-09-01,482.22
+P517,Paciente Luis ,88,M,Cajamarca,Cardiología,2020-06-18,362.1
+P518,Paciente Ana Pérez,13,F,Callao,Cardiología,2020-05-23,294.04
+P519,Paciente Maria García,35,NA,La Molina,Odontología,2024-03-24,393.7
+P520,Paciente  Pérez,43,M,San Isidro,Pediatría,2022-03-01,281.8
+P521,Paciente Ana ,,F,La Molina,Odontología,2021-05-31,127.3
+P522,Paciente Luis García,1,NA,San Isidro,NA,2023-10-09,481.0
+P523,Paciente Ana Torres,2,M,Miraflores,NA,2021-10-15,206.71
+P524,Paciente Ana ,47,NA,Surco,Dermatología,2020-07-25,250.21
+P525,Paciente Ana Pérez,48,M,Callao,Pediatría,2024-09-13,409.64
+P526,Paciente Luis Torres,22,NA,San Isidro,Dermatología,2022-12-29,307.08
+P527,Paciente Maria Pérez,,F,Surco,Odontología,2020-10-01,389.08
+P528,Paciente Juan Torres,24,M,San Isidro,Odontología,2022-08-14,232.53
+P529,Paciente Luis García,6,NA,San Isidro,Odontología,2024-03-24,400.28
+P530,Paciente Luis García,61,NA,Miraflores,Dermatología,2021-05-27,366.01
+P531,Paciente Maria Pérez,37,NA,San Isidro,Dermatología,2021-10-02,269.15
+P532,Paciente Maria Torres,49,F,San Isidro,Cardiología,2023-11-28,128.88
+P533,Paciente  Torres,59,NA,Miraflores,NA,,454.39
+P534,Paciente  Pérez,15,M,Cajamarca,Cardiología,2021-05-31,492.56
+P535,Paciente Juan Torres,45,NA,La Molina,Odontología,2024-09-01,207.01
+P536,Paciente Luis García,21,M,La Molina,Dermatología,2024-09-17,193.22
+P537,Paciente Luis ,18,F,Lince,Cardiología,2024-05-22,164.21
+P538,Paciente Maria ,53,M,Cajamarca,Pediatría,2022-06-09,69.25
+P539,Paciente Juan García,63,F,Lince,Dermatología,2022-07-31,476.52
+P540,Paciente Ana ,50,M,Cajamarca,Dermatología,2024-07-25,212.52
+P541,Paciente Maria ,80,F,Callao,Cardiología,2021-07-09,378.56
+P542,Paciente  Pérez,37,F,San Isidro,Dermatología,2024-03-08,113.77
+P543,Paciente Ana ,73,NA,San Isidro,Cardiología,2021-10-18,181.47
+P544,Paciente  Torres,64,M,La Molina,Dermatología,2024-01-18,236.4
+P545,Paciente Luis Pérez,66,F,Lince,NA,2023-05-01,299.73
+P546,Paciente Maria Torres,88,NA,Cajamarca,NA,2020-12-03,102.32
+P547,Paciente Ana ,15,M,San Isidro,Odontología,2022-07-23,260.22
+P548,Paciente Ana García,74,M,Lince,Odontología,2024-03-10,476.77
+P549,Paciente Juan Torres,45,NA,San Isidro,Cardiología,2021-05-24,336.31
+P550,Paciente Luis García,78,F,Cajamarca,Cardiología,2024-07-23,404.84
+P551,Paciente Juan García,3,NA,Lince,NA,2020-12-30,180.4
+P552,Paciente Luis Torres,37,F,San Isidro,Dermatología,2021-09-25,174.78
+P553,Paciente  Torres,45,NA,La Molina,Dermatología,2023-05-08,336.87
+P554,Paciente  Torres,3,F,Cajamarca,Odontología,2021-06-26,456.49
+P555,Paciente Maria Pérez,33,F,La Molina,Pediatría,2020-02-29,226.21
+P556,Paciente Luis ,77,NA,Lince,Odontología,2022-08-07,165.23
+P557,Paciente Luis Torres,77,M,Miraflores,Odontología,,205.87
+P558,Paciente Juan Pérez,24,NA,Callao,Cardiología,2022-05-28,463.46
+P559,Paciente Luis García,46,M,Miraflores,Pediatría,2024-11-27,67.5
+P560,Paciente Juan ,44,NA,Lince,Cardiología,2024-07-14,349.64
+P561,Paciente Ana ,84,F,Miraflores,Odontología,,78.45
+P562,Paciente Ana Pérez,51,M,La Molina,Dermatología,2021-04-12,371.22
+P563,Paciente Juan Pérez,,F,Callao,Cardiología,2022-10-02,51.68
+P564,Paciente  Pérez,24,M,Lince,Odontología,2020-08-03,152.53
+P565,Paciente Maria ,15,M,Lince,Odontología,2022-10-14,496.13
+P566,Paciente Maria García,62,M,Lince,Pediatría,2020-09-30,498.33
+P567,Paciente Ana García,86,F,La Molina,Cardiología,2020-01-28,91.61
+P568,Paciente Juan Torres,65,NA,Surco,Odontología,2020-05-22,200.79
+P569,Paciente Luis Pérez,54,F,La Molina,Dermatología,2022-03-05,206.46
+P570,Paciente  Pérez,1,M,San Isidro,NA,2024-03-22,
+P571,Paciente Luis ,36,NA,Callao,NA,2023-10-21,71.86
+P572,Paciente Luis Pérez,82,M,Miraflores,Pediatría,2020-09-16,296.26
+P573,Paciente Maria ,33,M,Lince,Odontología,2024-09-20,253.26
+P574,Paciente Maria Pérez,16,NA,Callao,NA,2022-05-09,366.41
+P575,Paciente Maria Torres,16,M,San Isidro,Cardiología,2020-03-11,483.33
+P576,Paciente  ,73,F,Lince,NA,2022-09-12,229.16
+P577,Paciente Luis García,20,F,Callao,Cardiología,2024-10-21,345.43
+P578,Paciente Juan Pérez,8,M,Callao,Pediatría,2024-12-01,171.14
+P579,Paciente Ana ,13,F,Cajamarca,Cardiología,,249.61
+P580,Paciente  Pérez,48,M,Lince,Pediatría,2024-06-29,195.28
+P581,Paciente Luis Pérez,72,F,Callao,NA,2022-05-11,428.09
+P582,Paciente Maria Torres,56,NA,San Isidro,NA,2022-06-28,276.81
+P583,Paciente Ana García,24,F,San Isidro,Odontología,2023-03-19,175.74
+P584,Paciente Ana ,22,F,Lince,Dermatología,2020-02-28,52.43
+P585,Paciente Juan Torres,24,M,Lince,Dermatología,2024-01-05,141.54
+P586,Paciente Ana Pérez,80,NA,Callao,Pediatría,2022-12-02,94.96
+P587,Paciente Ana García,81,NA,La Molina,NA,2021-06-11,223.47
+P588,Paciente  ,83,NA,San Isidro,Cardiología,2020-07-26,236.85
+P589,Paciente  Torres,56,NA,Cajamarca,Pediatría,2023-08-19,
+P590,Paciente Luis García,80,F,Surco,NA,2022-06-06,474.8
+P591,Paciente Maria Torres,71,M,La Molina,Pediatría,2020-03-07,
+P592,Paciente Luis Pérez,35,M,Surco,Pediatría,2023-07-01,191.09
+P593,Paciente Luis Pérez,19,M,Miraflores,Pediatría,2020-07-18,52.92
+P594,Paciente  Pérez,74,F,Surco,Pediatría,2020-07-11,378.27
+P595,Paciente Juan Torres,25,M,La Molina,Cardiología,2022-01-29,65.19
+P596,Paciente  Pérez,16,M,La Molina,Cardiología,2022-11-30,126.55
+P597,Paciente Juan Torres,52,F,Cajamarca,Pediatría,2023-05-05,92.68
+P598,Paciente Ana García,65,M,Callao,Pediatría,2023-07-31,181.28
+P599,Paciente  García,81,M,Miraflores,Dermatología,2022-05-06,399.8
+P600,Paciente Luis ,48,M,La Molina,Cardiología,,192.49
+P601,Paciente Luis Pérez,27,F,San Isidro,NA,2023-08-26,197.58
+P602,Paciente Maria Pérez,24,NA,Surco,Cardiología,2023-02-06,55.47
+P603,Paciente Ana ,29,NA,Lince,Dermatología,2023-01-12,369.0
+P604,Paciente Luis Pérez,50,NA,Lince,Cardiología,2020-04-07,270.26
+P605,Paciente Maria Pérez,33,F,Lince,Pediatría,2020-02-29,301.55
+P606,Paciente Ana García,76,M,San Isidro,Odontología,2020-09-02,189.44
+P607,Paciente Maria Torres,88,F,San Isidro,Odontología,2023-07-24,155.54
+P608,Paciente Juan ,6,NA,San Isidro,Dermatología,2021-08-14,186.65
+P609,Paciente Maria Pérez,13,M,Surco,Pediatría,2020-12-28,419.17
+P610,Paciente  ,28,M,Miraflores,Pediatría,2024-02-27,308.35
+P611,Paciente  García,,NA,Cajamarca,Odontología,2022-06-21,426.82
+P612,Paciente  ,83,NA,Lince,Dermatología,2023-11-28,100.31
+P613,Paciente Luis Pérez,90,NA,Miraflores,Dermatología,2021-06-03,220.46
+P614,Paciente Maria Pérez,57,F,San Isidro,Dermatología,2022-05-04,436.59
+P615,Paciente Juan ,73,M,Miraflores,Odontología,2022-01-21,275.62
+P616,Paciente Maria García,22,M,Surco,NA,2021-06-26,254.12
+P617,Paciente Luis García,80,NA,Cajamarca,Cardiología,2023-07-12,126.48
+P618,Paciente Juan García,37,NA,Miraflores,Pediatría,2023-09-02,481.16
+P619,Paciente  ,9,NA,Cajamarca,Cardiología,2020-09-07,335.94
+P620,Paciente Luis ,46,NA,Surco,Odontología,2020-02-08,116.89
+P621,Paciente Ana García,4,F,San Isidro,Pediatría,2020-02-09,394.97
+P622,Paciente  García,79,NA,Lince,Odontología,2022-02-12,196.85
+P623,Paciente Maria Pérez,79,F,Surco,NA,2020-05-16,428.05
+P624,Paciente Luis García,60,M,La Molina,NA,2021-11-25,418.3
+P625,Paciente Ana Pérez,,M,Surco,Dermatología,2020-05-27,170.11
+P626,Paciente  ,50,F,Miraflores,Cardiología,2021-04-16,222.35
+P627,Paciente Juan Pérez,29,NA,Callao,Dermatología,2020-08-27,95.04
+P628,Paciente Ana García,74,M,Callao,NA,2024-04-11,
+P629,Paciente Ana Torres,3,NA,San Isidro,Odontología,2023-10-28,145.8
+P630,Paciente Juan ,28,M,La Molina,Odontología,2024-10-04,399.27
+P631,Paciente Maria García,31,NA,Cajamarca,Pediatría,2022-04-28,302.79
+P632,Paciente  García,38,F,Lince,Pediatría,2024-03-19,96.78
+P633,Paciente Juan ,21,NA,San Isidro,Cardiología,2020-03-15,103.64
+P634,Paciente Maria Torres,32,F,Surco,Cardiología,2022-05-27,412.04
+P635,Paciente Juan ,57,NA,Lince,NA,2022-07-05,390.35
+P636,Paciente Maria García,55,M,Callao,NA,2023-02-12,453.83
+P637,Paciente  García,70,M,La Molina,Odontología,2023-09-18,499.75
+P638,Paciente Luis García,13,F,Surco,Dermatología,2023-10-08,71.9
+P639,Paciente  ,,NA,Miraflores,Pediatría,2022-05-02,410.28
+P640,Paciente Ana Torres,85,F,La Molina,NA,2023-12-13,
+P641,Paciente Juan Pérez,29,M,Lince,NA,2022-07-13,135.19
+P642,Paciente  Torres,,F,La Molina,Pediatría,2020-03-01,68.55
+P643,Paciente Ana Pérez,80,NA,Surco,Odontología,2024-06-16,205.14
+P644,Paciente Juan Torres,62,F,Lince,Odontología,2020-04-25,128.99
+P645,Paciente Maria García,61,NA,Miraflores,Odontología,2020-02-25,134.5
+P646,Paciente Ana Torres,56,M,Callao,Dermatología,2022-12-20,448.37
+P647,Paciente Juan Pérez,21,M,Surco,Odontología,2021-04-06,306.44
+P648,Paciente Juan ,29,F,La Molina,NA,2022-07-13,499.78
+P649,Paciente Ana ,82,F,Lince,Odontología,2022-04-14,287.71
+P650,Paciente  García,59,F,Surco,Dermatología,2023-02-28,450.0
+P651,Paciente  García,78,NA,La Molina,Cardiología,,171.81
+P652,Paciente Maria Pérez,2,F,San Isidro,Odontología,2023-06-20,112.97
+P653,Paciente Ana Torres,63,M,Miraflores,NA,2024-09-27,377.97
+P654,Paciente Ana ,39,NA,Miraflores,Pediatría,2020-07-09,183.54
+P655,Paciente Ana Torres,34,M,San Isidro,NA,2021-02-13,341.66
+P656,Paciente Luis Pérez,15,M,Miraflores,Odontología,2020-09-15,318.09
+P657,Paciente Luis Pérez,47,NA,Cajamarca,Odontología,,172.39
+P658,Paciente Juan Pérez,15,M,Miraflores,NA,2023-12-27,397.09
+P659,Paciente Ana Torres,44,M,Lince,Dermatología,2022-11-11,231.18
+P660,Paciente  García,53,F,Callao,Cardiología,2020-05-07,466.96
+P661,Paciente Luis García,77,F,Miraflores,Cardiología,2020-08-04,234.21
+P662,Paciente Ana ,40,NA,San Isidro,Cardiología,2020-12-21,356.66
+P663,Paciente Maria ,8,F,Lince,Cardiología,2021-08-15,482.16
+P664,Paciente Juan Pérez,48,M,Callao,Odontología,2021-01-28,215.27
+P665,Paciente Juan García,50,NA,Callao,Cardiología,2023-05-06,242.92
+P666,Paciente Juan Pérez,14,M,Lince,Odontología,2022-04-25,165.61
+P667,Paciente Luis Torres,64,F,Cajamarca,Pediatría,2020-07-30,219.08
+P668,Paciente Luis Pérez,10,NA,Surco,Cardiología,2021-11-28,217.15
+P669,Paciente Luis Torres,55,F,Surco,Odontología,2023-04-29,379.95
+P670,Paciente Luis García,41,NA,Miraflores,NA,2021-05-03,95.58
+P671,Paciente  ,69,F,La Molina,Dermatología,2022-08-05,481.06
+P672,Paciente Maria ,56,M,Lince,NA,2024-12-03,248.84
+P673,Paciente  Torres,24,M,Callao,NA,2020-12-19,246.94
+P674,Paciente  Torres,79,F,La Molina,Pediatría,2021-10-23,302.55
+P675,Paciente  García,83,M,San Isidro,Pediatría,2023-10-03,299.97
+P676,Paciente Luis Pérez,44,M,La Molina,Odontología,2022-04-18,176.94
+P677,Paciente Juan ,7,M,Cajamarca,Pediatría,2023-10-02,255.3
+P678,Paciente  Pérez,22,NA,La Molina,Dermatología,2022-11-06,188.93
+P679,Paciente Juan ,52,F,San Isidro,Dermatología,2023-02-22,82.72
+P680,Paciente Juan ,44,F,Cajamarca,Odontología,2020-12-19,77.92
+P681,Paciente Maria ,70,M,San Isidro,Cardiología,2022-08-28,280.08
+P682,Paciente  Torres,11,NA,San Isidro,Cardiología,2023-05-20,
+P683,Paciente  Torres,69,NA,Surco,Cardiología,,197.3
+P684,Paciente Juan García,44,F,Miraflores,NA,2022-09-03,248.52
+P685,Paciente Maria Torres,48,M,Surco,Dermatología,,363.75
+P686,Paciente Ana García,15,F,Callao,NA,2024-02-11,313.39
+P687,Paciente Juan Pérez,34,NA,San Isidro,Pediatría,2021-07-07,439.67
+P688,Paciente Luis ,71,F,La Molina,NA,2024-11-17,351.99
+P689,Paciente Juan Pérez,38,M,Lince,NA,2023-12-02,221.66
+P690,Paciente Maria ,16,M,Surco,Pediatría,2024-05-02,442.34
+P691,Paciente Luis Torres,44,NA,La Molina,Odontología,2021-03-24,231.54
+P692,Paciente Maria Torres,36,NA,La Molina,Pediatría,2023-04-09,245.68
+P693,Paciente Maria García,86,NA,Surco,Pediatría,2020-07-27,351.39
+P694,Paciente  ,79,NA,Surco,Pediatría,2023-02-25,94.46
+P695,Paciente Juan Pérez,88,NA,La Molina,Odontología,2022-09-25,156.87
+P696,Paciente  García,14,M,Surco,Odontología,2020-01-20,425.9
+P697,Paciente Juan García,,NA,San Isidro,Dermatología,2021-03-07,80.4
+P698,Paciente Ana García,,F,San Isidro,NA,2022-01-17,482.56
+P699,Paciente Maria Torres,22,NA,Miraflores,Dermatología,2023-05-22,83.16
+P700,Paciente  Torres,5,M,San Isidro,Odontología,,448.96
+P701,Paciente Maria Pérez,76,M,San Isidro,Pediatría,2024-01-01,259.82
+P702,Paciente Ana García,39,M,Callao,Odontología,2020-10-25,181.86
+P703,Paciente Maria García,69,NA,Lince,NA,2024-07-04,333.51
+P704,Paciente Juan Torres,30,F,Cajamarca,Cardiología,2024-09-06,197.8
+P705,Paciente Maria Torres,84,M,Callao,Cardiología,2023-11-03,360.03
+P706,Paciente  ,15,M,Cajamarca,Dermatología,2023-09-11,149.42
+P707,Paciente  ,47,M,La Molina,NA,2023-08-20,127.41
+P708,Paciente Juan García,47,NA,Miraflores,Pediatría,2020-03-09,279.36
+P709,Paciente  ,85,M,Lince,Dermatología,2023-04-17,56.5
+P710,Paciente Ana Pérez,75,M,Surco,Dermatología,2021-02-03,392.47
+P711,Paciente Luis Pérez,65,NA,Miraflores,NA,2021-03-01,321.02
+P712,Paciente Luis García,58,NA,Surco,Cardiología,2023-06-23,324.87
+P713,Paciente Juan ,,F,Lince,Odontología,2024-11-18,167.63
+P714,Paciente  Pérez,3,M,Callao,Odontología,2022-06-10,426.35
+P715,Paciente Luis García,77,NA,Callao,Pediatría,2024-03-20,163.42
+P716,Paciente Maria Torres,27,M,San Isidro,Pediatría,2020-12-01,258.94
+P717,Paciente Ana ,5,NA,Callao,Dermatología,2023-02-05,372.62
+P718,Paciente Juan Pérez,52,NA,Cajamarca,Dermatología,2022-12-27,254.53
+P719,Paciente Ana García,,F,Cajamarca,Odontología,2021-08-17,413.74
+P720,Paciente Luis ,77,F,La Molina,Odontología,2020-09-11,378.47
+P721,Paciente Maria ,,M,Lince,Dermatología,2020-07-28,129.19
+P722,Paciente Ana Torres,84,NA,La Molina,Odontología,,146.76
+P723,Paciente Maria ,65,F,Surco,Cardiología,2022-07-01,372.64
+P724,Paciente Juan Pérez,84,M,Callao,NA,2021-09-20,236.79
+P725,Paciente Luis Pérez,34,NA,San Isidro,Cardiología,2024-02-29,305.84
+P726,Paciente  Torres,74,F,Cajamarca,Dermatología,2020-02-11,330.37
+P727,Paciente Maria Pérez,70,M,Lince,Dermatología,2022-07-12,466.56
+P728,Paciente Luis Pérez,62,F,San Isidro,Dermatología,2020-08-24,61.65
+P729,Paciente Juan ,11,M,San Isidro,Cardiología,2020-03-20,413.13
+P730,Paciente Luis ,53,F,San Isidro,Pediatría,2022-11-27,266.91
+P731,Paciente  Torres,55,F,La Molina,NA,2020-06-26,79.01
+P732,Paciente  Torres,47,M,Callao,NA,2022-07-12,427.55
+P733,Paciente  García,76,NA,Surco,Odontología,2020-03-09,202.78
+P734,Paciente Luis García,74,M,Callao,Odontología,2024-08-16,434.16
+P735,Paciente  ,17,F,Callao,Odontología,2022-07-20,121.57
+P736,Paciente Luis García,20,M,Lince,Pediatría,2024-03-29,261.08
+P737,Paciente Luis García,50,NA,La Molina,Odontología,2021-12-08,337.38
+P738,Paciente Maria Torres,17,F,Callao,Odontología,2022-09-26,128.57
+P739,Paciente Maria ,38,NA,Miraflores,Cardiología,2023-04-22,179.57
+P740,Paciente Juan Torres,37,F,San Isidro,Dermatología,2022-01-01,
+P741,Paciente Luis García,42,F,Cajamarca,Cardiología,2020-06-05,368.26
+P742,Paciente Ana Torres,46,NA,San Isidro,Cardiología,2020-05-16,408.67
+P743,Paciente Ana Pérez,10,M,Lince,Odontología,2021-06-29,425.97
+P744,Paciente Ana García,62,M,Cajamarca,Dermatología,2024-12-29,75.83
+P745,Paciente Juan Pérez,6,M,La Molina,NA,2023-07-25,450.71
+P746,Paciente Luis Torres,7,M,Surco,Pediatría,2021-05-31,194.28
+P747,Paciente Juan Pérez,54,M,Callao,Odontología,2024-01-14,229.91
+P748,Paciente Maria Torres,1,F,Surco,NA,2020-11-05,237.37
+P749,Paciente Luis García,49,F,Surco,Pediatría,2020-06-29,406.56
+P750,Paciente Juan ,56,NA,San Isidro,Dermatología,2021-12-16,392.67
+P751,Paciente Maria Pérez,22,F,San Isidro,Cardiología,2023-08-24,355.31
+P752,Paciente Maria ,56,NA,Cajamarca,Cardiología,2023-02-17,257.43
+P753,Paciente Maria Pérez,28,M,Cajamarca,Odontología,2021-08-11,245.59
+P754,Paciente Luis García,10,F,Miraflores,Dermatología,2021-05-15,347.71
+P755,Paciente  Torres,44,M,Surco,Cardiología,2021-07-18,140.89
+P756,Paciente Juan Torres,25,M,Surco,Pediatría,2020-09-30,202.37
+P757,Paciente Luis García,42,F,Surco,Cardiología,2021-06-10,416.32
+P758,Paciente  ,62,F,Lince,Pediatría,2021-01-27,495.2
+P759,Paciente Maria Torres,73,M,San Isidro,Pediatría,2023-08-22,129.86
+P760,Paciente Luis García,89,M,San Isidro,NA,2021-05-01,492.63
+P761,Paciente  Pérez,80,M,Miraflores,Odontología,2023-02-28,450.32
+P762,Paciente Maria Torres,43,M,Cajamarca,NA,2024-04-12,360.95
+P763,Paciente Luis ,18,M,Surco,Dermatología,2024-02-21,400.54
+P764,Paciente Maria Torres,15,NA,Cajamarca,Pediatría,2024-12-21,154.64
+P765,Paciente Juan Pérez,49,NA,La Molina,Pediatría,2024-10-29,96.11
+P766,Paciente  García,48,M,San Isidro,Odontología,2024-04-19,93.17
+P767,Paciente  Pérez,42,NA,Lince,Dermatología,2020-05-24,473.83
+P768,Paciente  Torres,1,NA,La Molina,Odontología,2021-04-13,429.79
+P769,Paciente Luis Torres,86,M,Cajamarca,Dermatología,2022-05-26,287.65
+P770,Paciente Juan García,82,NA,Cajamarca,Cardiología,2023-10-07,400.78
+P771,Paciente Maria ,65,F,Surco,Dermatología,2021-02-17,308.17
+P772,Paciente Juan Torres,38,M,Miraflores,Odontología,2024-02-28,422.11
+P773,Paciente  Torres,64,M,Cajamarca,Pediatría,2024-09-07,111.22
+P774,Paciente Juan ,36,M,Miraflores,Cardiología,2023-06-08,66.08
+P775,Paciente  ,30,NA,Lince,Cardiología,2024-04-26,164.21
+P776,Paciente Juan Torres,6,NA,Cajamarca,Dermatología,2023-03-30,456.1
+P777,Paciente Luis Pérez,33,NA,La Molina,Dermatología,2022-09-23,
+P778,Paciente Maria Pérez,65,M,Cajamarca,Cardiología,2021-04-10,
+P779,Paciente Juan García,74,M,Miraflores,Dermatología,2020-03-25,145.1
+P780,Paciente Maria García,40,M,Lince,Cardiología,2020-11-18,111.56
+P781,Paciente Luis Pérez,21,F,Lince,Odontología,,242.72
+P782,Paciente  ,79,M,Miraflores,Odontología,2022-11-26,226.67
+P783,Paciente Juan ,17,F,Surco,Odontología,,398.2
+P784,Paciente Luis García,53,M,La Molina,NA,2024-01-11,161.44
+P785,Paciente  Pérez,45,NA,Cajamarca,NA,2022-04-10,
+P786,Paciente Maria García,46,M,San Isidro,NA,2020-11-02,481.5
+P787,Paciente  Torres,2,F,Cajamarca,Cardiología,2021-08-12,399.57
+P788,Paciente Juan Pérez,47,NA,Lince,Odontología,2020-04-06,129.37
+P789,Paciente Juan García,73,NA,Lince,Cardiología,2021-11-29,63.55
+P790,Paciente Luis García,88,NA,Lince,Pediatría,2024-04-18,
+P791,Paciente Juan García,47,F,Cajamarca,Cardiología,2021-06-28,198.01
+P792,Paciente Ana Torres,83,F,Surco,NA,2024-07-21,175.54
+P793,Paciente Juan García,42,NA,Surco,NA,2021-08-29,377.32
+P794,Paciente Maria García,53,NA,Lince,Dermatología,2020-09-16,97.83
+P795,Paciente Ana ,75,F,Miraflores,NA,2021-05-09,214.64
+P796,Paciente Ana Torres,12,M,San Isidro,Dermatología,2022-06-22,
+P797,Paciente Juan Torres,79,NA,Miraflores,Odontología,2023-05-29,207.76
+P798,Paciente Ana Torres,73,M,La Molina,Cardiología,2022-09-16,458.9
+P799,Paciente  ,22,M,Lince,Cardiología,2022-08-24,486.09
+P800,Paciente  ,41,NA,Surco,Dermatología,2020-04-19,
+P801,Paciente Ana García,62,M,Surco,Dermatología,2024-08-05,251.24
+P802,Paciente Ana ,53,M,Lince,Odontología,2023-07-28,158.97
+P803,Paciente Luis ,58,M,Lince,Dermatología,2021-05-14,61.05
+P804,Paciente Ana García,48,NA,Miraflores,Cardiología,2022-05-07,174.47
+P805,Paciente Maria ,55,F,Lince,Dermatología,,188.75
+P806,Paciente Luis García,26,NA,Lince,Dermatología,2022-02-27,160.17
+P807,Paciente Juan García,4,F,San Isidro,Pediatría,2020-07-21,52.64
+P808,Paciente Luis Torres,86,F,Lince,Pediatría,2022-09-12,431.43
+P809,Paciente Maria ,88,F,Callao,Odontología,2021-02-21,132.82
+P810,Paciente  Pérez,40,F,Cajamarca,Odontología,2023-12-10,327.58
+P811,Paciente  Pérez,79,M,Surco,Cardiología,2024-10-29,349.66
+P812,Paciente Maria ,83,NA,La Molina,Odontología,2020-05-25,200.33
+P813,Paciente Maria García,10,M,Miraflores,NA,2022-10-24,270.42
+P814,Paciente Luis Torres,8,F,Cajamarca,Odontología,2023-10-28,
+P815,Paciente Ana García,81,F,Miraflores,Odontología,2022-10-21,314.66
+P816,Paciente Ana García,30,M,Miraflores,Pediatría,,479.32
+P817,Paciente Maria Pérez,33,M,Miraflores,Odontología,2020-06-21,272.02
+P818,Paciente Ana García,83,M,Miraflores,Odontología,2020-01-31,331.29
+P819,Paciente  ,50,NA,Callao,Cardiología,2022-07-10,400.35
+P820,Paciente Luis ,64,F,Cajamarca,NA,,137.73
+P821,Paciente  ,78,NA,Lince,Cardiología,2023-05-10,221.14
+P822,Paciente Ana Pérez,75,NA,San Isidro,Cardiología,2022-06-05,492.5
+P823,Paciente Luis Pérez,51,F,San Isidro,Pediatría,2023-07-29,147.19
+P824,Paciente Maria Torres,63,NA,Miraflores,NA,2020-08-12,433.13
+P825,Paciente Juan García,71,M,Callao,Cardiología,2021-05-08,182.83
+P826,Paciente Ana Pérez,50,F,La Molina,Dermatología,2024-01-30,209.64
+P827,Paciente Juan García,19,NA,Callao,Dermatología,2022-04-05,459.57
+P828,Paciente Ana Torres,63,F,Cajamarca,Dermatología,2022-08-06,
+P829,Paciente Maria García,80,NA,Surco,Dermatología,2022-04-03,227.24
+P830,Paciente Luis ,86,F,San Isidro,Pediatría,2020-01-18,224.02
+P831,Paciente Maria García,56,M,San Isidro,Dermatología,2020-12-13,342.04
+P832,Paciente Maria Torres,40,NA,Lince,Odontología,2022-01-09,235.97
+P833,Paciente Maria Torres,18,F,La Molina,Dermatología,2024-10-07,
+P834,Paciente Ana Pérez,11,M,La Molina,Cardiología,2024-12-24,373.85
+P835,Paciente Maria García,58,NA,San Isidro,Pediatría,2024-06-20,175.77
+P836,Paciente Maria Torres,67,F,Callao,Pediatría,2024-09-10,420.54
+P837,Paciente Maria Pérez,31,F,Callao,Dermatología,2023-03-15,392.9
+P838,Paciente  Pérez,41,NA,Cajamarca,Odontología,2021-09-01,229.2
+P839,Paciente Luis Torres,38,F,Miraflores,NA,2021-08-15,289.52
+P840,Paciente Juan Torres,46,NA,Cajamarca,Pediatría,2021-01-14,96.98
+P841,Paciente  Pérez,35,F,Cajamarca,NA,2023-08-28,306.69
+P842,Paciente Juan García,72,M,Lince,NA,2024-01-20,84.48
+P843,Paciente Maria García,13,F,Callao,Odontología,2024-12-11,429.96
+P844,Paciente Juan García,10,F,San Isidro,Cardiología,2023-12-13,325.75
+P845,Paciente Luis García,75,NA,Lince,Dermatología,2020-07-08,66.47
+P846,Paciente Maria Torres,59,F,Surco,NA,2023-06-16,297.18
+P847,Paciente Juan ,75,M,Callao,Pediatría,2021-06-09,131.0
+P848,Paciente  García,46,F,Callao,Odontología,2020-10-18,76.65
+P849,Paciente Juan García,1,M,Lince,Dermatología,2021-04-03,491.2
+P850,Paciente Luis Torres,38,M,Callao,Cardiología,,471.13
+P851,Paciente  García,8,F,Surco,Cardiología,2021-11-25,362.7
+P852,Paciente Luis Pérez,25,F,Miraflores,NA,2023-12-13,172.47
+P853,Paciente Juan ,88,M,Surco,Odontología,2020-01-05,67.25
+P854,Paciente  García,39,F,Cajamarca,Odontología,2022-07-11,144.93
+P855,Paciente Luis Torres,68,F,Cajamarca,Pediatría,2023-10-01,431.74
+P856,Paciente Maria ,45,M,La Molina,Cardiología,2020-09-30,429.88
+P857,Paciente Maria García,81,NA,Lince,Pediatría,2024-11-07,58.88
+P858,Paciente Luis Pérez,40,NA,San Isidro,Cardiología,2023-04-28,97.08
+P859,Paciente  Torres,39,M,Callao,Dermatología,2020-12-16,129.57
+P860,Paciente  ,58,F,Cajamarca,Cardiología,2020-04-23,130.22
+P861,Paciente Juan ,22,NA,Miraflores,Dermatología,2020-01-30,240.13
+P862,Paciente Ana Pérez,69,M,Surco,Odontología,2023-10-13,219.47
+P863,Paciente  ,56,NA,Callao,Odontología,2021-08-17,260.82
+P864,Paciente Luis Torres,8,F,Miraflores,Odontología,2021-09-08,129.13
+P865,Paciente Juan Torres,57,F,Callao,Odontología,2021-09-25,450.85
+P866,Paciente  ,49,M,San Isidro,Pediatría,2020-01-19,489.63
+P867,Paciente Maria Torres,26,NA,San Isidro,Dermatología,2021-11-01,
+P868,Paciente  García,31,M,Miraflores,Cardiología,2021-07-25,488.93
+P869,Paciente Maria ,49,NA,Cajamarca,Cardiología,2022-01-09,238.45
+P870,Paciente Luis ,25,M,Surco,Cardiología,2023-11-11,115.68
+P871,Paciente Luis Torres,13,F,Lince,Dermatología,2020-05-12,368.7
+P872,Paciente Juan Torres,37,F,Miraflores,Dermatología,2021-08-26,107.16
+P873,Paciente  Torres,61,M,La Molina,Dermatología,2021-03-07,464.24
+P874,Paciente Juan García,61,M,La Molina,Pediatría,2021-06-08,329.85
+P875,Paciente Juan Pérez,37,M,Miraflores,Pediatría,2020-06-04,339.09
+P876,Paciente Maria Pérez,9,F,Cajamarca,Dermatología,2023-07-07,495.53
+P877,Paciente Juan García,40,F,San Isidro,Dermatología,2022-08-12,201.0
+P878,Paciente Maria Torres,40,NA,Miraflores,Cardiología,,113.1
+P879,Paciente  García,26,M,Lince,Cardiología,2022-12-16,423.07
+P880,Paciente Ana ,38,M,Lince,Odontología,2023-11-29,238.72
+P881,Paciente Maria Pérez,70,NA,Callao,Pediatría,2023-08-22,452.17
+P882,Paciente Juan Pérez,15,NA,San Isidro,Cardiología,2023-12-26,173.07
+P883,Paciente Maria Torres,42,M,La Molina,Odontología,2021-08-15,268.68
+P884,Paciente Luis Torres,9,NA,Callao,Dermatología,2022-01-08,62.63
+P885,Paciente Maria Torres,67,M,Surco,Dermatología,2024-04-23,485.62
+P886,Paciente Maria ,50,NA,San Isidro,Cardiología,2023-09-17,110.54
+P887,Paciente Luis ,77,NA,Lince,Odontología,2021-08-24,239.12
+P888,Paciente Maria ,29,F,San Isidro,Pediatría,2023-03-07,362.49
+P889,Paciente Ana Pérez,20,F,Lince,NA,2024-10-09,
+P890,Paciente Juan ,87,NA,Surco,Odontología,2023-03-18,
+P891,Paciente Luis Pérez,1,M,Cajamarca,Pediatría,2020-05-02,337.44
+P892,Paciente Juan Torres,28,NA,Miraflores,Cardiología,2024-02-24,305.53
+P893,Paciente  ,3,M,La Molina,Dermatología,2023-03-06,402.4
+P894,Paciente Juan García,33,M,Miraflores,Odontología,2024-03-16,223.07
+P895,Paciente Luis Torres,89,M,La Molina,Odontología,2022-07-11,264.49
+P896,Paciente Juan Pérez,41,NA,La Molina,NA,2023-01-11,458.83
+P897,Paciente Ana García,69,F,Surco,NA,,192.81
+P898,Paciente Ana Torres,63,F,La Molina,Dermatología,2022-02-02,180.4
+P899,Paciente Luis Pérez,75,NA,Cajamarca,Cardiología,2020-01-26,322.85
+P900,Paciente Luis Torres,23,M,Lince,Odontología,2023-11-17,109.96
+P901,Paciente  ,2,NA,La Molina,Dermatología,2021-11-22,297.99
+P902,Paciente  Torres,57,M,Cajamarca,Pediatría,2023-07-19,411.13
+P903,Paciente Ana Pérez,50,M,Callao,NA,2022-06-27,489.08
+P904,Paciente Maria Torres,41,F,La Molina,NA,2023-08-14,224.09
+P905,Paciente Luis Torres,18,F,Callao,Dermatología,2022-03-22,269.69
+P906,Paciente Juan ,52,F,Miraflores,Pediatría,2024-07-15,186.41
+P907,Paciente Juan ,77,NA,Surco,NA,,199.68
+P908,Paciente  García,43,F,Miraflores,Pediatría,2021-06-17,272.41
+P909,Paciente Ana Pérez,19,NA,Lince,Odontología,2023-09-22,106.48
+P910,Paciente Luis Pérez,56,M,San Isidro,Dermatología,2022-02-28,
+P911,Paciente Ana Torres,12,F,Cajamarca,Pediatría,2024-10-15,175.78
+P912,Paciente Juan García,82,F,San Isidro,Cardiología,2021-08-10,79.46
+P913,Paciente Ana Pérez,42,M,San Isidro,Pediatría,2024-01-09,66.59
+P914,Paciente Juan Torres,54,M,La Molina,Odontología,2021-04-25,369.59
+P915,Paciente Juan Torres,88,F,Callao,Pediatría,2023-09-20,239.42
+P916,Paciente Juan ,49,F,Lince,Pediatría,2021-12-21,292.84
+P917,Paciente Luis Torres,29,NA,San Isidro,Cardiología,2021-10-12,238.28
+P918,Paciente Luis Pérez,13,M,San Isidro,NA,2024-03-27,218.0
+P919,Paciente  Torres,19,NA,Callao,Cardiología,2020-10-29,384.24
+P920,Paciente Juan Pérez,75,NA,Lince,Pediatría,2020-05-18,119.95
+P921,Paciente Juan García,78,NA,Cajamarca,NA,2021-01-21,264.83
+P922,Paciente  Pérez,4,F,Lince,Cardiología,2023-05-13,206.52
+P923,Paciente Ana García,12,M,Lince,Pediatría,2022-04-12,451.39
+P924,Paciente Luis Torres,53,F,Cajamarca,Cardiología,2022-10-07,59.08
+P925,Paciente Luis ,88,F,Cajamarca,Odontología,2024-03-28,190.42
+P926,Paciente Maria García,84,M,Miraflores,Pediatría,2024-06-20,386.06
+P927,Paciente  ,65,F,Cajamarca,Odontología,2024-07-19,247.5
+P928,Paciente Luis García,58,F,Cajamarca,NA,2023-06-25,355.1
+P929,Paciente Luis ,79,NA,Surco,Cardiología,,335.1
+P930,Paciente  ,42,NA,Miraflores,NA,2020-03-22,286.98
+P931,Paciente Ana García,25,M,Miraflores,NA,2022-06-05,124.52
+P932,Paciente Luis Pérez,5,F,Surco,Pediatría,2021-05-12,499.7
+P933,Paciente Luis ,40,NA,San Isidro,Cardiología,,383.63
+P934,Paciente Luis García,8,NA,Surco,Odontología,2020-12-20,451.62
+P935,Paciente Maria ,80,NA,Lince,NA,2021-01-15,419.93
+P936,Paciente  García,1,NA,Lince,Odontología,2020-03-15,495.48
+P937,Paciente Juan Torres,29,F,La Molina,Cardiología,,327.64
+P938,Paciente Ana García,35,NA,San Isidro,NA,2024-06-22,155.6
+P939,Paciente  García,42,F,Surco,Pediatría,2024-08-30,107.78
+P940,Paciente Luis ,58,NA,San Isidro,Cardiología,2023-11-11,99.5
+P941,Paciente Juan ,,NA,San Isidro,Pediatría,2023-09-28,132.77
+P942,Paciente Luis García,89,NA,La Molina,Cardiología,2024-02-06,232.72
+P943,Paciente Luis Pérez,,M,Lince,Pediatría,2024-03-18,214.62
+P944,Paciente Luis Pérez,76,M,La Molina,Pediatría,2020-12-07,305.26
+P945,Paciente  ,28,F,La Molina,Cardiología,2022-07-09,469.86
+P946,Paciente Juan Pérez,31,NA,Lince,Odontología,2023-03-25,163.27
+P947,Paciente Ana Pérez,83,NA,Miraflores,Pediatría,2020-05-13,453.49
+P948,Paciente Juan Torres,20,NA,La Molina,Pediatría,2020-07-12,329.41
+P949,Paciente Ana García,36,M,Cajamarca,Pediatría,2023-05-03,
+P950,Paciente Luis Torres,39,NA,Cajamarca,Cardiología,2024-04-02,260.39
+P951,Paciente  ,84,NA,Surco,NA,2022-03-04,236.97
+P952,Paciente Maria Pérez,84,F,Miraflores,Cardiología,2024-02-22,362.72
+P953,Paciente Maria Pérez,32,M,Miraflores,Cardiología,2021-11-20,136.9
+P954,Paciente Maria Torres,8,NA,La Molina,Odontología,2024-09-05,487.49
+P955,Paciente Maria Pérez,89,NA,Callao,Dermatología,2022-05-01,187.63
+P956,Paciente Juan Torres,19,NA,Surco,Dermatología,2024-05-05,284.47
+P957,Paciente Ana Torres,17,F,Surco,Dermatología,2021-11-16,353.13
+P958,Paciente  García,63,NA,San Isidro,Odontología,2023-10-22,388.83
+P959,Paciente Juan Pérez,69,F,Callao,NA,2022-02-20,141.99
+P960,Paciente  Pérez,86,NA,La Molina,Pediatría,2024-08-16,278.25
+P961,Paciente  ,64,NA,Lince,Dermatología,2021-01-24,403.45
+P962,Paciente Ana García,39,M,Cajamarca,NA,2022-04-10,368.69
+P963,Paciente  Torres,86,F,Cajamarca,NA,2023-11-13,413.34
+P964,Paciente Maria ,53,F,Miraflores,Dermatología,2024-05-20,139.2
+P965,Paciente Luis ,44,M,Miraflores,NA,2022-08-19,331.72
+P966,Paciente Ana Pérez,28,M,San Isidro,NA,2020-03-24,208.71
+P967,Paciente Maria García,2,F,Surco,Dermatología,2024-08-02,428.75
+P968,Paciente Luis Torres,38,M,La Molina,NA,2021-11-26,342.58
+P969,Paciente  García,31,F,Lince,Odontología,2022-02-07,326.45
+P970,Paciente Maria ,35,NA,Callao,Odontología,2023-02-18,195.6
+P971,Paciente  ,78,M,Callao,NA,2020-06-11,393.05
+P972,Paciente Juan García,67,NA,Surco,NA,2022-11-28,465.53
+P973,Paciente Luis ,71,M,Cajamarca,Odontología,2023-01-14,177.59
+P974,Paciente Juan ,29,M,La Molina,Cardiología,2021-08-10,362.77
+P975,Paciente Ana ,2,F,Lince,Dermatología,2023-01-29,176.84
+P976,Paciente Maria Pérez,56,M,Lince,Odontología,2022-06-19,383.65
+P977,Paciente  Torres,85,M,Lince,Dermatología,2021-12-19,397.99
+P978,Paciente  Torres,22,M,Cajamarca,NA,2020-03-30,351.31
+P979,Paciente Luis Pérez,44,M,San Isidro,Cardiología,2020-02-05,452.03
+P980,Paciente Maria Torres,28,F,La Molina,Dermatología,,103.93
+P981,Paciente  Pérez,56,F,Surco,NA,2023-06-23,126.86
+P982,Paciente Juan Pérez,88,M,Cajamarca,Dermatología,2024-08-05,474.71
+P983,Paciente  Pérez,44,F,San Isidro,Pediatría,2022-06-11,266.9
+P984,Paciente Luis García,75,F,Miraflores,NA,2020-11-16,108.09
+P985,Paciente Maria García,24,F,Cajamarca,Odontología,2024-11-21,111.1
+P986,Paciente Maria Torres,53,M,Surco,Dermatología,2022-07-12,125.75
+P987,Paciente Juan Torres,46,F,San Isidro,NA,2020-09-07,55.44
+P988,Paciente Luis ,43,NA,Surco,Dermatología,2023-03-06,397.17
+P989,Paciente Luis García,67,NA,La Molina,NA,2023-03-01,91.48
+P990,Paciente Juan García,66,NA,Miraflores,NA,2021-09-04,398.29
+P991,Paciente Ana Pérez,78,NA,Callao,NA,2021-04-12,217.19
+P992,Paciente Ana García,41,F,Miraflores,Cardiología,2022-11-03,384.62
+P993,Paciente Juan García,68,NA,La Molina,NA,2024-07-26,123.25
+P994,Paciente  García,75,M,Surco,Odontología,2022-10-26,372.33
+P995,Paciente  Pérez,78,M,Lince,Cardiología,2021-01-28,331.83
+P996,Paciente  ,67,M,San Isidro,NA,2021-01-04,183.09
+P997,Paciente Ana Pérez,34,F,San Isidro,Dermatología,2021-10-27,280.57
+P998,Paciente  Pérez,68,NA,La Molina,Cardiología,2020-12-07,401.29
+P999,Paciente Luis García,71,M,Surco,Pediatría,2023-06-12,198.71
+P1000,Paciente Juan Pérez,82,NA,La Molina,Odontología,2020-09-14,400.68
+P1001,Paciente Ana Torres,58,NA,Lince,Pediatría,2020-12-30,104.02
+P1002,Paciente  Pérez,23,M,Lince,Dermatología,2022-05-04,365.06
+P1003,Paciente Luis Pérez,82,F,San Isidro,NA,2024-10-24,76.77
+P1004,Paciente Maria ,,NA,La Molina,Pediatría,2023-05-23,67.93
+P1005,Paciente Juan ,6,M,La Molina,Dermatología,2022-09-28,59.33
+P1006,Paciente Ana ,29,F,Lince,NA,2021-03-19,368.69
+P1007,Paciente Juan Torres,15,M,Callao,Cardiología,,139.02
+P1008,Paciente Juan García,,NA,Miraflores,Odontología,2022-07-29,100.55
+P1009,Paciente Maria García,14,F,Callao,Pediatría,2024-01-18,102.82
+P1010,Paciente Maria Torres,11,M,Lince,NA,2023-07-06,75.81
+P1011,Paciente Luis García,89,NA,Cajamarca,NA,2024-10-02,160.74
+P1012,Paciente  Torres,24,NA,La Molina,Odontología,2022-10-12,338.4
+P1013,Paciente Juan Torres,3,NA,San Isidro,Odontología,2024-07-14,105.83
+P1014,Paciente Luis ,86,NA,Lince,Odontología,2020-06-27,363.42
+P1015,Paciente Ana Pérez,46,M,Miraflores,Cardiología,2023-04-26,164.96
+P1016,Paciente Maria ,11,F,Surco,Odontología,,
+P1017,Paciente Luis Pérez,39,M,Surco,Dermatología,2024-10-26,207.03
+P1018,Paciente Maria García,47,NA,La Molina,Odontología,2021-08-15,218.26
+P1019,Paciente Ana Pérez,48,NA,Cajamarca,Cardiología,2021-06-13,373.6
+P1020,Paciente Ana Torres,2,F,Miraflores,Cardiología,2020-10-20,261.49
+P1021,Paciente Maria Pérez,40,M,Callao,Cardiología,2022-08-29,255.31
+P1022,Paciente Maria ,86,NA,La Molina,Cardiología,2023-06-30,278.85
+P1023,Paciente Juan García,31,M,La Molina,Odontología,2022-07-06,113.23
+P1024,Paciente Luis Torres,32,NA,La Molina,Dermatología,2024-04-02,96.56
+P1025,Paciente Maria ,52,NA,Cajamarca,Pediatría,2024-01-15,303.71
+P1026,Paciente Maria García,65,M,San Isidro,Dermatología,2024-10-12,333.77
+P1027,Paciente Ana Torres,77,M,Miraflores,Odontología,2020-07-20,149.99
+P1028,Paciente Ana ,64,NA,Callao,NA,2023-07-03,68.05
+P1029,Paciente Juan García,46,NA,Lince,Pediatría,2022-04-04,482.11
+P1030,Paciente Ana ,24,M,Lince,Odontología,2023-07-09,460.58
+P1031,Paciente Maria Pérez,14,NA,Cajamarca,Dermatología,2023-12-17,413.22
+P1032,Paciente  García,78,M,Miraflores,Dermatología,2023-05-04,190.62
+P1033,Paciente Juan ,73,M,Miraflores,Dermatología,2023-03-29,382.72
+P1034,Paciente  ,40,F,La Molina,NA,2020-09-21,53.78
+P1035,Paciente Ana ,30,F,Surco,Pediatría,2022-02-12,
+P1036,Paciente  Torres,19,M,Callao,Odontología,2024-11-19,482.33
+P1037,Paciente  Torres,76,NA,Lince,Dermatología,2021-06-13,344.84
+P1038,Paciente Ana García,13,M,Callao,Dermatología,2021-08-15,302.26
+P1039,Paciente Juan Pérez,36,F,Callao,Dermatología,2021-12-25,184.7
+P1040,Paciente Luis ,,NA,San Isidro,Pediatría,2022-07-17,464.17
+P1041,Paciente  ,49,F,Surco,NA,2022-07-31,383.51
+P1042,Paciente Maria Pérez,44,NA,Lince,Cardiología,2023-02-01,387.19
+P1043,Paciente Juan Torres,49,F,San Isidro,Dermatología,2022-12-31,405.83
+P1044,Paciente Luis Torres,21,F,Surco,Odontología,2021-04-04,214.35
+P1045,Paciente Luis García,44,F,Surco,Cardiología,2021-08-06,325.73
+P1046,Paciente Maria Torres,90,F,Lince,Cardiología,2021-02-12,201.41
+P1047,Paciente  Pérez,11,M,La Molina,Odontología,2021-03-18,422.37
+P1048,Paciente Luis Pérez,80,NA,Surco,Dermatología,2020-12-10,262.47
+P1049,Paciente Ana Torres,58,M,Surco,Pediatría,2022-06-03,193.28
+P1050,Paciente Ana ,67,NA,Cajamarca,Cardiología,2020-08-11,55.19
+P1051,Paciente Ana Pérez,28,F,La Molina,Dermatología,,67.08
+P1052,Paciente Maria García,49,M,Surco,Dermatología,2021-06-02,
+P1053,Paciente Ana Torres,36,NA,Cajamarca,Odontología,2022-07-28,229.52
+P1054,Paciente  Pérez,83,F,Lince,Odontología,2020-07-23,449.77
+P1055,Paciente Maria García,32,NA,Callao,Dermatología,2022-05-22,234.93
+P1056,Paciente  Pérez,62,NA,Lince,NA,2024-11-19,306.66
+P1057,Paciente Juan García,15,F,Miraflores,Odontología,2021-12-25,175.9
+P1058,Paciente Luis Torres,80,NA,Miraflores,NA,2021-04-08,245.93
+P1059,Paciente Juan García,86,NA,Cajamarca,Odontología,2023-01-16,50.34
+P1060,Paciente Maria ,80,NA,San Isidro,NA,2024-12-17,313.19
+P1061,Paciente Luis García,57,F,La Molina,Dermatología,2020-01-04,466.48
+P1062,Paciente  Torres,14,M,La Molina,Pediatría,2021-01-04,274.52
+P1063,Paciente Ana Torres,64,NA,Cajamarca,NA,2020-01-04,150.7
+P1064,Paciente Ana Pérez,7,NA,Callao,Odontología,2022-07-25,145.69
+P1065,Paciente Luis Torres,62,F,Surco,Dermatología,2022-08-21,142.75
+P1066,Paciente  García,14,F,Callao,Odontología,2023-11-19,262.64
+P1067,Paciente Ana García,1,NA,La Molina,NA,2022-08-09,458.24
+P1068,Paciente Maria ,33,NA,Callao,Odontología,2024-12-23,203.34
+P1069,Paciente Juan Torres,15,M,Miraflores,Pediatría,2022-04-14,216.92
+P1070,Paciente Maria ,14,NA,San Isidro,Odontología,2022-03-04,112.43
+P1071,Paciente  Torres,38,M,La Molina,Cardiología,2021-07-31,90.5
+P1072,Paciente Ana Pérez,52,M,Miraflores,Dermatología,2022-11-16,
+P1073,Paciente  ,4,F,Cajamarca,Dermatología,2023-12-01,398.3
+P1074,Paciente Luis Pérez,6,F,Miraflores,Cardiología,2022-06-13,280.59
+P1075,Paciente Ana García,15,M,Miraflores,Cardiología,2023-12-31,120.04
+P1076,Paciente Maria García,64,NA,Callao,Pediatría,2020-06-10,262.35
+P1077,Paciente Luis Pérez,47,NA,Callao,Odontología,2021-02-28,186.65
+P1078,Paciente  Torres,43,M,Lince,Dermatología,2022-07-08,105.26
+P1079,Paciente Maria ,,M,La Molina,Dermatología,2020-03-22,202.67
+P1080,Paciente Juan Pérez,26,M,San Isidro,Pediatría,2023-09-21,422.43
+P1081,Paciente Maria ,73,F,Callao,Pediatría,2024-05-08,313.36
+P1082,Paciente Ana ,39,M,San Isidro,Cardiología,2024-12-01,324.34
+P1083,Paciente Juan Pérez,67,NA,San Isidro,Pediatría,2020-08-31,67.87
+P1084,Paciente Ana ,51,M,Callao,Odontología,2021-01-19,231.73
+P1085,Paciente Maria Torres,58,F,Surco,Pediatría,2022-05-20,
+P1086,Paciente  García,38,NA,Cajamarca,Dermatología,2020-10-18,111.88
+P1087,Paciente Ana Pérez,71,M,Callao,Pediatría,2022-10-17,112.61
+P1088,Paciente Juan Pérez,30,F,Surco,Odontología,2021-12-09,
+P1089,Paciente Luis García,63,M,San Isidro,Pediatría,2024-02-14,384.55
+P1090,Paciente Ana Torres,58,M,Callao,NA,2021-09-25,104.02
+P1091,Paciente Luis García,10,M,La Molina,Cardiología,2020-04-06,432.82
+P1092,Paciente Maria Torres,78,NA,Surco,NA,2020-11-30,334.66
+P1093,Paciente Maria ,13,NA,Lince,Dermatología,2020-09-25,400.67
+P1094,Paciente Maria García,,NA,San Isidro,Pediatría,2021-04-08,364.56
+P1095,Paciente Juan Torres,68,F,La Molina,Dermatología,2022-02-03,405.84
+P1096,Paciente Juan Pérez,31,M,Cajamarca,Dermatología,2023-09-11,331.66
+P1097,Paciente Luis ,20,F,San Isidro,Cardiología,2023-08-31,142.66
+P1098,Paciente Ana García,25,F,Callao,NA,2024-06-25,303.68
+P1099,Paciente  Torres,51,F,Surco,NA,2021-11-02,297.4
+P1100,Paciente Luis Torres,35,F,Callao,Odontología,2022-10-20,
+P1101,Paciente  Torres,54,NA,Lince,NA,2021-12-19,259.04
+P1102,Paciente Maria García,24,F,Lince,Dermatología,2021-08-22,169.78
+P1103,Paciente Luis Pérez,41,F,Cajamarca,Cardiología,2022-08-03,337.35
+P1104,Paciente Maria García,40,F,San Isidro,Odontología,2024-01-16,490.41
+P1105,Paciente Juan Torres,47,F,Callao,Pediatría,2022-07-30,255.54
+P1106,Paciente Juan García,43,NA,Lince,NA,2023-05-12,477.0
+P1107,Paciente  García,38,M,Surco,Dermatología,2024-10-19,294.45
+P1108,Paciente Juan Torres,58,M,Cajamarca,Odontología,2024-03-07,372.82
+P1109,Paciente Maria García,21,M,Callao,Cardiología,2023-04-24,351.04
+P1110,Paciente  García,79,F,Lince,NA,2021-06-27,319.74
+P1111,Paciente Ana Pérez,87,F,Miraflores,Cardiología,2024-11-25,90.37
+P1112,Paciente Maria ,87,F,Cajamarca,Dermatología,2020-04-13,200.99
+P1113,Paciente Maria García,9,F,Callao,Odontología,2021-12-19,336.75
+P1114,Paciente Luis Torres,70,F,San Isidro,Cardiología,2020-03-10,134.85
+P1115,Paciente Luis ,31,M,Miraflores,NA,2022-01-17,348.5
+P1116,Paciente Ana Torres,47,F,Surco,NA,2020-11-21,58.92
+P1117,Paciente  Pérez,10,NA,Surco,Odontología,2023-11-30,255.89
+P1118,Paciente Ana ,16,M,Lince,Pediatría,2022-06-01,138.49
+P1119,Paciente  Pérez,80,F,Miraflores,Odontología,2023-12-14,472.28
+P1120,Paciente  García,16,M,San Isidro,Cardiología,2023-12-26,484.95
+P1121,Paciente Luis Pérez,86,F,San Isidro,Odontología,2023-07-28,371.64
+P1122,Paciente Maria Pérez,50,M,Cajamarca,NA,2022-04-17,418.6
+P1123,Paciente Juan ,32,NA,Callao,Cardiología,2023-02-11,217.49
+P1124,Paciente  Torres,13,F,Callao,Pediatría,2024-10-28,328.91
+P1125,Paciente  Torres,37,NA,San Isidro,NA,2022-01-06,217.05
+P1126,Paciente Maria Torres,47,F,Lince,Cardiología,2023-03-19,457.59
+P1127,Paciente Luis Pérez,82,M,Lince,Odontología,2022-10-17,212.32
+P1128,Paciente Juan García,75,NA,Cajamarca,Dermatología,2020-06-09,453.14
+P1129,Paciente Juan Pérez,61,M,San Isidro,Cardiología,2021-04-06,205.25
+P1130,Paciente Maria Torres,7,NA,La Molina,NA,2021-01-10,74.81
+P1131,Paciente Juan Pérez,53,F,La Molina,NA,2023-11-28,349.67
+P1132,Paciente Ana García,27,M,San Isidro,Odontología,2020-08-02,56.29
+P1133,Paciente Maria ,90,NA,San Isidro,Pediatría,2022-12-04,309.28
+P1134,Paciente Maria ,82,NA,Callao,Odontología,2020-09-23,216.51
+P1135,Paciente Juan Pérez,80,NA,Cajamarca,Pediatría,2023-11-08,393.97
+P1136,Paciente Juan García,60,NA,Callao,Odontología,2021-01-15,140.46
+P1137,Paciente  Pérez,15,M,Callao,Odontología,2022-01-26,173.23
+P1138,Paciente Maria García,11,F,La Molina,Odontología,2023-06-23,205.12
+P1139,Paciente Ana Pérez,88,M,Miraflores,Odontología,2024-08-07,334.74
+P1140,Paciente  Torres,38,NA,Surco,Dermatología,2020-05-28,490.8
+P1141,Paciente Juan Pérez,69,F,La Molina,NA,2024-02-06,127.05
+P1142,Paciente Juan ,,F,Miraflores,NA,2023-05-04,351.41
+P1143,Paciente Maria ,72,F,Miraflores,Pediatría,2024-02-21,352.41
+P1144,Paciente  Torres,29,F,Callao,Odontología,2021-07-11,170.39
+P1145,Paciente  García,16,M,Callao,Dermatología,2021-05-23,216.49
+P1146,Paciente Maria García,76,F,Callao,Odontología,2020-05-10,75.94
+P1147,Paciente  García,84,M,Surco,Cardiología,2021-01-25,322.38
+P1148,Paciente  García,71,F,Miraflores,Pediatría,2022-12-27,126.44
+P1149,Paciente Juan Torres,38,F,Lince,Cardiología,,493.59
+P1150,Paciente Juan Torres,87,F,Surco,Odontología,2024-01-04,61.03
+P1151,Paciente Luis García,61,F,Surco,Pediatría,2023-01-22,374.02
+P1152,Paciente  Torres,26,F,La Molina,Dermatología,2023-11-08,327.09
+P1153,Paciente Juan ,49,M,Cajamarca,NA,2023-12-23,301.57
+P1154,Paciente Juan García,61,NA,La Molina,Pediatría,2021-01-11,324.04
+P1155,Paciente Ana García,36,F,Cajamarca,Pediatría,2020-05-13,299.21
+P1156,Paciente  Torres,21,NA,La Molina,Cardiología,2024-04-15,477.44
+P1157,Paciente Luis ,34,M,Cajamarca,Cardiología,2020-03-07,133.4
+P1158,Paciente Ana Pérez,50,NA,La Molina,Cardiología,2020-05-31,378.79
+P1159,Paciente  Torres,22,F,La Molina,NA,2021-06-09,195.63
+P1160,Paciente Juan Torres,73,F,San Isidro,Cardiología,2020-12-23,151.91
+P1161,Paciente Juan ,,NA,La Molina,Cardiología,2024-08-21,486.97
+P1162,Paciente Luis ,74,NA,La Molina,Cardiología,2024-04-07,328.02
+P1163,Paciente Ana Pérez,66,NA,Callao,Dermatología,2022-01-17,147.72
+P1164,Paciente Luis ,89,M,Lince,Dermatología,2022-05-10,184.38
+P1165,Paciente Ana García,87,F,Lince,Cardiología,2023-05-14,121.51
+P1166,Paciente Juan ,66,NA,Lince,Dermatología,2021-01-24,496.26
+P1167,Paciente  Torres,31,F,Lince,Dermatología,2021-08-19,172.7
+P1168,Paciente  ,49,F,Miraflores,Dermatología,2022-10-08,167.26
+P1169,Paciente Maria Torres,43,F,Miraflores,Pediatría,2022-04-23,385.31
+P1170,Paciente Luis Pérez,74,NA,La Molina,Dermatología,2022-06-12,98.05
+P1171,Paciente Ana ,29,M,Callao,Dermatología,2021-09-24,158.24
+P1172,Paciente Ana ,59,F,Surco,Dermatología,2023-09-01,223.1
+P1173,Paciente Juan García,66,M,Cajamarca,Pediatría,2023-08-21,
+P1174,Paciente Luis Pérez,77,M,Lince,Cardiología,2024-07-04,151.84
+P1175,Paciente Maria Torres,50,M,Callao,Dermatología,2022-08-05,235.62
+P1176,Paciente Luis García,56,F,San Isidro,Dermatología,2022-11-12,
+P1177,Paciente Juan Pérez,68,NA,Surco,Cardiología,2022-06-14,447.38
+P1178,Paciente Luis García,72,F,San Isidro,Cardiología,,485.7
+P1179,Paciente Ana García,63,F,Lince,Dermatología,2023-10-18,161.83
+P1180,Paciente  Torres,78,M,Surco,NA,2020-12-11,55.15
+P1181,Paciente  ,82,NA,Miraflores,Pediatría,2023-02-02,77.81
+P1182,Paciente  García,37,NA,Surco,NA,2024-02-02,87.66
+P1183,Paciente Luis ,86,NA,Lince,Cardiología,2020-08-05,484.25
+P1184,Paciente Juan Torres,13,F,San Isidro,Odontología,2020-10-18,339.09
+P1185,Paciente  Pérez,29,F,Cajamarca,NA,2022-10-23,
+P1186,Paciente Ana Torres,11,M,Lince,Cardiología,2024-04-12,
+P1187,Paciente Luis García,73,NA,San Isidro,NA,2020-01-05,170.43
+P1188,Paciente Juan Pérez,22,M,Surco,Pediatría,2024-01-09,71.33
+P1189,Paciente Juan Pérez,59,F,Lince,Cardiología,2021-10-12,147.21
+P1190,Paciente  García,30,F,Miraflores,Odontología,2023-11-16,279.99
+P1191,Paciente  García,7,M,La Molina,Cardiología,2020-07-01,302.49
+P1192,Paciente Ana ,47,F,Callao,Odontología,2022-05-28,353.55
+P1193,Paciente Maria Torres,43,NA,San Isidro,Dermatología,2023-06-01,
+P1194,Paciente Ana Pérez,19,NA,Cajamarca,Dermatología,2023-07-05,
+P1195,Paciente Maria García,22,NA,Miraflores,Odontología,2021-01-07,136.46
+P1196,Paciente Juan García,78,F,Lince,Cardiología,2023-09-16,110.0
+P1197,Paciente Luis Pérez,41,F,Callao,Cardiología,2020-11-11,440.89
+P1198,Paciente Maria Pérez,45,NA,Surco,Odontología,2021-02-25,415.68
+P1199,Paciente Maria Torres,6,M,Callao,Pediatría,2021-10-19,225.17
+P1200,Paciente  Pérez,65,F,Miraflores,Pediatría,2020-06-19,160.74
+P1201,Paciente Juan García,56,NA,Callao,Dermatología,2020-07-08,305.49
+P1202,Paciente Luis García,73,NA,Callao,Cardiología,,360.85
+P1203,Paciente Juan García,6,NA,La Molina,Cardiología,2022-04-13,62.39
+P1204,Paciente  Pérez,70,NA,Callao,Dermatología,2022-06-20,287.8
+P1205,Paciente Maria ,64,M,Lince,Odontología,2021-07-27,147.56
+P1206,Paciente Luis García,73,F,Lince,Cardiología,2020-07-18,
+P1207,Paciente Luis ,40,M,Cajamarca,NA,2021-06-08,442.39
+P1208,Paciente Luis ,9,F,Cajamarca,Dermatología,2024-01-01,497.76
+P1209,Paciente Maria Pérez,7,NA,Miraflores,Odontología,2022-03-18,309.37
+P1210,Paciente Ana Torres,87,F,San Isidro,Pediatría,2021-06-20,378.06
+P1211,Paciente Ana García,17,F,Miraflores,Odontología,2020-12-22,139.84
+P1212,Paciente Maria Pérez,64,M,Lince,Cardiología,2023-11-11,58.94
+P1213,Paciente Maria ,1,M,Callao,Dermatología,2021-04-18,61.51
+P1214,Paciente Ana García,46,NA,La Molina,Cardiología,2023-04-13,336.33
+P1215,Paciente Luis García,8,NA,Lince,NA,2023-10-29,386.2
+P1216,Paciente Juan ,90,NA,Cajamarca,Dermatología,2024-11-18,62.52
+P1217,Paciente  García,10,F,Miraflores,Odontología,2023-10-25,265.45
+P1218,Paciente  García,82,M,San Isidro,Dermatología,2024-03-31,281.86
+P1219,Paciente Maria García,2,NA,La Molina,Cardiología,,163.51
+P1220,Paciente Maria Torres,38,F,La Molina,Cardiología,2024-10-01,
+P1221,Paciente Juan García,19,F,La Molina,Dermatología,,372.27
+P1222,Paciente Juan ,60,M,San Isidro,Dermatología,2020-08-06,258.73
+P1223,Paciente Ana Pérez,6,M,San Isidro,NA,2023-10-12,143.62
+P1224,Paciente Luis Torres,86,M,Miraflores,Dermatología,2021-01-15,381.8
+P1225,Paciente Juan García,,M,San Isidro,Cardiología,2021-12-02,131.25
+P1226,Paciente Maria Torres,1,NA,San Isidro,NA,2020-02-28,72.9
+P1227,Paciente Juan García,89,F,Lince,NA,,269.13
+P1228,Paciente Luis Torres,74,M,La Molina,Dermatología,2023-09-03,
+P1229,Paciente Ana Torres,3,F,Callao,Dermatología,2023-07-26,328.99
+P1230,Paciente Maria García,36,M,Lince,Pediatría,2022-12-11,238.76
+P1231,Paciente  Torres,4,M,La Molina,Odontología,2023-06-30,74.11
+P1232,Paciente Juan Pérez,43,M,La Molina,Pediatría,2022-11-16,201.88
+P1233,Paciente Maria ,57,M,Miraflores,Pediatría,2023-07-02,285.29
+P1234,Paciente Maria Pérez,56,NA,Cajamarca,Dermatología,2022-08-08,376.01
+P1235,Paciente Juan ,76,F,San Isidro,Dermatología,2021-05-01,54.49
+P1236,Paciente Luis ,64,NA,San Isidro,Dermatología,2022-10-02,
+P1237,Paciente Ana ,38,F,La Molina,Cardiología,2023-06-01,
+P1238,Paciente Juan ,68,F,San Isidro,Odontología,2023-09-26,169.75
+P1239,Paciente Maria Pérez,62,M,Lince,Odontología,2020-10-18,158.87
+P1240,Paciente Maria García,61,F,La Molina,Cardiología,2020-09-30,332.93
+P1241,Paciente Ana ,37,M,Surco,NA,2024-04-20,128.57
+P1242,Paciente Maria García,,F,La Molina,Odontología,2022-09-15,289.19
+P1243,Paciente  ,28,NA,Callao,Cardiología,,125.49
+P1244,Paciente Maria ,56,M,Cajamarca,Dermatología,2021-05-25,175.56
+P1245,Paciente Maria Torres,49,M,Miraflores,NA,2022-11-26,116.95
+P1246,Paciente Maria Torres,19,M,La Molina,Cardiología,2023-04-01,
+P1247,Paciente Juan Pérez,11,M,La Molina,Pediatría,2023-08-27,361.0
+P1248,Paciente  Torres,78,F,Callao,Dermatología,2020-02-16,475.45
+P1249,Paciente Maria ,32,F,Callao,NA,,301.84
+P1250,Paciente Ana Pérez,28,F,Lince,NA,2020-02-09,427.43
+P1251,Paciente Ana García,28,NA,Miraflores,Dermatología,2020-02-26,461.81
+P1252,Paciente Luis Torres,39,M,Callao,Pediatría,2023-11-06,298.27
+P1253,Paciente Ana García,18,M,San Isidro,Cardiología,2022-12-07,441.82
+P1254,Paciente Ana García,30,M,Surco,Cardiología,2024-08-08,343.58
+P1255,Paciente  García,,F,Callao,Cardiología,2022-06-06,
+P1256,Paciente Maria Torres,6,M,Surco,Dermatología,2023-04-19,304.87
+P1257,Paciente Maria Pérez,38,M,Miraflores,Cardiología,2021-10-14,277.2
+P1258,Paciente Luis Pérez,17,NA,Callao,Pediatría,2020-10-26,430.68
+P1259,Paciente Juan ,84,F,Callao,Dermatología,2020-02-06,344.54
+P1260,Paciente Juan García,15,M,Cajamarca,Pediatría,2023-04-25,319.52
+P1261,Paciente  García,61,M,Surco,Pediatría,2021-01-22,266.94
+P1262,Paciente Luis García,25,F,Callao,Cardiología,2024-08-12,463.72
+P1263,Paciente Luis Torres,88,NA,Lince,Cardiología,2021-01-01,79.92
+P1264,Paciente Luis Torres,41,F,La Molina,Pediatría,2024-07-22,78.65
+P1265,Paciente Luis García,86,F,La Molina,Pediatría,2022-03-25,103.44
+P1266,Paciente  Pérez,5,M,La Molina,Odontología,2020-03-09,409.3
+P1267,Paciente Juan García,75,M,Miraflores,NA,2024-07-31,363.36
+P1268,Paciente Ana García,76,NA,San Isidro,Dermatología,2023-10-17,409.48
+P1269,Paciente Juan Pérez,35,M,Lince,Dermatología,2020-05-05,379.78
+P1270,Paciente Ana Torres,74,M,Surco,Pediatría,,285.14
+P1271,Paciente Ana ,67,M,Surco,NA,2021-12-12,89.92
+P1272,Paciente Ana García,45,NA,Lince,Odontología,2023-01-09,206.6
+P1273,Paciente Ana Torres,33,M,Lince,Dermatología,2024-12-10,495.74
+P1274,Paciente Juan ,65,NA,Callao,Pediatría,2024-01-13,485.89
+P1275,Paciente Juan Pérez,10,F,Cajamarca,Dermatología,2023-02-01,327.37
+P1276,Paciente Maria Pérez,46,NA,Callao,Odontología,2021-04-06,165.33
+P1277,Paciente Maria Pérez,79,M,Callao,Cardiología,2020-09-23,90.47
+P1278,Paciente  García,6,NA,La Molina,Pediatría,2024-03-10,222.12
+P1279,Paciente Maria Pérez,78,F,Lince,NA,2022-10-01,
+P1280,Paciente Juan Torres,72,NA,Surco,Odontología,2021-05-02,183.54
+P1281,Paciente Ana Torres,43,M,Cajamarca,Cardiología,2024-11-06,101.01
+P1282,Paciente Juan García,8,F,La Molina,Pediatría,2020-11-01,91.22
+P1283,Paciente Maria Torres,13,M,Lince,Dermatología,2022-03-16,440.81
+P1284,Paciente Ana ,11,NA,Miraflores,NA,,404.78
+P1285,Paciente Ana ,59,F,Callao,Odontología,2020-05-18,243.9
+P1286,Paciente Maria García,88,F,Cajamarca,NA,2023-05-27,238.01
+P1287,Paciente Maria Torres,90,M,La Molina,Cardiología,2023-11-23,203.16
+P1288,Paciente Maria García,63,F,Callao,Dermatología,2024-01-02,432.06
+P1289,Paciente Luis ,83,M,Cajamarca,NA,2020-07-19,260.09
+P1290,Paciente Maria ,51,M,Lince,Dermatología,2024-07-22,205.27
+P1291,Paciente Luis García,64,NA,Callao,NA,2020-03-25,478.61
+P1292,Paciente Ana ,86,NA,La Molina,Pediatría,2024-04-21,360.62
+P1293,Paciente  Torres,60,NA,San Isidro,NA,2022-11-27,493.66
+P1294,Paciente Maria García,79,F,Callao,Dermatología,2024-04-08,65.6
+P1295,Paciente Luis Torres,44,F,San Isidro,NA,2023-06-01,301.65
+P1296,Paciente Juan García,15,NA,Callao,Odontología,2024-09-12,316.57
+P1297,Paciente Ana García,59,F,San Isidro,Odontología,2024-06-27,305.67
+P1298,Paciente Luis García,46,F,Callao,Cardiología,2020-09-27,271.26
+P1299,Paciente Juan García,64,NA,San Isidro,Cardiología,2023-10-17,239.65
+P1300,Paciente  ,83,M,Surco,Odontología,2022-08-01,224.23
+P1301,Paciente Maria García,6,F,Surco,Pediatría,2021-10-27,81.74
+P1302,Paciente Juan Torres,34,F,Lince,NA,2022-05-18,208.1
+P1303,Paciente Luis García,82,NA,Lince,Dermatología,2020-11-12,395.98
+P1304,Paciente Juan Torres,20,M,Callao,Dermatología,,295.9
+P1305,Paciente Maria Torres,31,NA,Cajamarca,Pediatría,2023-04-08,498.81
+P1306,Paciente Juan ,77,M,San Isidro,Pediatría,2024-06-14,126.71
+P1307,Paciente Luis ,15,M,Cajamarca,Odontología,2021-03-19,212.32
+P1308,Paciente  ,25,NA,San Isidro,NA,2021-05-14,
+P1309,Paciente Luis García,19,M,Cajamarca,Dermatología,2021-04-29,191.31
+P1310,Paciente Maria ,66,F,Callao,Dermatología,2021-10-18,123.51
+P1311,Paciente Maria Pérez,75,M,Callao,Odontología,2024-12-20,288.96
+P1312,Paciente Ana ,85,F,Cajamarca,Dermatología,2022-04-18,102.45
+P1313,Paciente  García,66,NA,Lince,Dermatología,2023-03-15,267.27
+P1314,Paciente Ana Pérez,47,F,Surco,Dermatología,2022-09-08,421.2
+P1315,Paciente Juan Torres,10,NA,La Molina,Dermatología,2020-02-11,158.51
+P1316,Paciente Maria ,41,F,Lince,Cardiología,2021-06-05,267.24
+P1317,Paciente Ana Pérez,68,M,Callao,Dermatología,2021-06-02,141.51
+P1318,Paciente  Torres,38,M,Cajamarca,Odontología,2021-03-13,137.76
+P1319,Paciente Juan Torres,75,NA,San Isidro,Dermatología,2021-04-06,61.15
+P1320,Paciente Luis ,85,F,Callao,Cardiología,2020-11-20,356.72
+P1321,Paciente Luis Pérez,78,NA,Cajamarca,Pediatría,2020-07-17,268.62
+P1322,Paciente Juan Torres,74,M,Miraflores,Pediatría,2021-09-15,400.16
+P1323,Paciente Luis Torres,11,NA,San Isidro,Odontología,2023-02-19,310.67
+P1324,Paciente  ,28,F,Cajamarca,Odontología,2024-09-18,241.97
+P1325,Paciente Juan ,83,M,San Isidro,Pediatría,2024-12-25,69.45
+P1326,Paciente Maria Torres,4,NA,Callao,Odontología,2024-04-12,491.8
+P1327,Paciente  Pérez,18,NA,San Isidro,Odontología,2020-05-14,292.26
+P1328,Paciente Maria ,39,F,La Molina,Dermatología,2021-03-11,268.38
+P1329,Paciente  ,56,NA,La Molina,Pediatría,2024-12-16,428.48
+P1330,Paciente Maria García,90,F,Miraflores,NA,2021-04-08,147.57
+P1331,Paciente Ana ,27,M,Miraflores,NA,2020-04-20,478.16
+P1332,Paciente Maria ,4,F,San Isidro,Dermatología,2020-07-22,444.88
+P1333,Paciente Juan Torres,86,M,Surco,Cardiología,2023-10-11,456.43
+P1334,Paciente Luis ,14,F,Callao,Pediatría,2023-01-16,383.82
+P1335,Paciente  ,3,M,Callao,Cardiología,2021-03-24,296.36
+P1336,Paciente Juan Pérez,75,M,San Isidro,Odontología,2021-12-22,277.53
+P1337,Paciente Ana Pérez,45,NA,Cajamarca,NA,2024-10-31,396.47
+P1338,Paciente Luis ,68,M,Lince,Cardiología,2023-12-08,431.37
+P1339,Paciente Maria Torres,41,NA,San Isidro,Odontología,2023-01-20,100.61
+P1340,Paciente Luis García,24,NA,Lince,NA,2024-11-04,291.79
+P1341,Paciente Ana ,64,M,Miraflores,NA,2023-06-25,396.73
+P1342,Paciente Ana García,7,M,Lince,Odontología,2022-11-26,416.52
+P1343,Paciente Maria García,83,F,La Molina,Pediatría,2023-12-10,203.8
+P1344,Paciente Ana Torres,78,F,San Isidro,NA,2023-01-19,
+P1345,Paciente Ana Torres,30,M,Surco,NA,2022-01-24,66.03
+P1346,Paciente Luis Pérez,4,F,Cajamarca,NA,2023-08-06,485.34
+P1347,Paciente Luis Torres,42,F,Callao,Cardiología,2023-02-10,71.05
+P1348,Paciente Juan Torres,21,M,San Isidro,Pediatría,2022-02-27,369.32
+P1349,Paciente Maria García,17,M,Cajamarca,Dermatología,2020-01-16,479.85
+P1350,Paciente Luis ,90,M,Miraflores,NA,2021-05-30,76.78
+P1351,Paciente  ,29,M,Lince,Dermatología,2021-01-18,252.93
+P1352,Paciente Maria García,2,NA,Miraflores,Cardiología,2021-08-08,97.43
+P1353,Paciente  Torres,24,NA,Cajamarca,Odontología,2024-09-26,492.46
+P1354,Paciente Luis Pérez,,M,Callao,Dermatología,2020-03-29,257.33
+P1355,Paciente Maria García,62,NA,San Isidro,Dermatología,2022-05-12,292.54
+P1356,Paciente Ana Torres,10,M,La Molina,Odontología,2022-03-29,93.44
+P1357,Paciente  ,79,M,Lince,Pediatría,2020-04-19,102.93
+P1358,Paciente Maria García,37,NA,Surco,Odontología,2022-03-11,470.09
+P1359,Paciente Maria Torres,,M,Surco,Odontología,2022-04-08,288.13
+P1360,Paciente Ana Torres,58,M,La Molina,Dermatología,2022-07-22,224.74
+P1361,Paciente Ana García,51,NA,La Molina,NA,2023-10-06,
+P1362,Paciente Luis ,51,F,Miraflores,Odontología,2020-08-16,101.67
+P1363,Paciente Ana García,32,F,Miraflores,Cardiología,2024-06-09,156.82
+P1364,Paciente Ana Pérez,7,F,Cajamarca,NA,2022-06-27,361.99
+P1365,Paciente Luis Torres,68,F,Lince,Pediatría,2024-03-15,421.81
+P1366,Paciente Ana ,33,F,San Isidro,Cardiología,,327.89
+P1367,Paciente Maria Pérez,44,M,San Isidro,NA,2021-01-05,148.67
+P1368,Paciente Maria Pérez,28,NA,San Isidro,Odontología,2024-11-30,141.39
+P1369,Paciente Maria ,79,NA,San Isidro,Cardiología,2023-04-17,473.75
+P1370,Paciente Juan ,45,NA,Callao,Odontología,2022-12-26,236.78
+P1371,Paciente  Torres,43,F,Surco,Pediatría,2024-03-22,471.26
+P1372,Paciente  Pérez,11,F,Lince,Dermatología,2020-08-30,348.51
+P1373,Paciente Maria García,85,NA,Callao,Cardiología,2020-10-14,467.31
+P1374,Paciente Maria Torres,1,M,Lince,NA,2024-04-24,275.66
+P1375,Paciente  García,42,NA,Surco,Dermatología,2024-04-23,306.63
+P1376,Paciente Ana García,8,F,Callao,NA,2021-09-04,380.84
+P1377,Paciente Luis ,45,M,San Isidro,NA,2024-11-10,424.46
+P1378,Paciente Maria Pérez,84,NA,La Molina,Pediatría,2023-05-19,57.37
+P1379,Paciente Juan García,59,F,Callao,Pediatría,2020-11-06,105.65
+P1380,Paciente Luis Torres,3,F,Lince,NA,2020-01-30,115.81
+P1381,Paciente Luis García,69,M,Cajamarca,Odontología,2022-01-18,187.84
+P1382,Paciente Luis Pérez,33,NA,Callao,NA,2024-02-25,499.01
+P1383,Paciente Juan ,,F,Lince,Cardiología,2021-04-25,335.46
+P1384,Paciente Maria García,11,F,La Molina,Dermatología,2022-07-21,137.49
+P1385,Paciente Juan Torres,72,M,Surco,Pediatría,,242.26
+P1386,Paciente  ,90,F,La Molina,Cardiología,2022-10-09,58.41
+P1387,Paciente  García,88,M,Lince,Cardiología,2023-11-29,151.9
+P1388,Paciente Luis García,32,F,Lince,Dermatología,2022-11-06,342.92
+P1389,Paciente  Pérez,54,M,San Isidro,Dermatología,2023-11-06,128.18
+P1390,Paciente Juan ,13,F,La Molina,Cardiología,2021-07-27,260.51
+P1391,Paciente Luis ,39,F,Miraflores,Dermatología,2024-05-19,489.9
+P1392,Paciente Luis ,22,NA,Callao,Pediatría,2021-01-29,224.38
+P1393,Paciente Ana ,38,F,Lince,Cardiología,2022-07-15,261.27
+P1394,Paciente  Torres,14,F,Lince,Dermatología,2024-09-09,445.26
+P1395,Paciente Juan García,29,M,Cajamarca,Cardiología,2020-01-15,319.53
+P1396,Paciente Maria Pérez,26,F,San Isidro,Pediatría,2020-05-10,319.04
+P1397,Paciente Ana Torres,25,F,Cajamarca,Pediatría,2022-11-17,463.68
+P1398,Paciente Ana Torres,51,F,Cajamarca,Cardiología,2020-09-15,135.19
+P1399,Paciente Luis ,28,NA,Miraflores,Odontología,2020-07-22,137.6
+P1400,Paciente Luis Pérez,,F,Surco,Cardiología,2023-03-15,337.77
+P1401,Paciente  Torres,74,F,Miraflores,Odontología,2020-10-13,64.37
+P1402,Paciente Maria García,81,M,Cajamarca,Pediatría,2023-07-11,258.3
+P1403,Paciente Ana Torres,,M,Lince,NA,2020-06-24,481.83
+P1404,Paciente Ana Pérez,28,F,Callao,Dermatología,,159.65
+P1405,Paciente Juan Pérez,2,F,Miraflores,Cardiología,2020-09-12,
+P1406,Paciente Luis Pérez,18,NA,La Molina,Odontología,2023-06-21,84.8
+P1407,Paciente Ana Pérez,8,F,San Isidro,NA,2020-10-04,491.25
+P1408,Paciente Maria Torres,61,NA,Surco,Dermatología,2024-12-09,
+P1409,Paciente  ,,NA,Callao,Odontología,2022-09-29,270.46
+P1410,Paciente Maria Pérez,24,F,Lince,Odontología,2020-12-12,66.26
+P1411,Paciente Ana Torres,47,M,San Isidro,Cardiología,2024-12-08,407.39
+P1412,Paciente Maria ,69,F,Callao,NA,2023-10-30,306.32
+P1413,Paciente Luis Pérez,78,F,Lince,NA,2020-11-17,198.59
+P1414,Paciente Juan ,18,M,Cajamarca,Odontología,2025-01-01,151.16
+P1415,Paciente Luis Pérez,56,NA,Cajamarca,Pediatría,2024-01-01,239.89
+P1416,Paciente Ana Torres,74,M,Callao,Pediatría,2022-12-24,478.68
+P1417,Paciente Ana Torres,86,M,Surco,Cardiología,2023-07-27,271.36
+P1418,Paciente  Pérez,27,M,Cajamarca,Cardiología,2023-11-13,310.76
+P1419,Paciente Ana García,46,M,San Isidro,Pediatría,2024-09-30,281.12
+P1420,Paciente Luis Torres,39,NA,Surco,Cardiología,2021-06-04,258.6
+P1421,Paciente  García,78,F,Cajamarca,NA,2022-12-17,435.84
+P1422,Paciente  Torres,89,M,Cajamarca,NA,2020-07-07,163.23
+P1423,Paciente Ana Torres,,M,Surco,NA,2020-03-06,356.18
+P1424,Paciente  ,20,M,Miraflores,Dermatología,2024-08-07,135.04
+P1425,Paciente Luis ,68,NA,Surco,Cardiología,2020-04-10,
+P1426,Paciente Ana García,90,F,San Isidro,Dermatología,2021-03-15,200.23
+P1427,Paciente Maria Pérez,53,F,Lince,Cardiología,2022-03-14,372.23
+P1428,Paciente  Torres,70,M,San Isidro,NA,2021-01-31,201.71
+P1429,Paciente  ,,F,La Molina,Odontología,2024-02-07,499.87
+P1430,Paciente Ana Pérez,49,M,Lince,Pediatría,2024-02-09,370.68
+P1431,Paciente Juan Torres,51,F,La Molina,Cardiología,2024-05-02,344.28
+P1432,Paciente Ana Torres,74,F,Callao,Pediatría,2023-01-25,387.15
+P1433,Paciente Luis ,36,NA,San Isidro,Pediatría,2020-12-27,454.98
+P1434,Paciente Maria Pérez,30,M,San Isidro,Dermatología,2023-09-24,403.86
+P1435,Paciente Ana García,11,M,Miraflores,Cardiología,2022-07-01,95.18
+P1436,Paciente Ana Torres,38,M,Lince,Pediatría,2021-09-30,125.12
+P1437,Paciente Juan Torres,46,F,Surco,NA,2022-08-29,397.33
+P1438,Paciente Ana Pérez,25,NA,Lince,Cardiología,2022-01-01,423.38
+P1439,Paciente Juan García,23,M,Callao,Pediatría,2021-09-27,117.56
+P1440,Paciente Juan García,72,M,San Isidro,Cardiología,2020-02-02,370.2
+P1441,Paciente Luis Pérez,49,M,Cajamarca,Cardiología,2023-09-14,84.68
+P1442,Paciente  Torres,57,M,San Isidro,Cardiología,2024-03-05,343.31
+P1443,Paciente Maria ,82,NA,Callao,Cardiología,2021-05-06,380.62
+P1444,Paciente Juan Torres,81,NA,Lince,Pediatría,2021-07-20,176.88
+P1445,Paciente Juan Torres,45,F,Surco,Cardiología,2022-12-07,361.77
+P1446,Paciente Maria Pérez,54,NA,Callao,Odontología,,70.89
+P1447,Paciente Ana García,,NA,Lince,NA,2020-07-14,452.88
+P1448,Paciente Luis ,,NA,San Isidro,Pediatría,2021-09-17,145.8
+P1449,Paciente Maria García,24,NA,La Molina,Odontología,2023-10-05,403.28
+P1450,Paciente Juan Pérez,18,NA,Lince,Cardiología,2023-05-31,237.49
+P1451,Paciente Maria ,20,F,Miraflores,Dermatología,2024-04-12,185.4
+P1452,Paciente  Pérez,37,M,Surco,Cardiología,2021-04-13,438.52
+P1453,Paciente  Torres,31,NA,San Isidro,Pediatría,2024-03-23,110.67
+P1454,Paciente  Torres,46,F,La Molina,Pediatría,2024-09-26,384.14
+P1455,Paciente Ana Torres,4,M,Callao,Cardiología,2023-10-19,206.82
+P1456,Paciente  ,19,M,Cajamarca,Dermatología,,479.48
+P1457,Paciente Ana Torres,68,M,La Molina,Odontología,2024-11-10,464.0
+P1458,Paciente Juan Pérez,56,NA,Miraflores,Cardiología,2021-01-05,217.76
+P1459,Paciente Maria Pérez,83,M,Callao,Odontología,2021-01-14,254.65
+P1460,Paciente Maria Torres,82,M,Callao,Odontología,2020-05-16,322.03
+P1461,Paciente  ,71,F,Lince,Odontología,2024-12-19,388.27
+P1462,Paciente Luis Torres,62,F,Callao,Cardiología,2021-04-01,266.44
+P1463,Paciente  Pérez,39,NA,La Molina,Pediatría,2020-01-07,432.4
+P1464,Paciente Luis Pérez,10,F,Callao,Pediatría,2021-11-16,95.08
+P1465,Paciente Juan Torres,83,F,Surco,Pediatría,2024-04-08,133.37
+P1466,Paciente  Pérez,59,F,San Isidro,NA,2022-05-06,
+P1467,Paciente Luis Pérez,62,NA,Miraflores,Odontología,2020-01-20,279.89
+P1468,Paciente Luis Torres,9,NA,Cajamarca,Dermatología,2024-09-23,87.57
+P1469,Paciente  ,29,M,Lince,NA,2023-04-23,269.79
+P1470,Paciente Juan Torres,69,NA,Cajamarca,Pediatría,2023-11-16,313.89
+P1471,Paciente Ana ,83,NA,Cajamarca,Pediatría,2020-11-14,485.67
+P1472,Paciente  Torres,11,M,Miraflores,Cardiología,2021-07-14,457.55
+P1473,Paciente Luis Pérez,36,F,Lince,Cardiología,2022-10-27,196.32
+P1474,Paciente Juan Pérez,61,F,San Isidro,Dermatología,2023-09-21,143.4
+P1475,Paciente Maria Torres,26,NA,Miraflores,NA,2021-01-10,
+P1476,Paciente Juan ,57,NA,Cajamarca,Odontología,2020-07-23,280.96
+P1477,Paciente Ana ,55,M,Callao,Odontología,2024-12-14,372.3
+P1478,Paciente Maria Pérez,90,NA,Lince,Pediatría,2022-10-11,61.25
+P1479,Paciente Maria ,88,NA,San Isidro,NA,2022-10-20,58.51
+P1480,Paciente Ana Pérez,73,F,San Isidro,Cardiología,2024-03-28,155.5
+P1481,Paciente Juan Torres,67,NA,La Molina,Pediatría,2021-10-02,164.02
+P1482,Paciente Ana Torres,,F,La Molina,NA,2023-08-18,69.37
+P1483,Paciente Ana Pérez,61,M,Surco,Pediatría,2020-02-28,81.09
+P1484,Paciente Luis ,58,NA,Surco,Dermatología,2024-06-10,261.68
+P1485,Paciente  Pérez,73,M,San Isidro,NA,2020-07-23,321.61
+P1486,Paciente Luis García,50,M,La Molina,Dermatología,2020-12-23,228.73
+P1487,Paciente Ana ,86,M,San Isidro,NA,2023-12-23,204.1
+P1488,Paciente  Torres,73,F,Callao,Dermatología,2023-02-06,400.38
+P1489,Paciente  Torres,27,M,Cajamarca,Cardiología,,88.1
+P1490,Paciente Juan ,19,F,Cajamarca,NA,2023-03-28,410.74
+P1491,Paciente  García,68,F,Surco,Cardiología,2024-07-21,157.19
+P1492,Paciente Juan ,1,F,Cajamarca,NA,2021-10-09,55.33
+P1493,Paciente  ,4,NA,La Molina,Pediatría,2024-04-26,121.33
+P1494,Paciente Ana Pérez,77,F,Cajamarca,Dermatología,2020-08-03,402.21
+P1495,Paciente Juan Pérez,88,F,Callao,Dermatología,2022-02-20,401.7
+P1496,Paciente Luis Pérez,38,M,La Molina,NA,2023-11-01,169.91
+P1497,Paciente Juan García,26,M,La Molina,Odontología,2020-11-16,223.84
+P1498,Paciente Ana Torres,37,F,Lince,Odontología,2020-02-12,304.68
+P1499,Paciente Luis Pérez,36,NA,Lince,Pediatría,2022-07-17,345.35
+P1500,Paciente Luis Pérez,24,F,Callao,Odontología,2022-02-16,136.74
+P1501,Paciente Ana ,66,NA,Lince,Cardiología,2021-05-19,342.61
+P1502,Paciente Juan ,51,M,Cajamarca,Dermatología,2020-03-26,207.77
+P1503,Paciente Ana Pérez,8,M,La Molina,Cardiología,2023-04-29,458.59
+P1504,Paciente  Pérez,83,F,Surco,Cardiología,2024-06-29,321.17
+P1505,Paciente Juan ,10,F,La Molina,NA,2021-01-19,294.63
+P1506,Paciente Maria Pérez,35,F,Cajamarca,Pediatría,2021-01-11,228.04
+P1507,Paciente Luis García,60,M,San Isidro,Pediatría,2024-09-07,200.05
+P1508,Paciente Maria Torres,25,NA,San Isidro,Odontología,2021-01-08,
+P1509,Paciente Ana ,61,M,Miraflores,NA,2021-09-12,136.24
+P1510,Paciente  Pérez,32,M,Cajamarca,NA,2022-10-27,125.66
+P1511,Paciente Luis Torres,4,NA,Cajamarca,Cardiología,2020-03-10,
+P1512,Paciente Ana García,20,F,Miraflores,Cardiología,2022-09-27,261.27
+P1513,Paciente Ana ,14,M,La Molina,Dermatología,2020-08-31,177.15
+P1514,Paciente Luis Torres,79,NA,Miraflores,Odontología,2024-11-10,192.41
+P1515,Paciente Juan ,88,F,La Molina,Cardiología,2022-08-16,257.78
+P1516,Paciente Juan García,65,F,San Isidro,Cardiología,2022-03-09,188.86
+P1517,Paciente Maria Pérez,,NA,Miraflores,NA,2021-05-12,283.44
+P1518,Paciente  ,64,NA,Cajamarca,NA,2022-04-22,153.78
+P1519,Paciente Luis Torres,80,NA,La Molina,NA,2021-08-23,228.52
+P1520,Paciente Luis García,7,M,Lince,Dermatología,,436.37
+P1521,Paciente  García,22,M,Lince,NA,2023-10-07,77.29
+P1522,Paciente Juan García,1,F,Callao,Pediatría,2022-04-15,69.74
+P1523,Paciente  García,21,NA,Miraflores,NA,2020-06-05,469.62
+P1524,Paciente  ,77,F,Lince,Odontología,2021-01-13,101.3
+P1525,Paciente Ana Torres,32,M,La Molina,Pediatría,2022-11-21,473.31
+P1526,Paciente Luis Pérez,39,M,La Molina,Pediatría,2023-09-17,366.37
+P1527,Paciente Luis ,23,NA,San Isidro,NA,,159.15
+P1528,Paciente Ana García,17,NA,San Isidro,Dermatología,2024-07-22,404.2
+P1529,Paciente Juan Torres,5,M,Lince,Dermatología,2022-05-30,252.61
+P1530,Paciente Ana García,6,F,Miraflores,Cardiología,2020-05-04,169.7
+P1531,Paciente Luis García,12,NA,San Isidro,NA,2022-09-08,64.08
+P1532,Paciente Maria Pérez,75,M,Callao,Cardiología,2020-04-18,475.57
+P1533,Paciente Maria Torres,32,F,La Molina,Cardiología,2021-06-30,105.15
+P1534,Paciente Ana García,19,F,Surco,Odontología,2020-03-01,458.83
+P1535,Paciente Juan Pérez,39,F,Surco,Cardiología,2023-06-11,306.93
+P1536,Paciente Maria Torres,38,M,Lince,Pediatría,2023-02-13,87.69
+P1537,Paciente  Pérez,19,NA,Cajamarca,Dermatología,2024-04-05,104.36
+P1538,Paciente Maria García,85,NA,La Molina,Odontología,2022-06-30,57.7
+P1539,Paciente Ana Torres,19,M,Lince,Pediatría,2020-11-26,69.95
+P1540,Paciente Ana Torres,47,NA,Miraflores,Odontología,2021-12-30,70.35
+P1541,Paciente Maria ,16,M,San Isidro,Odontología,2021-10-03,317.39
+P1542,Paciente Juan Torres,32,NA,Lince,Dermatología,2022-05-10,104.71
+P1543,Paciente  Pérez,30,NA,Miraflores,Dermatología,2024-06-15,174.81
+P1544,Paciente Juan ,80,NA,Lince,NA,2020-02-04,260.7
+P1545,Paciente Maria ,28,NA,Callao,Odontología,2021-09-02,390.68
+P1546,Paciente Ana García,67,M,Lince,Odontología,2024-07-23,50.28
+P1547,Paciente  García,56,F,Miraflores,Dermatología,2023-03-17,230.36
+P1548,Paciente Juan García,60,M,Surco,NA,2023-06-23,
+P1549,Paciente Maria ,,NA,Cajamarca,Pediatría,2020-02-14,266.58
+P1550,Paciente  García,16,NA,Lince,Dermatología,2021-03-12,278.74
+P1551,Paciente  ,25,F,Callao,Cardiología,2024-05-14,481.98
+P1552,Paciente  García,65,F,Cajamarca,Odontología,2020-11-17,183.74
+P1553,Paciente  Torres,52,F,La Molina,NA,2022-02-10,452.29
+P1554,Paciente Luis ,85,F,Lince,Odontología,2020-11-08,113.23
+P1555,Paciente Ana Torres,86,M,Callao,Pediatría,2021-07-16,417.0
+P1556,Paciente Ana Pérez,66,M,Miraflores,Cardiología,2020-07-03,227.29
+P1557,Paciente Luis Pérez,9,M,Surco,Odontología,2024-03-02,
+P1558,Paciente  Pérez,56,NA,San Isidro,NA,2020-10-09,303.46
+P1559,Paciente Maria Pérez,5,NA,Cajamarca,Odontología,2020-04-30,380.19
+P1560,Paciente Luis Pérez,6,NA,San Isidro,Odontología,2020-01-05,55.79
+P1561,Paciente Juan Pérez,61,NA,La Molina,Odontología,2021-10-22,
+P1562,Paciente Ana Pérez,55,F,Callao,Odontología,2020-05-23,235.71
+P1563,Paciente Luis Pérez,4,F,Surco,Pediatría,2022-07-21,466.19
+P1564,Paciente Ana Torres,62,NA,La Molina,Dermatología,2020-12-30,412.46
+P1565,Paciente Juan García,5,NA,Miraflores,Pediatría,2022-05-07,228.88
+P1566,Paciente Maria García,57,NA,Callao,Cardiología,2020-11-30,76.87
+P1567,Paciente Ana Torres,69,M,Miraflores,Dermatología,2023-05-17,183.59
+P1568,Paciente Ana ,72,M,La Molina,Odontología,2023-03-30,369.82
+P1569,Paciente Maria ,1,F,San Isidro,Pediatría,2021-05-30,97.21
+P1570,Paciente Maria Pérez,22,M,Lince,Odontología,2024-11-06,295.12
+P1571,Paciente Juan ,12,M,Miraflores,NA,2023-04-26,253.2
+P1572,Paciente Luis ,8,NA,La Molina,Pediatría,2021-12-18,373.04
+P1573,Paciente Ana Torres,52,F,San Isidro,Odontología,2022-10-02,373.92
+P1574,Paciente Luis Pérez,43,NA,Surco,Pediatría,2024-01-30,164.17
+P1575,Paciente Ana Pérez,73,M,La Molina,Odontología,2020-07-20,387.52
+P1576,Paciente  García,39,F,Lince,Dermatología,,
+P1577,Paciente Luis Pérez,58,F,Cajamarca,Pediatría,2021-07-01,199.01
+P1578,Paciente  García,57,M,Miraflores,Odontología,2020-08-25,247.07
+P1579,Paciente  Torres,22,F,La Molina,Dermatología,2022-02-15,87.32
+P1580,Paciente Maria Pérez,7,F,San Isidro,Cardiología,2021-09-17,298.25
+P1581,Paciente Luis ,54,M,La Molina,NA,2021-07-27,389.7
+P1582,Paciente Ana Torres,26,NA,La Molina,Dermatología,2021-09-21,112.17
+P1583,Paciente  Torres,50,M,Lince,Pediatría,2023-03-12,68.26
+P1584,Paciente Juan García,48,F,Surco,Pediatría,2021-08-07,109.44
+P1585,Paciente Maria ,20,F,Callao,NA,2021-05-11,403.3
+P1586,Paciente Ana Pérez,9,F,San Isidro,Odontología,2023-02-14,443.59
+P1587,Paciente Maria Pérez,1,NA,Lince,Pediatría,2023-10-19,245.6
+P1588,Paciente Juan ,17,M,Lince,Dermatología,2021-10-23,337.55
+P1589,Paciente Maria ,90,NA,Surco,Cardiología,2021-08-24,423.46
+P1590,Paciente Luis Torres,37,NA,La Molina,Cardiología,2021-06-06,
+P1591,Paciente Juan Pérez,5,F,Surco,Pediatría,2020-08-25,206.96
+P1592,Paciente Maria Torres,63,NA,Callao,NA,2021-09-09,264.25
+P1593,Paciente Juan Pérez,10,M,Lince,Pediatría,2022-08-01,91.75
+P1594,Paciente Maria García,42,NA,Lince,Dermatología,2020-01-22,
+P1595,Paciente  García,63,M,Miraflores,Pediatría,2023-12-19,115.52
+P1596,Paciente Juan Torres,1,NA,San Isidro,Cardiología,2022-04-09,460.3
+P1597,Paciente Juan ,85,M,Surco,Pediatría,2024-11-16,132.15
+P1598,Paciente Maria ,18,NA,Callao,NA,2021-11-23,415.25
+P1599,Paciente  ,25,NA,La Molina,Cardiología,2023-11-12,91.19
+P1600,Paciente Ana García,46,NA,San Isidro,NA,2020-09-21,196.39
+P1601,Paciente Ana Pérez,12,F,San Isidro,Cardiología,2020-04-12,90.99
+P1602,Paciente Juan Torres,56,M,Miraflores,NA,2022-02-20,233.32
+P1603,Paciente  ,16,NA,La Molina,Cardiología,2022-06-05,118.29
+P1604,Paciente Juan Torres,53,M,Miraflores,Odontología,2021-03-25,254.96
+P1605,Paciente Juan García,26,M,Surco,Cardiología,2023-03-06,116.32
+P1606,Paciente Luis Pérez,64,F,Cajamarca,Pediatría,2021-05-13,93.08
+P1607,Paciente Juan García,42,M,Cajamarca,Odontología,2023-11-14,482.79
+P1608,Paciente  Torres,81,NA,La Molina,Odontología,2024-05-18,274.49
+P1609,Paciente Luis ,12,F,Lince,Dermatología,2023-03-26,307.27
+P1610,Paciente Maria García,42,M,San Isidro,Pediatría,2021-10-13,229.71
+P1611,Paciente Ana García,46,M,San Isidro,Pediatría,2024-06-15,160.66
+P1612,Paciente Ana García,24,M,Lince,Cardiología,2021-02-27,453.28
+P1613,Paciente Ana ,53,F,Miraflores,Pediatría,2020-04-29,71.43
+P1614,Paciente Luis García,85,NA,Surco,Pediatría,2024-11-13,158.52
+P1615,Paciente Maria ,77,M,Lince,Pediatría,2023-02-17,476.84
+P1616,Paciente Ana Torres,64,NA,La Molina,Cardiología,2023-11-18,495.89
+P1617,Paciente Luis García,51,F,Miraflores,NA,2022-03-05,322.43
+P1618,Paciente Luis Torres,37,M,Surco,Pediatría,2023-03-15,364.79
+P1619,Paciente  Torres,53,M,Cajamarca,Cardiología,2023-03-13,437.13
+P1620,Paciente Juan Torres,25,M,Cajamarca,Odontología,2023-01-25,282.63
+P1621,Paciente Maria García,29,M,La Molina,Cardiología,2024-04-19,189.74
+P1622,Paciente Maria Pérez,11,M,Cajamarca,Odontología,2024-09-08,102.63
+P1623,Paciente Luis Pérez,89,NA,Callao,Cardiología,2024-06-22,443.35
+P1624,Paciente  Pérez,14,M,San Isidro,Odontología,2023-01-30,491.26
+P1625,Paciente Maria Pérez,81,NA,San Isidro,Odontología,2024-01-30,382.59
+P1626,Paciente Juan ,75,M,Cajamarca,Dermatología,2022-08-24,446.75
+P1627,Paciente Maria Pérez,25,F,Lince,Pediatría,2023-11-21,432.19
+P1628,Paciente  Pérez,40,NA,Surco,Cardiología,2021-06-17,260.37
+P1629,Paciente Ana García,47,M,Miraflores,Cardiología,2022-07-28,206.97
+P1630,Paciente  García,75,F,Cajamarca,Dermatología,2022-01-17,301.35
+P1631,Paciente Maria Torres,78,NA,La Molina,NA,2021-11-20,393.57
+P1632,Paciente  ,11,M,Callao,Pediatría,2021-10-15,408.13
+P1633,Paciente Maria ,63,NA,Cajamarca,Pediatría,2024-12-14,486.25
+P1634,Paciente Maria Pérez,65,NA,Cajamarca,Dermatología,2021-10-20,372.75
+P1635,Paciente Ana ,29,M,San Isidro,NA,2020-04-10,
+P1636,Paciente Juan Pérez,31,F,Callao,Cardiología,2023-05-21,373.54
+P1637,Paciente Juan Torres,41,M,Lince,Cardiología,2020-08-14,82.45
+P1638,Paciente Ana García,6,M,Surco,Odontología,2024-02-06,119.52
+P1639,Paciente Maria García,14,M,Cajamarca,NA,2022-10-06,126.0
+P1640,Paciente Luis Torres,37,M,Cajamarca,Odontología,2021-05-05,302.87
+P1641,Paciente Maria Torres,40,M,Cajamarca,NA,2021-04-10,308.79
+P1642,Paciente  Pérez,16,F,Callao,Odontología,2021-02-15,72.96
+P1643,Paciente Ana Pérez,,NA,Miraflores,Cardiología,2023-05-17,476.04
+P1644,Paciente Juan ,79,M,Cajamarca,Pediatría,2022-05-27,74.15
+P1645,Paciente Ana Torres,69,NA,Callao,Dermatología,2023-01-06,218.13
+P1646,Paciente Juan Torres,88,NA,San Isidro,Dermatología,2022-06-15,476.55
+P1647,Paciente  Torres,70,M,Surco,Dermatología,2021-06-22,
+P1648,Paciente Luis García,58,NA,San Isidro,NA,2021-04-19,264.73
+P1649,Paciente  Torres,51,M,San Isidro,Dermatología,2021-07-17,178.0
+P1650,Paciente  ,,M,Lince,Odontología,2024-03-18,415.83
+P1651,Paciente Juan ,41,F,Lince,Cardiología,2022-05-16,251.48
+P1652,Paciente Luis ,65,NA,La Molina,Pediatría,2022-02-28,189.74
+P1653,Paciente  García,1,F,La Molina,NA,2020-08-07,326.8
+P1654,Paciente Juan Pérez,14,NA,Miraflores,Dermatología,2020-10-31,99.94
+P1655,Paciente Juan Pérez,,NA,La Molina,Pediatría,2023-08-28,191.48
+P1656,Paciente Juan Torres,66,NA,La Molina,Pediatría,,352.33
+P1657,Paciente Luis García,7,M,Cajamarca,Odontología,2021-08-10,350.24
+P1658,Paciente Maria García,56,NA,Miraflores,Pediatría,2023-01-17,488.49
+P1659,Paciente Ana García,32,M,Surco,Dermatología,2022-01-24,122.81
+P1660,Paciente Maria Torres,63,NA,Cajamarca,Pediatría,2023-12-03,217.2
+P1661,Paciente Ana ,12,F,Lince,Dermatología,2023-05-25,478.88
+P1662,Paciente Luis García,18,NA,San Isidro,Odontología,2021-04-09,90.9
+P1663,Paciente  Pérez,5,F,San Isidro,Pediatría,2020-10-30,110.45
+P1664,Paciente Juan ,72,NA,San Isidro,Pediatría,,498.64
+P1665,Paciente Maria Pérez,17,NA,Lince,NA,2021-05-20,151.61
+P1666,Paciente  Torres,76,F,La Molina,Dermatología,2020-02-24,458.78
+P1667,Paciente Maria ,57,NA,Surco,Dermatología,2024-09-08,325.17
+P1668,Paciente Luis Torres,80,M,San Isidro,Pediatría,2024-11-02,463.16
+P1669,Paciente Ana ,36,NA,San Isidro,Odontología,2021-02-11,387.36
+P1670,Paciente Maria García,25,NA,Callao,Dermatología,2023-01-16,117.74
+P1671,Paciente Maria ,27,NA,Cajamarca,Pediatría,2021-03-28,
+P1672,Paciente  ,4,F,San Isidro,Odontología,2022-10-12,474.96
+P1673,Paciente Ana García,59,M,Lince,Pediatría,2021-06-01,174.99
+P1674,Paciente Juan García,,F,Lince,NA,2020-01-12,146.42
+P1675,Paciente Juan García,59,NA,La Molina,Pediatría,2022-04-01,492.67
+P1676,Paciente Luis García,34,NA,Surco,NA,2022-08-31,417.9
+P1677,Paciente Maria Pérez,77,NA,Callao,Pediatría,2022-11-09,407.7
+P1678,Paciente Ana ,15,NA,Callao,Dermatología,2021-06-30,494.07
+P1679,Paciente Luis García,9,F,La Molina,NA,2020-12-23,290.4
+P1680,Paciente  Pérez,12,F,La Molina,Dermatología,,155.27
+P1681,Paciente Luis ,3,F,San Isidro,Pediatría,2024-07-23,103.75
+P1682,Paciente  Pérez,51,F,Surco,Dermatología,2020-11-13,485.87
+P1683,Paciente Maria Pérez,11,NA,Lince,Cardiología,2023-08-18,357.41
+P1684,Paciente Maria Pérez,15,M,La Molina,Odontología,2022-06-10,328.86
+P1685,Paciente Juan ,55,M,La Molina,Odontología,2022-12-01,410.4
+P1686,Paciente Juan ,15,NA,Cajamarca,Cardiología,2024-04-10,468.15
+P1687,Paciente Juan García,35,F,Miraflores,NA,2022-08-12,262.44
+P1688,Paciente Luis García,53,M,Lince,Dermatología,,410.8
+P1689,Paciente Luis Torres,86,F,Miraflores,Dermatología,2024-12-18,235.71
+P1690,Paciente Juan ,69,M,Surco,Odontología,2024-01-30,481.43
+P1691,Paciente Juan Pérez,,M,San Isidro,Odontología,2024-12-11,337.29
+P1692,Paciente Luis ,13,F,Lince,Odontología,2020-09-10,293.58
+P1693,Paciente Ana ,49,NA,Cajamarca,Odontología,2020-09-29,158.18
+P1694,Paciente Luis ,75,NA,Cajamarca,Odontología,2020-01-11,422.18
+P1695,Paciente Maria Torres,30,NA,Surco,NA,2022-11-11,52.58
+P1696,Paciente  García,80,F,La Molina,Dermatología,2022-11-27,219.56
+P1697,Paciente  Pérez,54,M,Callao,Odontología,2023-03-01,93.12
+P1698,Paciente Juan Torres,47,F,Callao,Cardiología,2020-07-15,99.31
+P1699,Paciente Luis Torres,17,F,La Molina,Cardiología,2024-05-01,177.56
+P1700,Paciente Ana ,24,F,Miraflores,Pediatría,,58.23
+P1701,Paciente Juan Torres,32,NA,Miraflores,NA,2024-08-09,485.33
+P1702,Paciente Ana Pérez,65,NA,San Isidro,NA,2022-05-02,102.7
+P1703,Paciente Ana ,70,M,Miraflores,Odontología,2020-07-13,233.71
+P1704,Paciente  Pérez,60,F,Callao,Cardiología,2024-04-02,260.13
+P1705,Paciente Luis García,46,M,Lince,Pediatría,2020-04-05,190.95
+P1706,Paciente  ,85,M,Surco,Pediatría,2020-07-01,63.77
+P1707,Paciente Luis ,55,NA,Surco,NA,2022-07-05,239.78
+P1708,Paciente Ana Torres,70,F,Miraflores,Cardiología,2024-05-05,248.83
+P1709,Paciente Maria García,33,NA,San Isidro,Odontología,2020-05-06,65.86
+P1710,Paciente Maria Pérez,44,M,Callao,Pediatría,2023-09-12,298.66
+P1711,Paciente Luis Torres,88,F,Cajamarca,Cardiología,2021-12-13,108.49
+P1712,Paciente Juan Pérez,61,F,San Isidro,Cardiología,2021-02-15,352.79
+P1713,Paciente Ana ,18,F,Callao,Odontología,,325.86
+P1714,Paciente Juan García,65,M,Surco,Pediatría,2022-02-19,432.27
+P1715,Paciente  Torres,57,F,Callao,Dermatología,2022-09-03,270.89
+P1716,Paciente Ana García,6,F,La Molina,Pediatría,2024-10-18,293.39
+P1717,Paciente Juan ,7,M,Lince,NA,2020-03-21,211.9
+P1718,Paciente Luis ,62,M,Cajamarca,Odontología,2020-11-05,317.63
+P1719,Paciente Luis Torres,8,NA,Cajamarca,Odontología,2021-01-10,467.26
+P1720,Paciente Luis Torres,67,F,Lince,Cardiología,2022-03-02,90.1
+P1721,Paciente Juan ,39,M,Surco,NA,2024-02-26,257.33
+P1722,Paciente Maria García,20,F,Surco,Dermatología,2024-04-25,298.85
+P1723,Paciente Maria Torres,68,F,Surco,Odontología,,100.99
+P1724,Paciente  ,79,NA,San Isidro,NA,,333.58
+P1725,Paciente Juan Pérez,80,NA,Miraflores,Dermatología,2021-09-05,154.11
+P1726,Paciente Luis García,,NA,Surco,Cardiología,2020-04-16,480.53
+P1727,Paciente Ana Torres,11,NA,Miraflores,Dermatología,2021-02-13,455.4
+P1728,Paciente Luis ,41,M,Cajamarca,Cardiología,2020-07-04,357.26
+P1729,Paciente  ,85,M,Surco,Cardiología,2020-11-06,255.68
+P1730,Paciente Luis Pérez,36,NA,La Molina,NA,2020-06-08,156.65
+P1731,Paciente  Pérez,53,F,San Isidro,Pediatría,2024-04-25,122.76
+P1732,Paciente Luis ,16,F,Callao,Dermatología,,98.08
+P1733,Paciente Ana ,52,M,Surco,Cardiología,2024-04-29,256.26
+P1734,Paciente Juan Pérez,6,M,Cajamarca,NA,2024-07-29,421.92
+P1735,Paciente Ana Torres,,M,La Molina,NA,2022-09-29,374.65
+P1736,Paciente Juan Pérez,69,M,San Isidro,Cardiología,2022-12-01,120.06
+P1737,Paciente  Pérez,62,F,La Molina,Pediatría,2021-11-10,495.5
+P1738,Paciente  ,15,NA,Callao,Dermatología,2022-03-02,61.77
+P1739,Paciente Juan ,42,M,Lince,Dermatología,2022-11-11,327.98
+P1740,Paciente Juan Pérez,86,NA,Lince,Cardiología,2024-08-12,125.19
+P1741,Paciente Ana Pérez,,M,Lince,Odontología,2020-03-29,236.26
+P1742,Paciente Ana Torres,36,NA,Surco,NA,2022-02-19,368.5
+P1743,Paciente Juan Pérez,9,M,La Molina,Pediatría,2021-11-17,359.78
+P1744,Paciente Ana Torres,22,F,Lince,Cardiología,2023-07-31,340.33
+P1745,Paciente  García,6,M,San Isidro,Cardiología,2022-06-08,
+P1746,Paciente  Torres,16,M,Callao,Odontología,2022-11-01,269.18
+P1747,Paciente  García,85,M,La Molina,Dermatología,2023-11-24,469.72
+P1748,Paciente  Torres,60,F,Cajamarca,Cardiología,2020-01-18,360.2
+P1749,Paciente  Pérez,47,NA,La Molina,NA,2024-08-16,77.11
+P1750,Paciente Ana García,26,F,Cajamarca,Cardiología,2024-07-07,153.53
+P1751,Paciente Maria García,12,NA,Lince,Odontología,2024-12-05,329.82
+P1752,Paciente Maria Torres,65,M,Cajamarca,Pediatría,2024-12-15,134.93
+P1753,Paciente Ana ,68,NA,Surco,Cardiología,2021-04-26,286.61
+P1754,Paciente Luis García,59,M,San Isidro,Pediatría,2024-11-05,63.28
+P1755,Paciente  Pérez,46,F,Cajamarca,Odontología,2020-12-22,476.48
+P1756,Paciente  ,46,M,Surco,NA,2022-08-25,82.75
+P1757,Paciente Juan García,53,NA,San Isidro,NA,2020-07-05,404.64
+P1758,Paciente  García,15,F,San Isidro,Dermatología,2022-07-11,133.23
+P1759,Paciente Ana Pérez,43,F,La Molina,Cardiología,2023-06-30,
+P1760,Paciente Juan ,7,NA,Callao,Pediatría,2020-05-21,289.16
+P1761,Paciente  Torres,63,M,San Isidro,Pediatría,2021-07-24,216.89
+P1762,Paciente Ana García,77,NA,La Molina,NA,2022-08-26,315.21
+P1763,Paciente Ana Pérez,67,M,Cajamarca,Pediatría,2023-01-23,222.59
+P1764,Paciente Ana Pérez,83,M,San Isidro,Cardiología,2024-04-01,445.76
+P1765,Paciente Maria ,,NA,La Molina,Dermatología,2020-02-08,145.78
+P1766,Paciente  García,11,M,Surco,Pediatría,2024-11-25,395.05
+P1767,Paciente Maria Pérez,7,F,Cajamarca,Dermatología,2021-10-23,371.48
+P1768,Paciente  Torres,22,NA,Surco,Dermatología,2024-02-15,381.84
+P1769,Paciente Luis ,36,F,Lince,Dermatología,2022-03-22,413.55
+P1770,Paciente Luis García,49,NA,Lince,Cardiología,2020-09-08,
+P1771,Paciente Maria García,23,F,San Isidro,Cardiología,2020-08-04,
+P1772,Paciente  Pérez,77,M,Callao,Odontología,2023-12-20,294.65
+P1773,Paciente  Torres,7,M,Surco,Dermatología,2020-08-30,102.9
+P1774,Paciente Luis Pérez,12,NA,La Molina,Pediatría,2020-08-28,335.15
+P1775,Paciente Luis ,50,M,Callao,Cardiología,2023-03-27,125.02
+P1776,Paciente Ana García,57,M,Surco,Dermatología,2024-11-13,410.86
+P1777,Paciente  García,32,M,Lince,NA,2021-06-15,245.54
+P1778,Paciente Juan Torres,1,M,San Isidro,Odontología,2020-09-06,66.1
+P1779,Paciente Maria Torres,5,F,Lince,Odontología,2023-01-02,
+P1780,Paciente Maria García,55,F,Callao,Odontología,2023-01-11,56.04
+P1781,Paciente Juan Pérez,86,F,Lince,NA,2023-11-29,377.4
+P1782,Paciente Ana Pérez,89,NA,San Isidro,Odontología,2020-04-28,391.51
+P1783,Paciente Luis García,78,F,Callao,NA,2020-08-19,151.62
+P1784,Paciente Luis García,41,M,Lince,Cardiología,2022-07-17,81.71
+P1785,Paciente  Torres,16,NA,La Molina,Cardiología,2022-08-14,313.21
+P1786,Paciente Maria Pérez,6,F,Miraflores,Pediatría,,64.88
+P1787,Paciente  Torres,72,F,Callao,Odontología,2021-10-20,67.66
+P1788,Paciente Maria Torres,2,F,Cajamarca,Pediatría,2021-02-21,170.74
+P1789,Paciente Ana Pérez,78,F,Lince,Cardiología,2021-08-15,345.19
+P1790,Paciente Luis Torres,33,F,Callao,Odontología,2024-11-03,75.99
+P1791,Paciente Luis Pérez,69,M,Cajamarca,Odontología,2022-12-20,285.07
+P1792,Paciente Ana ,20,M,Lince,Dermatología,2021-02-24,146.74
+P1793,Paciente Ana Torres,3,F,Lince,Pediatría,2020-10-12,249.58
+P1794,Paciente  Pérez,22,M,La Molina,NA,2020-02-14,283.05
+P1795,Paciente  Pérez,36,NA,Surco,Cardiología,2023-04-02,84.37
+P1796,Paciente Luis García,,M,Surco,NA,,452.93
+P1797,Paciente Maria Torres,23,F,Miraflores,Pediatría,2020-05-29,129.24
+P1798,Paciente Luis Pérez,75,M,Cajamarca,Cardiología,2022-03-14,143.7
+P1799,Paciente Luis Torres,75,M,Lince,Pediatría,2024-11-29,336.13
+P1800,Paciente Juan Torres,2,M,San Isidro,NA,2022-07-17,122.38
+P1801,Paciente Ana ,75,NA,Cajamarca,Pediatría,2022-06-18,73.79
+P1802,Paciente Ana Torres,17,M,La Molina,Odontología,2022-10-12,434.85
+P1803,Paciente Ana ,87,M,Callao,Dermatología,2021-07-19,497.36
+P1804,Paciente Luis García,7,M,La Molina,Cardiología,2020-05-10,473.37
+P1805,Paciente Maria ,7,NA,Surco,Odontología,2024-02-13,76.2
+P1806,Paciente Luis ,1,M,Miraflores,Dermatología,2020-05-05,386.5
+P1807,Paciente Juan Torres,72,NA,Miraflores,Cardiología,2021-02-19,334.54
+P1808,Paciente Maria García,7,M,Callao,Cardiología,2024-09-05,428.93
+P1809,Paciente Juan García,21,F,Cajamarca,Pediatría,2023-10-19,90.5
+P1810,Paciente Maria Pérez,28,F,San Isidro,Dermatología,2024-04-06,486.87
+P1811,Paciente  ,71,F,Cajamarca,NA,2024-10-24,209.72
+P1812,Paciente Juan García,33,NA,San Isidro,NA,2020-11-28,200.45
+P1813,Paciente  ,89,NA,Cajamarca,Odontología,2024-09-06,287.13
+P1814,Paciente Luis García,53,NA,San Isidro,Dermatología,2023-03-04,53.12
+P1815,Paciente Ana García,58,NA,Surco,Cardiología,2023-08-17,382.56
+P1816,Paciente  ,2,M,Lince,Dermatología,2021-10-06,191.04
+P1817,Paciente Ana Pérez,12,NA,Lince,Cardiología,2022-04-27,285.1
+P1818,Paciente Ana García,28,F,Surco,Cardiología,2023-02-09,83.19
+P1819,Paciente Luis García,,F,Callao,Odontología,2020-05-06,61.84
+P1820,Paciente Luis Torres,24,M,Surco,Odontología,2020-06-29,391.89
+P1821,Paciente  ,68,NA,Surco,Odontología,,404.32
+P1822,Paciente Maria ,30,M,Callao,Odontología,2021-11-26,193.76
+P1823,Paciente  Pérez,41,NA,Miraflores,Dermatología,2020-12-20,124.33
+P1824,Paciente Luis Pérez,60,F,Surco,NA,2024-07-15,469.65
+P1825,Paciente Luis Torres,15,F,Miraflores,NA,2020-11-30,459.11
+P1826,Paciente Juan Torres,70,F,San Isidro,NA,2020-06-19,417.38
+P1827,Paciente Juan Pérez,88,F,Cajamarca,Dermatología,2023-04-02,235.85
+P1828,Paciente Ana Torres,27,NA,Lince,Odontología,2023-07-04,388.01
+P1829,Paciente Luis García,78,M,La Molina,Cardiología,2023-11-28,152.98
+P1830,Paciente Ana Pérez,25,NA,Surco,Dermatología,2021-02-18,487.3
+P1831,Paciente Maria Torres,44,M,La Molina,NA,2024-01-31,210.12
+P1832,Paciente Maria ,,F,Callao,Pediatría,2022-05-25,265.5
+P1833,Paciente  ,57,NA,Surco,Odontología,,458.01
+P1834,Paciente Ana Pérez,9,NA,La Molina,NA,2021-12-22,298.5
+P1835,Paciente Maria Torres,83,NA,Miraflores,NA,2023-11-27,369.92
+P1836,Paciente Ana García,49,M,Lince,Odontología,2023-02-24,207.55
+P1837,Paciente Maria García,,NA,Cajamarca,Cardiología,2020-04-21,298.5
+P1838,Paciente Juan Torres,61,M,Callao,Cardiología,2024-10-20,462.52
+P1839,Paciente Maria Pérez,70,F,Callao,Pediatría,,146.87
+P1840,Paciente Maria ,23,NA,Lince,Pediatría,2023-05-19,286.39
+P1841,Paciente Ana García,46,M,Miraflores,Odontología,2022-07-22,
+P1842,Paciente Luis Torres,7,NA,Cajamarca,Cardiología,,380.94
+P1843,Paciente Maria Torres,78,F,Lince,NA,2023-05-30,333.56
+P1844,Paciente Juan ,62,F,La Molina,Odontología,2023-05-17,386.19
+P1845,Paciente Ana Torres,89,M,Callao,NA,2024-11-08,74.08
+P1846,Paciente Maria Torres,90,NA,Miraflores,Odontología,2022-12-30,440.19
+P1847,Paciente Juan García,18,F,San Isidro,Dermatología,,371.97
+P1848,Paciente Ana Pérez,7,F,Lince,Pediatría,2024-06-21,475.13
+P1849,Paciente Ana Pérez,21,NA,San Isidro,Pediatría,2024-05-04,356.04
+P1850,Paciente  García,57,F,Miraflores,Pediatría,2023-02-03,212.79
+P1851,Paciente Maria Torres,5,F,La Molina,Odontología,2022-08-01,249.97
+P1852,Paciente  Pérez,8,M,Surco,Odontología,2022-07-17,302.06
+P1853,Paciente Ana Pérez,82,NA,La Molina,NA,2021-08-31,79.56
+P1854,Paciente Ana ,52,M,Lince,Cardiología,2024-06-13,118.14
+P1855,Paciente Luis Pérez,16,NA,Lince,Dermatología,2023-11-30,163.5
+P1856,Paciente Luis ,89,NA,La Molina,Cardiología,2020-06-14,306.72
+P1857,Paciente Ana Torres,44,F,Lince,NA,2020-12-31,193.77
+P1858,Paciente Luis Pérez,58,NA,Callao,NA,2020-02-07,288.47
+P1859,Paciente Juan García,80,M,Surco,NA,,232.5
+P1860,Paciente Juan Torres,3,F,La Molina,Odontología,2021-11-26,320.9
+P1861,Paciente Luis García,38,M,Cajamarca,Pediatría,2021-01-31,430.49
+P1862,Paciente Luis ,87,F,San Isidro,NA,2020-02-11,177.74
+P1863,Paciente Maria García,34,M,San Isidro,Dermatología,2024-10-08,442.79
+P1864,Paciente  ,86,F,Lince,Cardiología,2020-05-31,358.86
+P1865,Paciente Ana Pérez,83,NA,Miraflores,Cardiología,2024-03-12,273.15
+P1866,Paciente Ana Pérez,63,NA,Lince,NA,2020-02-13,77.14
+P1867,Paciente Maria Torres,,NA,San Isidro,Odontología,2023-04-11,478.91
+P1868,Paciente Maria ,38,F,Callao,Pediatría,2024-05-12,484.89
+P1869,Paciente  Torres,77,NA,Miraflores,Cardiología,2021-03-10,326.15
+P1870,Paciente Luis García,13,NA,La Molina,Pediatría,2023-09-23,331.25
+P1871,Paciente Juan García,34,F,Miraflores,NA,2020-12-26,373.08
+P1872,Paciente Maria Torres,6,F,Surco,Cardiología,2022-07-28,293.65
+P1873,Paciente  Torres,8,M,San Isidro,Odontología,2020-09-21,435.5
+P1874,Paciente Luis Pérez,27,M,Surco,Odontología,2020-03-24,242.97
+P1875,Paciente Maria ,4,F,La Molina,NA,2020-01-03,138.29
+P1876,Paciente Juan Pérez,25,M,Miraflores,NA,2021-04-01,82.45
+P1877,Paciente Maria Pérez,18,NA,San Isidro,Odontología,2020-04-28,161.76
+P1878,Paciente  García,41,NA,San Isidro,NA,2020-09-23,116.97
+P1879,Paciente Luis Torres,14,M,La Molina,Cardiología,2024-08-31,111.01
+P1880,Paciente Ana ,55,F,Callao,Pediatría,2023-09-25,57.86
+P1881,Paciente Juan Torres,54,M,Cajamarca,Pediatría,2024-12-05,190.07
+P1882,Paciente Maria García,68,F,Miraflores,Cardiología,2021-06-15,370.24
+P1883,Paciente Ana García,37,NA,Callao,Cardiología,2023-09-17,497.35
+P1884,Paciente  Torres,47,NA,Callao,Pediatría,2023-08-15,317.61
+P1885,Paciente Maria Torres,12,F,Surco,Pediatría,2022-05-29,236.44
+P1886,Paciente Luis Pérez,21,M,Cajamarca,Odontología,2020-08-12,217.48
+P1887,Paciente Ana García,40,M,Lince,Odontología,2022-10-06,365.79
+P1888,Paciente Luis Pérez,61,NA,La Molina,Pediatría,2021-03-23,119.36
+P1889,Paciente  Torres,27,NA,Callao,Odontología,2023-08-19,71.28
+P1890,Paciente  Torres,37,F,Miraflores,Dermatología,2021-01-27,191.87
+P1891,Paciente Luis Pérez,54,F,La Molina,Cardiología,2023-11-05,461.08
+P1892,Paciente Luis Pérez,86,M,Miraflores,Cardiología,2023-10-26,270.54
+P1893,Paciente Juan García,1,NA,Miraflores,NA,2020-11-08,143.85
+P1894,Paciente Ana Pérez,55,M,Callao,Cardiología,2021-04-16,103.59
+P1895,Paciente  Pérez,90,NA,La Molina,Odontología,2020-07-04,128.81
+P1896,Paciente Ana Torres,17,M,Miraflores,Cardiología,2024-06-18,361.63
+P1897,Paciente Luis ,40,NA,Cajamarca,Pediatría,2023-04-22,184.49
+P1898,Paciente Luis Torres,57,F,Miraflores,Odontología,2023-05-11,434.15
+P1899,Paciente  ,42,M,Cajamarca,Odontología,2021-04-13,65.04
+P1900,Paciente Maria Pérez,88,NA,San Isidro,Odontología,2020-02-24,73.0
+P1901,Paciente Juan García,55,F,Cajamarca,Odontología,2022-04-22,371.28
+P1902,Paciente Juan Pérez,41,M,Callao,Cardiología,2021-04-26,483.0
+P1903,Paciente Juan ,62,F,San Isidro,Dermatología,2022-06-20,374.09
+P1904,Paciente Ana García,52,F,San Isidro,Dermatología,2022-06-11,296.67
+P1905,Paciente  Torres,6,M,La Molina,Odontología,2022-06-30,217.5
+P1906,Paciente  Torres,33,NA,Callao,Dermatología,2022-01-01,145.3
+P1907,Paciente Luis Pérez,8,M,Surco,Pediatría,2020-11-03,306.24
+P1908,Paciente  Torres,24,M,Miraflores,Dermatología,2023-07-17,368.51
+P1909,Paciente Ana ,47,M,La Molina,Pediatría,2020-06-23,431.39
+P1910,Paciente Luis ,14,M,Callao,Dermatología,2024-11-15,375.29
+P1911,Paciente Maria Torres,54,M,Cajamarca,Dermatología,2022-10-03,441.6
+P1912,Paciente Luis ,23,F,Surco,Pediatría,2021-08-01,423.8
+P1913,Paciente  García,44,F,La Molina,Odontología,2020-04-08,433.78
+P1914,Paciente Maria Torres,79,F,Surco,Dermatología,2020-04-10,
+P1915,Paciente Maria Torres,82,M,La Molina,NA,2021-11-24,497.81
+P1916,Paciente Maria Pérez,70,NA,Miraflores,Cardiología,2021-07-08,221.7
+P1917,Paciente Maria ,18,NA,San Isidro,Cardiología,2021-12-19,
+P1918,Paciente Maria Pérez,81,F,Miraflores,Odontología,2021-11-29,112.91
+P1919,Paciente Luis Pérez,29,F,Cajamarca,Odontología,2024-07-24,391.16
+P1920,Paciente Juan ,36,NA,La Molina,Dermatología,2023-03-27,280.67
+P1921,Paciente Maria ,71,NA,Miraflores,Odontología,2020-01-05,181.36
+P1922,Paciente Ana Pérez,41,NA,San Isidro,Dermatología,2021-04-16,492.39
+P1923,Paciente  Pérez,52,NA,Miraflores,Pediatría,2023-03-27,358.92
+P1924,Paciente  Pérez,20,M,Cajamarca,Pediatría,2022-01-29,491.21
+P1925,Paciente Maria ,61,F,Surco,Dermatología,2021-03-20,417.72
+P1926,Paciente Juan García,87,F,Lince,Odontología,2021-05-11,246.39
+P1927,Paciente Luis García,12,M,La Molina,Cardiología,2021-05-15,433.36
+P1928,Paciente Juan ,25,M,Callao,Pediatría,2022-04-04,112.4
+P1929,Paciente Juan García,75,NA,Miraflores,Pediatría,2020-06-05,348.99
+P1930,Paciente Juan García,35,NA,Lince,NA,2023-08-11,266.53
+P1931,Paciente Maria Torres,8,F,Callao,Cardiología,2022-05-10,238.95
+P1932,Paciente Juan García,68,M,Callao,Pediatría,2023-09-29,467.73
+P1933,Paciente Luis ,65,M,Callao,Cardiología,2022-09-02,208.13
+P1934,Paciente Ana García,19,NA,Surco,Pediatría,2020-01-08,168.69
+P1935,Paciente Maria ,50,M,La Molina,Dermatología,,478.33
+P1936,Paciente Maria Torres,68,F,Miraflores,Cardiología,2024-06-10,476.83
+P1937,Paciente Luis García,36,F,Cajamarca,Odontología,2021-06-20,481.7
+P1938,Paciente Juan Pérez,,F,Callao,Dermatología,2020-05-14,476.61
+P1939,Paciente  Torres,32,NA,Lince,Dermatología,2023-08-09,103.86
+P1940,Paciente Ana García,27,F,Cajamarca,Cardiología,2020-11-07,70.81
+P1941,Paciente  Torres,28,M,Surco,NA,2022-08-16,63.49
+P1942,Paciente Juan Pérez,15,NA,Miraflores,Pediatría,2020-01-30,
+P1943,Paciente Juan García,10,M,Cajamarca,Cardiología,,191.05
+P1944,Paciente Ana García,74,M,Miraflores,Pediatría,2024-09-24,354.78
+P1945,Paciente Maria Torres,18,NA,La Molina,Cardiología,2022-10-14,340.78
+P1946,Paciente Ana García,,M,San Isidro,Pediatría,2024-09-18,295.72
+P1947,Paciente Luis Torres,56,M,Callao,Pediatría,2023-06-06,349.93
+P1948,Paciente  Pérez,36,M,La Molina,Cardiología,,213.7
+P1949,Paciente Ana Torres,36,F,Cajamarca,Dermatología,2023-11-12,258.14
+P1950,Paciente Luis García,59,NA,La Molina,Pediatría,2021-07-14,68.29
+P1951,Paciente  Torres,73,NA,La Molina,Odontología,,341.24
+P1952,Paciente Juan Torres,14,NA,Cajamarca,Cardiología,2021-10-16,68.49
+P1953,Paciente Luis Pérez,66,F,Surco,Pediatría,2022-03-14,276.51
+P1954,Paciente Ana Torres,75,NA,Surco,Cardiología,2021-01-11,369.87
+P1955,Paciente Luis García,36,M,Lince,Pediatría,,452.81
+P1956,Paciente Ana Pérez,60,NA,San Isidro,NA,2021-08-03,432.07
+P1957,Paciente Juan ,66,F,La Molina,Odontología,2023-04-04,
+P1958,Paciente  Pérez,23,NA,Surco,NA,2020-03-03,469.47
+P1959,Paciente Ana ,2,M,Lince,Cardiología,2024-06-04,68.19
+P1960,Paciente  Torres,79,F,Surco,NA,2023-01-03,219.48
+P1961,Paciente Maria ,13,M,Callao,Cardiología,2024-06-01,163.46
+P1962,Paciente Luis Pérez,60,F,La Molina,NA,2022-10-07,354.64
+P1963,Paciente  Pérez,24,NA,La Molina,Pediatría,2021-02-26,163.73
+P1964,Paciente Maria ,26,M,La Molina,Dermatología,2021-10-19,191.12
+P1965,Paciente Luis Pérez,67,M,Lince,Dermatología,2024-03-27,373.58
+P1966,Paciente Maria García,44,NA,La Molina,Dermatología,,254.81
+P1967,Paciente Luis Torres,17,NA,La Molina,Cardiología,2020-03-20,364.42
+P1968,Paciente Juan ,62,NA,Miraflores,Dermatología,2022-09-15,480.34
+P1969,Paciente Maria García,58,M,San Isidro,Odontología,2021-07-19,422.75
+P1970,Paciente Luis ,89,M,Callao,NA,2021-12-02,146.29
+P1971,Paciente Ana García,67,F,San Isidro,Cardiología,2024-06-26,176.1
+P1972,Paciente Maria García,3,F,Surco,NA,2023-05-05,
+P1973,Paciente  ,2,M,Cajamarca,Odontología,2022-08-17,315.54
+P1974,Paciente Maria Pérez,3,M,San Isidro,Dermatología,2024-08-29,377.38
+P1975,Paciente Juan ,73,M,Surco,Cardiología,2023-02-02,254.67
+P1976,Paciente Ana García,4,M,Callao,Odontología,2023-12-15,116.16
+P1977,Paciente  ,56,F,Cajamarca,Pediatría,2023-03-02,332.75
+P1978,Paciente Luis García,58,NA,Callao,Odontología,,61.47
+P1979,Paciente Maria Pérez,64,NA,Surco,Cardiología,2022-11-03,323.35
+P1980,Paciente  Pérez,17,F,Miraflores,Dermatología,2024-08-27,480.5
+P1981,Paciente Luis Pérez,50,M,Cajamarca,NA,2022-10-28,358.92
+P1982,Paciente  Torres,60,F,La Molina,Odontología,2024-09-07,255.53
+P1983,Paciente  ,86,F,Callao,Cardiología,2024-01-24,347.46
+P1984,Paciente Ana Pérez,84,F,Cajamarca,Dermatología,2020-09-08,218.77
+P1985,Paciente  ,58,M,Surco,Odontología,2021-05-08,443.41
+P1986,Paciente Ana ,34,NA,La Molina,Odontología,,169.41
+P1987,Paciente Maria ,55,F,Lince,Pediatría,2020-11-26,236.95
+P1988,Paciente Luis Pérez,35,NA,Cajamarca,Cardiología,2023-11-23,166.78
+P1989,Paciente Maria ,79,NA,La Molina,Dermatología,2024-11-09,373.72
+P1990,Paciente Juan ,13,NA,La Molina,NA,2021-03-24,414.05
+P1991,Paciente Maria Torres,38,F,Lince,NA,2023-04-23,441.4
+P1992,Paciente Luis ,73,NA,Surco,NA,2024-09-22,371.78
+P1993,Paciente Luis Torres,40,M,Lince,Cardiología,,373.52
+P1994,Paciente Maria Torres,38,M,Miraflores,Dermatología,2023-10-09,405.94
+P1995,Paciente Maria Pérez,59,NA,Callao,Pediatría,2021-02-05,243.72
+P1996,Paciente Juan García,76,M,Surco,Cardiología,2020-04-02,121.36
+P1997,Paciente Luis ,66,F,Lince,Odontología,2024-09-30,54.62
+P1998,Paciente Luis García,65,NA,Callao,Pediatría,2022-03-16,489.35
+P1999,Paciente Maria Pérez,19,F,San Isidro,Odontología,2023-10-31,122.16
+P2000,Paciente  ,6,NA,San Isidro,Cardiología,2022-05-18,158.42
+P2001,Paciente Ana García,80,NA,Miraflores,Pediatría,2023-08-14,231.81
+P2002,Paciente Maria ,,M,Lince,Pediatría,,457.8
+P2003,Paciente Juan Torres,20,F,Lince,Dermatología,2021-03-09,498.89
+P2004,Paciente Juan ,66,NA,Surco,Pediatría,2021-08-19,108.68
+P2005,Paciente Maria ,77,NA,Lince,Pediatría,2024-07-09,212.43
+P2006,Paciente Luis ,35,M,Callao,Dermatología,2023-02-24,120.85
+P2007,Paciente Juan Torres,29,F,La Molina,Cardiología,2022-03-01,
+P2008,Paciente Juan Torres,87,M,San Isidro,Pediatría,2020-04-24,
+P2009,Paciente Maria García,86,NA,La Molina,Cardiología,2021-04-30,144.21
+P2010,Paciente Ana Torres,65,M,Cajamarca,Cardiología,2024-08-14,357.7
+P2011,Paciente Maria Torres,78,M,San Isidro,Dermatología,2021-01-18,248.45
+P2012,Paciente Luis García,71,F,Callao,Dermatología,2023-05-12,182.09
+P2013,Paciente Ana García,18,M,Lince,Pediatría,,358.13
+P2014,Paciente  Pérez,69,F,Miraflores,NA,2024-05-13,452.58
+P2015,Paciente Juan Torres,70,M,Miraflores,Odontología,2023-01-20,255.84
+P2016,Paciente Ana ,42,NA,San Isidro,Odontología,2020-11-24,87.43
+P2017,Paciente Luis García,12,M,Miraflores,Odontología,2024-01-16,286.94
+P2018,Paciente Ana ,41,F,Cajamarca,Pediatría,2023-12-17,79.21
+P2019,Paciente Luis García,7,F,Miraflores,Cardiología,2022-05-01,119.57
+P2020,Paciente Juan García,19,NA,San Isidro,Cardiología,2023-08-12,264.48
+P2021,Paciente Juan Torres,21,F,Callao,Cardiología,2020-10-29,85.48
+P2022,Paciente Luis Torres,67,F,Surco,Pediatría,2024-08-09,422.02
+P2023,Paciente Luis Torres,8,NA,San Isidro,Odontología,2020-04-01,394.12
+P2024,Paciente Ana Pérez,61,F,Lince,Cardiología,2024-08-07,141.64
+P2025,Paciente Luis García,87,F,Lince,Dermatología,,201.79
+P2026,Paciente Maria ,2,F,La Molina,Pediatría,2024-10-24,426.12
+P2027,Paciente Juan Torres,,M,Miraflores,Cardiología,2021-07-13,130.01
+P2028,Paciente Luis García,11,NA,Callao,NA,2024-05-07,91.26
+P2029,Paciente Juan Pérez,11,NA,San Isidro,NA,2023-05-08,156.8
+P2030,Paciente Luis Pérez,46,F,Surco,Cardiología,2020-03-22,156.27
+P2031,Paciente Maria García,70,M,La Molina,Cardiología,,244.13
+P2032,Paciente Maria Torres,54,M,Cajamarca,Pediatría,2023-10-01,244.45
+P2033,Paciente Maria García,6,M,Callao,Pediatría,2023-06-17,207.52
+P2034,Paciente Maria Pérez,47,F,Cajamarca,Cardiología,2024-04-23,384.01
+P2035,Paciente Luis Torres,66,M,Surco,Pediatría,2024-09-24,278.31
+P2036,Paciente Juan Pérez,61,NA,Miraflores,Odontología,2021-11-09,110.11
+P2037,Paciente Juan Pérez,12,M,Surco,Cardiología,2020-08-15,104.43
+P2038,Paciente Luis Torres,30,M,La Molina,Odontología,2024-10-16,200.21
+P2039,Paciente  Pérez,44,NA,Miraflores,Pediatría,2020-07-21,413.87
+P2040,Paciente Luis García,30,F,La Molina,Dermatología,,193.81
+P2041,Paciente Juan Torres,25,NA,Cajamarca,Dermatología,2022-08-11,151.82
+P2042,Paciente Luis ,17,NA,Surco,Dermatología,2021-02-06,384.44
+P2043,Paciente Ana Pérez,63,NA,La Molina,Dermatología,,348.97
+P2044,Paciente Luis Torres,79,NA,San Isidro,Odontología,2022-04-29,462.44
+P2045,Paciente Ana Pérez,,NA,Surco,Odontología,2021-10-28,339.04
+P2046,Paciente Juan Torres,83,NA,Cajamarca,Pediatría,2024-07-11,
+P2047,Paciente Maria Pérez,11,NA,Miraflores,Cardiología,2024-08-07,346.49
+P2048,Paciente Luis García,14,M,San Isidro,Dermatología,2020-06-15,454.52
+P2049,Paciente  ,30,M,Lince,Odontología,2022-03-07,307.03
+P2050,Paciente  García,87,M,Surco,Cardiología,2024-06-06,168.03
+P2051,Paciente Ana Torres,4,NA,Surco,NA,2024-02-03,80.94
+P2052,Paciente Maria García,24,M,Callao,Cardiología,2024-03-15,237.26
+P2053,Paciente  Torres,72,NA,Callao,Cardiología,2020-07-26,324.07
+P2054,Paciente Maria ,27,M,Miraflores,Odontología,2023-08-06,176.33
+P2055,Paciente Luis Torres,53,NA,San Isidro,Dermatología,2023-11-06,141.52
+P2056,Paciente Maria García,29,M,Lince,Pediatría,2021-07-02,398.79
+P2057,Paciente Luis Pérez,24,M,Miraflores,Pediatría,2023-04-08,341.24
+P2058,Paciente Juan Pérez,6,M,Miraflores,Cardiología,,264.69
+P2059,Paciente  Torres,28,F,Surco,Dermatología,2020-08-03,96.6
+P2060,Paciente Ana García,70,F,Cajamarca,NA,2022-10-12,152.04
+P2061,Paciente Ana García,4,NA,Miraflores,Pediatría,2020-01-05,219.64
+P2062,Paciente Juan Torres,84,NA,San Isidro,Cardiología,2020-09-17,176.76
+P2063,Paciente Luis García,82,F,San Isidro,Odontología,2024-10-01,276.34
+P2064,Paciente Maria ,80,F,Miraflores,Pediatría,2024-09-11,303.36
+P2065,Paciente Juan García,80,NA,Cajamarca,Cardiología,,183.58
+P2066,Paciente Luis Torres,45,F,La Molina,NA,,136.1
+P2067,Paciente  Pérez,85,F,Surco,Dermatología,2024-08-11,161.3
+P2068,Paciente Juan Torres,72,M,Cajamarca,Odontología,2023-01-09,59.59
+P2069,Paciente  Pérez,88,NA,Callao,Odontología,,398.08
+P2070,Paciente Maria García,2,NA,Cajamarca,Pediatría,2021-01-20,203.43
+P2071,Paciente Juan Pérez,15,F,Callao,Pediatría,2022-01-25,234.81
+P2072,Paciente Maria ,60,M,Surco,Cardiología,2022-12-26,294.32
+P2073,Paciente Ana ,55,NA,Cajamarca,Pediatría,2020-10-19,168.79
+P2074,Paciente  Torres,23,M,Surco,NA,2022-10-22,
+P2075,Paciente Juan Torres,87,NA,Callao,Pediatría,2022-11-12,449.81
+P2076,Paciente Juan Torres,33,F,Callao,Cardiología,2020-12-31,374.63
+P2077,Paciente  García,25,NA,Lince,Pediatría,2020-04-16,250.49
+P2078,Paciente Maria Torres,26,M,Miraflores,Odontología,2020-12-01,336.03
+P2079,Paciente Luis Torres,23,NA,Surco,Dermatología,2022-12-06,174.35
+P2080,Paciente Luis ,15,F,Cajamarca,Odontología,2024-01-15,400.48
+P2081,Paciente  Pérez,64,F,Miraflores,Odontología,2021-09-09,442.94
+P2082,Paciente  Pérez,15,M,Callao,Odontología,2022-09-22,161.35
+P2083,Paciente Ana García,86,NA,Callao,Pediatría,2024-06-02,353.73
+P2084,Paciente Juan Torres,44,F,Callao,Odontología,2024-03-09,263.42
+P2085,Paciente Luis Torres,57,M,Lince,Odontología,2021-04-02,404.58
+P2086,Paciente  Pérez,39,M,Lince,Odontología,2020-04-12,405.36
+P2087,Paciente Maria Pérez,79,M,Lince,Cardiología,2021-11-22,144.77
+P2088,Paciente Luis Torres,87,NA,Surco,Pediatría,2022-03-21,378.03
+P2089,Paciente Maria ,52,NA,La Molina,Odontología,2023-08-10,121.85
+P2090,Paciente  Torres,63,M,Cajamarca,Odontología,2023-06-25,84.13
+P2091,Paciente  Pérez,12,NA,San Isidro,Pediatría,2021-02-20,109.87
+P2092,Paciente  ,32,M,Surco,Dermatología,2023-01-27,184.69
+P2093,Paciente Luis Torres,74,M,Callao,Odontología,2023-07-03,108.13
+P2094,Paciente Juan ,67,F,La Molina,Odontología,2023-11-10,352.24
+P2095,Paciente Ana Pérez,54,M,Lince,NA,2022-02-16,353.61
+P2096,Paciente Ana Torres,89,M,San Isidro,Cardiología,,341.25
+P2097,Paciente Maria Torres,30,M,Miraflores,Pediatría,2020-05-22,262.59
+P2098,Paciente Juan Pérez,27,NA,Callao,Odontología,2022-07-20,316.65
+P2099,Paciente Luis ,3,M,Callao,Odontología,2024-10-27,227.45
+P2100,Paciente  Pérez,9,M,Lince,Pediatría,2023-01-10,451.14
+P2101,Paciente Ana ,,F,Lince,Dermatología,2020-02-18,79.85
+P2102,Paciente  Torres,76,F,San Isidro,Pediatría,2024-06-25,434.63
+P2103,Paciente Juan ,,M,La Molina,Dermatología,2020-02-05,83.69
+P2104,Paciente Juan Torres,12,F,Lince,Cardiología,2022-11-03,182.38
+P2105,Paciente Maria García,8,F,Lince,Pediatría,2023-09-03,423.51
+P2106,Paciente Luis García,77,F,Miraflores,Pediatría,2024-07-14,213.76
+P2107,Paciente  Pérez,60,F,Cajamarca,Dermatología,2023-03-01,471.49
+P2108,Paciente Maria Torres,9,F,Lince,NA,2020-09-28,110.19
+P2109,Paciente Ana ,85,M,La Molina,Odontología,2023-03-29,410.77
+P2110,Paciente Ana Pérez,26,M,Lince,Pediatría,,492.37
+P2111,Paciente Maria Pérez,42,NA,Cajamarca,Dermatología,,150.81
+P2112,Paciente  Torres,78,M,Surco,Pediatría,2023-08-08,54.18
+P2113,Paciente Luis García,90,F,Lince,Odontología,2020-07-17,286.65
+P2114,Paciente  Pérez,51,F,San Isidro,Pediatría,2023-02-19,381.44
+P2115,Paciente Juan ,4,NA,La Molina,Odontología,2021-01-27,475.06
+P2116,Paciente Ana Pérez,68,NA,San Isidro,Dermatología,2020-10-31,177.67
+P2117,Paciente Maria García,77,F,Callao,Cardiología,2024-02-24,217.31
+P2118,Paciente Ana García,78,NA,Callao,Cardiología,,408.49
+P2119,Paciente Ana ,76,F,Surco,Cardiología,2022-03-11,407.68
+P2120,Paciente Juan Pérez,29,NA,Lince,Cardiología,,289.46
+P2121,Paciente Ana Pérez,46,NA,La Molina,Dermatología,2021-10-16,183.66
+P2122,Paciente Ana Pérez,52,M,San Isidro,Odontología,2022-07-28,251.15
+P2123,Paciente Ana Pérez,5,NA,Callao,NA,2021-06-12,116.42
+P2124,Paciente Ana ,,NA,Surco,Odontología,2024-01-26,58.94
+P2125,Paciente Luis Pérez,75,M,Cajamarca,Odontología,2024-12-06,256.26
+P2126,Paciente Luis Pérez,15,F,San Isidro,NA,2020-03-29,53.67
+P2127,Paciente Maria Pérez,9,NA,Callao,Odontología,2020-06-10,236.5
+P2128,Paciente Luis ,57,NA,Lince,Cardiología,2021-07-06,232.54
+P2129,Paciente Luis Pérez,47,M,San Isidro,Cardiología,2021-07-13,199.58
+P2130,Paciente Luis ,17,F,Miraflores,Cardiología,2023-02-12,350.16
+P2131,Paciente Maria ,47,F,Callao,NA,2023-12-17,190.4
+P2132,Paciente Luis García,11,M,Miraflores,Odontología,2021-11-03,96.89
+P2133,Paciente Ana Torres,16,M,Lince,Odontología,2023-09-02,218.16
+P2134,Paciente Juan ,30,F,Miraflores,Pediatría,2021-06-01,89.47
+P2135,Paciente Ana ,8,M,La Molina,NA,2022-10-18,393.69
+P2136,Paciente Luis Torres,56,M,Miraflores,Dermatología,2023-01-23,413.73
+P2137,Paciente  Pérez,43,F,La Molina,Cardiología,2023-04-01,81.46
+P2138,Paciente Juan Pérez,23,F,Lince,Odontología,2024-07-10,432.82
+P2139,Paciente Juan Pérez,8,M,La Molina,Odontología,2022-07-31,284.14
+P2140,Paciente Juan Pérez,12,NA,Surco,Odontología,2024-04-20,332.24
+P2141,Paciente  Pérez,51,NA,San Isidro,Cardiología,2023-01-29,269.03
+P2142,Paciente Maria Pérez,12,M,Surco,NA,2024-10-04,87.74
+P2143,Paciente Juan García,,M,Lince,Odontología,2023-08-21,377.06
+P2144,Paciente Luis Pérez,9,F,Surco,Pediatría,2022-09-06,309.92
+P2145,Paciente Juan Torres,79,F,Miraflores,Dermatología,2021-09-05,149.9
+P2146,Paciente  ,25,F,Surco,Dermatología,2022-06-11,358.3
+P2147,Paciente Ana García,68,F,Surco,Pediatría,2021-05-04,383.2
+P2148,Paciente Maria García,62,NA,La Molina,Dermatología,2023-02-14,264.7
+P2149,Paciente Maria García,89,M,La Molina,Pediatría,2021-07-09,497.7
+P2150,Paciente Ana Pérez,65,F,Surco,NA,2020-01-27,123.99
+P2151,Paciente Juan ,82,NA,Surco,Cardiología,2021-06-02,467.08
+P2152,Paciente Maria Pérez,68,F,Lince,Pediatría,2023-01-01,
+P2153,Paciente Maria ,56,M,La Molina,Odontología,,211.41
+P2154,Paciente Maria García,7,F,Surco,Odontología,2020-07-11,201.77
+P2155,Paciente Luis ,74,F,Miraflores,Cardiología,2021-05-16,197.13
+P2156,Paciente Juan Torres,64,M,Lince,NA,2024-09-20,193.12
+P2157,Paciente Juan Pérez,22,NA,Surco,NA,2020-06-02,382.93
+P2158,Paciente  Pérez,77,F,La Molina,Dermatología,2024-12-15,161.54
+P2159,Paciente Juan Pérez,22,NA,Cajamarca,NA,2021-02-06,252.5
+P2160,Paciente Juan García,39,F,Cajamarca,Cardiología,2023-09-02,331.7
+P2161,Paciente Ana Pérez,49,M,Cajamarca,Dermatología,2022-04-09,364.17
+P2162,Paciente Maria ,66,M,Surco,Dermatología,2022-08-10,360.59
+P2163,Paciente Ana García,58,M,Callao,NA,2023-07-06,283.93
+P2164,Paciente Maria Torres,32,M,Miraflores,NA,2021-07-22,74.03
+P2165,Paciente Juan Torres,62,F,Surco,Cardiología,2024-12-01,234.17
+P2166,Paciente  Pérez,30,F,La Molina,Pediatría,2023-05-12,237.36
+P2167,Paciente Juan ,52,NA,Miraflores,NA,2024-04-20,102.87
+P2168,Paciente  Pérez,,F,Callao,Dermatología,2023-11-03,269.72
+P2169,Paciente  García,59,F,Miraflores,Dermatología,2020-11-23,55.69
+P2170,Paciente Juan García,9,M,Cajamarca,Odontología,2022-09-25,422.64
+P2171,Paciente Maria Pérez,36,NA,Lince,Odontología,2024-04-05,378.79
+P2172,Paciente Luis García,63,NA,Lince,Odontología,2023-10-30,
+P2173,Paciente Juan García,59,NA,Surco,Odontología,2020-03-21,67.16
+P2174,Paciente Luis Torres,9,NA,San Isidro,Cardiología,2023-03-31,385.16
+P2175,Paciente Juan García,54,F,Miraflores,Dermatología,2024-06-09,444.33
+P2176,Paciente Maria ,48,NA,La Molina,Pediatría,2023-10-18,359.15
+P2177,Paciente Maria García,12,M,Miraflores,Odontología,2022-11-20,411.84
+P2178,Paciente Ana García,2,F,Callao,Odontología,2024-09-17,221.02
+P2179,Paciente  Pérez,81,M,Cajamarca,Cardiología,2023-06-13,192.32
+P2180,Paciente Maria ,34,M,Cajamarca,Pediatría,,402.35
+P2181,Paciente Maria ,58,M,Lince,NA,2022-11-02,474.82
+P2182,Paciente  Torres,67,NA,Miraflores,Dermatología,2021-03-30,499.12
+P2183,Paciente Luis ,,M,Miraflores,Pediatría,2022-04-28,320.65
+P2184,Paciente Juan García,22,NA,Callao,Pediatría,2023-07-13,272.9
+P2185,Paciente Luis Torres,34,F,Miraflores,Pediatría,2024-05-18,60.57
+P2186,Paciente Ana Torres,78,F,Lince,Odontología,2024-03-01,114.22
+P2187,Paciente Maria García,57,M,La Molina,Cardiología,2023-06-07,202.46
+P2188,Paciente Maria García,10,NA,Miraflores,NA,2023-11-01,
+P2189,Paciente Luis Pérez,23,F,Cajamarca,Pediatría,2023-07-02,111.92
+P2190,Paciente Luis García,52,M,Miraflores,Cardiología,,390.56
+P2191,Paciente  Pérez,48,M,Callao,Pediatría,2020-03-04,105.87
+P2192,Paciente Ana Pérez,80,F,San Isidro,Dermatología,2024-06-05,462.71
+P2193,Paciente  Pérez,41,M,Cajamarca,Pediatría,2024-10-12,87.92
+P2194,Paciente Juan Pérez,38,M,Surco,Pediatría,2020-12-02,414.82
+P2195,Paciente Luis Pérez,60,F,Miraflores,NA,2020-09-11,225.38
+P2196,Paciente Maria Torres,,NA,Callao,NA,2023-03-27,427.58
+P2197,Paciente Maria García,82,NA,Miraflores,Pediatría,2020-11-24,467.49
+P2198,Paciente Luis ,82,M,Surco,NA,2022-04-21,427.05
+P2199,Paciente Luis García,22,M,Lince,NA,2023-07-15,249.12
+P2200,Paciente  ,22,F,Miraflores,Pediatría,2024-02-24,184.61
+P2201,Paciente  Pérez,66,NA,Miraflores,NA,2023-06-29,272.59
+P2202,Paciente Juan García,54,NA,San Isidro,Odontología,2020-06-16,320.42
+P2203,Paciente Maria Pérez,56,NA,Surco,Odontología,2024-02-28,69.67
+P2204,Paciente Luis Pérez,46,M,San Isidro,Pediatría,2021-06-22,50.53
+P2205,Paciente  Torres,28,F,Cajamarca,Cardiología,2022-12-26,94.16
+P2206,Paciente Maria García,82,NA,San Isidro,NA,2020-05-14,88.08
+P2207,Paciente Juan Pérez,48,M,Cajamarca,Cardiología,2020-01-03,158.96
+P2208,Paciente Ana Torres,22,F,La Molina,Cardiología,2022-07-25,67.75
+P2209,Paciente Luis ,61,F,Callao,Dermatología,2020-06-19,475.25
+P2210,Paciente Juan García,67,NA,Lince,Cardiología,2024-04-04,448.84
+P2211,Paciente  Pérez,26,M,Lince,Pediatría,,221.83
+P2212,Paciente Luis ,28,M,Cajamarca,Pediatría,2020-01-11,481.42
+P2213,Paciente Juan Torres,86,F,Callao,Dermatología,2020-12-02,328.97
+P2214,Paciente Luis Pérez,9,M,Lince,Odontología,2023-05-10,148.27
+P2215,Paciente Luis García,44,M,La Molina,Dermatología,2024-09-08,287.53
+P2216,Paciente Juan ,22,M,La Molina,Dermatología,2021-04-22,225.45
+P2217,Paciente  Pérez,23,F,La Molina,NA,2023-12-09,497.44
+P2218,Paciente  Pérez,80,F,La Molina,NA,2023-06-13,127.84
+P2219,Paciente Juan García,4,M,San Isidro,Odontología,2021-04-06,489.48
+P2220,Paciente Maria ,86,M,Cajamarca,Pediatría,2024-07-31,287.86
+P2221,Paciente Juan García,67,NA,Lince,NA,2022-09-15,
+P2222,Paciente Maria Pérez,1,F,San Isidro,Cardiología,2021-02-17,486.18
+P2223,Paciente Ana Pérez,25,NA,San Isidro,Dermatología,2021-06-03,184.43
+P2224,Paciente  Torres,50,NA,Surco,NA,2021-06-18,
+P2225,Paciente Maria ,66,M,Cajamarca,Pediatría,2024-09-02,192.92
+P2226,Paciente Luis Pérez,,NA,Callao,Pediatría,2021-10-23,187.2
+P2227,Paciente Juan García,86,F,Callao,NA,2023-03-23,430.11
+P2228,Paciente  García,67,F,Surco,Odontología,2023-05-20,229.16
+P2229,Paciente Maria Pérez,84,NA,Callao,Cardiología,2021-07-24,118.32
+P2230,Paciente Juan Pérez,37,M,Miraflores,Pediatría,2024-08-21,91.36
+P2231,Paciente Luis García,4,F,San Isidro,Cardiología,2021-01-12,176.77
+P2232,Paciente Juan Pérez,32,NA,Lince,Dermatología,2024-08-25,
+P2233,Paciente Luis García,47,F,Miraflores,Odontología,2022-12-05,112.8
+P2234,Paciente Ana Pérez,63,F,Lince,NA,,153.23
+P2235,Paciente Juan García,60,NA,La Molina,Dermatología,2024-06-11,290.72
+P2236,Paciente Ana García,,NA,La Molina,Pediatría,2023-01-15,214.04
+P2237,Paciente Luis Pérez,46,M,Surco,Cardiología,2024-09-26,305.84
+P2238,Paciente Maria García,81,F,Callao,Cardiología,2024-12-30,203.13
+P2239,Paciente Luis Pérez,,NA,Cajamarca,Cardiología,2021-10-04,457.7
+P2240,Paciente Luis García,13,NA,San Isidro,Pediatría,2021-12-26,384.17
+P2241,Paciente  ,11,NA,San Isidro,Dermatología,2023-07-27,400.19
+P2242,Paciente  Torres,43,M,Miraflores,Odontología,2020-08-31,102.89
+P2243,Paciente  Torres,6,M,Miraflores,Odontología,2021-10-05,388.98
+P2244,Paciente Juan Pérez,90,NA,Surco,Odontología,2024-10-07,302.43
+P2245,Paciente Maria Pérez,51,NA,Surco,Odontología,2021-10-16,480.42
+P2246,Paciente Luis Pérez,57,NA,San Isidro,NA,2020-06-17,452.25
+P2247,Paciente Ana García,53,F,Miraflores,Cardiología,2022-05-17,232.03
+P2248,Paciente  ,2,NA,La Molina,Odontología,2023-06-12,433.3
+P2249,Paciente  Torres,83,M,Cajamarca,Dermatología,2020-03-04,202.74
+P2250,Paciente  Pérez,73,M,Surco,Pediatría,2020-12-17,344.93
+P2251,Paciente Luis Pérez,73,M,San Isidro,Pediatría,2023-11-13,379.34
+P2252,Paciente Maria García,27,F,Callao,NA,,85.79
+P2253,Paciente Maria Pérez,14,M,San Isidro,NA,2024-05-15,379.44
+P2254,Paciente  ,18,NA,La Molina,Odontología,2021-03-23,408.0
+P2255,Paciente Ana García,49,M,Callao,Cardiología,2023-10-22,242.38
+P2256,Paciente Luis Torres,75,M,Miraflores,Dermatología,2021-08-17,352.12
+P2257,Paciente Luis Pérez,6,M,Miraflores,Odontología,2022-06-27,385.68
+P2258,Paciente Ana Pérez,27,F,Surco,Cardiología,2020-04-12,207.34
+P2259,Paciente Luis Torres,7,NA,La Molina,Odontología,2021-06-18,487.77
+P2260,Paciente  Torres,66,M,San Isidro,NA,2024-07-20,332.37
+P2261,Paciente Maria García,38,NA,Cajamarca,NA,2020-09-05,
+P2262,Paciente Ana Torres,43,NA,San Isidro,Dermatología,2020-05-18,494.82
+P2263,Paciente Ana ,66,F,San Isidro,Dermatología,2021-06-28,334.81
+P2264,Paciente Maria Pérez,82,M,Callao,Dermatología,2022-10-30,197.39
+P2265,Paciente Luis García,51,M,Surco,Cardiología,2020-04-18,488.24
+P2266,Paciente Luis Torres,90,NA,San Isidro,Dermatología,2023-12-01,267.92
+P2267,Paciente Juan ,47,F,Callao,NA,2021-08-26,
+P2268,Paciente Maria Pérez,50,M,Callao,Pediatría,2023-11-05,265.66
+P2269,Paciente  García,32,NA,Cajamarca,Dermatología,2021-01-21,312.84
+P2270,Paciente Ana Torres,45,M,Callao,Odontología,2023-12-05,225.94
+P2271,Paciente Luis ,79,NA,San Isidro,Odontología,2023-12-12,80.16
+P2272,Paciente Maria García,15,F,Surco,Dermatología,2024-05-24,495.18
+P2273,Paciente  García,70,NA,Surco,NA,2021-10-18,265.67
+P2274,Paciente Maria García,2,M,San Isidro,Pediatría,2022-02-14,433.7
+P2275,Paciente Juan ,5,F,Lince,Cardiología,2023-02-02,308.44
+P2276,Paciente Luis García,21,M,San Isidro,NA,2023-07-31,
+P2277,Paciente Maria García,7,F,Surco,Odontología,,270.18
+P2278,Paciente Ana Pérez,11,M,Miraflores,NA,2022-02-13,55.06
+P2279,Paciente Juan Torres,22,F,Lince,Cardiología,,238.98
+P2280,Paciente  ,11,M,Lince,Odontología,2022-06-17,176.08
+P2281,Paciente Ana Torres,89,F,Surco,Dermatología,,276.96
+P2282,Paciente  ,29,F,Callao,Pediatría,2022-11-20,477.94
+P2283,Paciente Luis Pérez,86,F,Lince,Odontología,,449.3
+P2284,Paciente Ana Pérez,36,NA,Surco,Odontología,2024-01-27,60.97
+P2285,Paciente  García,27,NA,Callao,Odontología,2024-07-16,333.23
+P2286,Paciente Luis Pérez,68,M,Cajamarca,NA,2022-12-21,232.91
+P2287,Paciente Luis ,81,NA,La Molina,Cardiología,2022-04-24,193.56
+P2288,Paciente Juan ,2,NA,Cajamarca,Pediatría,2021-04-02,219.28
+P2289,Paciente Juan Torres,44,NA,Cajamarca,Odontología,2021-11-03,334.26
+P2290,Paciente Luis ,14,NA,Lince,NA,2023-05-19,449.97
+P2291,Paciente Ana Torres,18,F,La Molina,Cardiología,2022-11-02,186.17
+P2292,Paciente Maria Torres,26,M,Cajamarca,Pediatría,2022-04-04,
+P2293,Paciente Maria García,47,M,San Isidro,Pediatría,2020-06-06,444.43
+P2294,Paciente Ana Pérez,1,M,San Isidro,Cardiología,2020-10-31,144.95
+P2295,Paciente  Torres,60,NA,Cajamarca,Odontología,2021-09-19,477.95
+P2296,Paciente Luis ,47,M,San Isidro,Dermatología,2024-02-23,479.99
+P2297,Paciente Ana Torres,65,NA,Callao,Dermatología,2020-06-24,66.28
+P2298,Paciente Juan García,31,M,Callao,Cardiología,2024-09-13,226.64
+P2299,Paciente Ana Torres,69,NA,Surco,Pediatría,2021-07-17,262.7
+P2300,Paciente Juan ,90,NA,Miraflores,Odontología,2024-12-23,223.56
+P2301,Paciente Ana Torres,71,NA,Lince,Pediatría,2022-06-20,485.17
+P2302,Paciente  ,50,M,Lince,NA,2023-10-01,181.85
+P2303,Paciente  Pérez,11,M,San Isidro,NA,2022-11-25,62.29
+P2304,Paciente Juan García,,M,San Isidro,Cardiología,2021-12-26,196.41
+P2305,Paciente  ,8,F,Callao,Dermatología,,158.73
+P2306,Paciente Ana García,64,NA,Lince,Pediatría,2023-04-11,123.77
+P2307,Paciente Ana Pérez,30,NA,Surco,Pediatría,2023-10-08,442.0
+P2308,Paciente Juan Pérez,50,NA,Cajamarca,Dermatología,2020-06-19,107.85
+P2309,Paciente  Pérez,76,M,Cajamarca,NA,2024-02-06,447.88
+P2310,Paciente Juan Torres,25,M,Cajamarca,Dermatología,2020-05-24,360.06
+P2311,Paciente  ,76,M,Miraflores,Pediatría,2024-05-27,243.93
+P2312,Paciente  García,41,F,Cajamarca,NA,2021-08-04,
+P2313,Paciente Maria Torres,30,F,Cajamarca,NA,2022-07-06,
+P2314,Paciente Luis ,47,F,Miraflores,NA,2021-03-04,480.11
+P2315,Paciente Maria Torres,36,NA,Miraflores,Dermatología,2023-06-15,169.23
+P2316,Paciente Ana García,65,NA,Lince,Dermatología,2021-07-27,413.94
+P2317,Paciente Juan Torres,7,M,Miraflores,NA,2023-09-04,305.84
+P2318,Paciente  Pérez,54,NA,La Molina,Cardiología,2023-04-18,499.32
+P2319,Paciente Luis ,9,F,Callao,NA,2024-04-10,97.15
+P2320,Paciente Luis Torres,75,M,Surco,NA,2022-10-30,106.4
+P2321,Paciente Luis Pérez,,M,Miraflores,Odontología,2022-04-16,272.24
+P2322,Paciente Maria ,47,NA,Cajamarca,NA,2020-08-31,300.52
+P2323,Paciente Juan García,75,M,Cajamarca,Odontología,2022-10-04,353.14
+P2324,Paciente  Torres,7,F,Callao,Cardiología,2023-12-13,
+P2325,Paciente  ,85,M,Cajamarca,Cardiología,2023-10-14,313.68
+P2326,Paciente Luis García,76,NA,La Molina,Pediatría,2020-01-05,101.03
+P2327,Paciente Luis ,57,NA,La Molina,Cardiología,2020-02-22,463.3
+P2328,Paciente  Torres,70,F,Surco,Dermatología,2024-09-15,82.98
+P2329,Paciente  Torres,61,NA,Surco,Cardiología,2020-02-06,55.96
+P2330,Paciente Maria ,67,M,Callao,Cardiología,2023-12-25,50.21
+P2331,Paciente Luis Torres,54,NA,Lince,Pediatría,2021-10-10,307.18
+P2332,Paciente Luis García,11,F,San Isidro,Pediatría,2023-09-04,342.67
+P2333,Paciente Luis Pérez,68,NA,Cajamarca,Dermatología,2023-12-05,241.61
+P2334,Paciente  Torres,26,M,Lince,Pediatría,2020-09-13,422.51
+P2335,Paciente Ana ,78,NA,Surco,Pediatría,2020-05-20,183.54
+P2336,Paciente Ana ,26,F,La Molina,Odontología,2021-07-31,254.21
+P2337,Paciente  Pérez,86,M,Lince,Dermatología,2022-08-23,301.87
+P2338,Paciente Juan Torres,62,M,Callao,Dermatología,2021-05-06,93.35
+P2339,Paciente Ana García,85,NA,San Isidro,Odontología,2024-03-05,73.49
+P2340,Paciente Juan ,10,F,Callao,Cardiología,2020-11-04,320.26
+P2341,Paciente Juan Torres,61,F,Cajamarca,Pediatría,2020-11-15,250.75
+P2342,Paciente Luis Pérez,8,NA,Callao,Odontología,2023-10-22,269.84
+P2343,Paciente Maria Torres,68,NA,La Molina,Pediatría,2023-06-30,71.17
+P2344,Paciente Juan Torres,48,F,Surco,Pediatría,2023-02-21,257.76
+P2345,Paciente Juan Pérez,,NA,San Isidro,NA,2023-12-05,339.8
+P2346,Paciente Juan Pérez,51,M,San Isidro,Dermatología,2022-11-23,60.51
+P2347,Paciente Ana Pérez,40,F,Surco,NA,2020-05-12,119.3
+P2348,Paciente Juan Torres,43,F,Surco,NA,2021-08-11,412.7
+P2349,Paciente Ana Pérez,43,F,Miraflores,Pediatría,2024-12-12,113.27
+P2350,Paciente Ana ,13,M,Callao,Pediatría,2021-02-27,127.05
+P2351,Paciente Maria Torres,13,M,Lince,Odontología,2023-08-24,337.63
+P2352,Paciente Maria García,15,F,Lince,NA,2022-07-16,339.68
+P2353,Paciente Ana Torres,62,F,Lince,Odontología,2021-05-30,377.28
+P2354,Paciente Maria Pérez,86,F,Lince,Cardiología,2020-06-24,428.5
+P2355,Paciente Ana ,46,M,Lince,Odontología,2024-03-16,88.08
+P2356,Paciente Ana ,31,M,San Isidro,Cardiología,2023-01-31,495.6
+P2357,Paciente Luis Pérez,15,NA,Cajamarca,Dermatología,2020-12-22,110.0
+P2358,Paciente Juan Torres,87,M,La Molina,Pediatría,2024-02-09,377.91
+P2359,Paciente Ana Pérez,72,F,La Molina,Pediatría,2024-12-02,420.66
+P2360,Paciente Juan ,17,F,Miraflores,Cardiología,2021-04-10,414.13
+P2361,Paciente  Pérez,28,M,Surco,Pediatría,2022-08-29,233.43
+P2362,Paciente Juan García,60,F,Cajamarca,Odontología,2022-05-17,252.15
+P2363,Paciente Ana García,4,F,Miraflores,Dermatología,2021-05-08,208.91
+P2364,Paciente Ana ,30,F,San Isidro,Pediatría,2024-12-16,355.1
+P2365,Paciente  Torres,56,F,Cajamarca,Dermatología,2020-06-22,457.75
+P2366,Paciente Maria Torres,63,NA,Cajamarca,Pediatría,2024-12-31,96.11
+P2367,Paciente Maria ,87,NA,Callao,Pediatría,2021-08-04,413.81
+P2368,Paciente Ana García,42,F,Cajamarca,Odontología,2020-11-22,157.86
+P2369,Paciente Juan Torres,7,M,San Isidro,Dermatología,2022-01-28,296.59
+P2370,Paciente  Pérez,86,M,Surco,Pediatría,2023-10-23,111.29
+P2371,Paciente Ana Pérez,80,M,La Molina,Cardiología,,109.4
+P2372,Paciente Luis García,18,F,Lince,NA,2024-08-19,241.67
+P2373,Paciente Juan García,63,F,Callao,Odontología,2020-06-05,322.21
+P2374,Paciente Ana García,16,NA,Miraflores,Odontología,2024-04-13,450.04
+P2375,Paciente  García,59,M,La Molina,Odontología,2021-06-28,52.16
+P2376,Paciente  Pérez,80,NA,Callao,Pediatría,2020-05-11,483.02
+P2377,Paciente Ana Pérez,21,F,San Isidro,Odontología,2022-08-05,176.15
+P2378,Paciente  Pérez,,NA,Callao,NA,2022-09-03,242.61
+P2379,Paciente  Pérez,29,NA,Miraflores,Pediatría,2023-07-31,117.19
+P2380,Paciente  Torres,29,M,La Molina,Pediatría,2021-07-27,60.62
+P2381,Paciente Juan ,68,NA,Surco,Dermatología,2024-10-07,177.88
+P2382,Paciente Luis Torres,52,M,Cajamarca,Pediatría,,231.24
+P2383,Paciente  Pérez,48,NA,Cajamarca,Odontología,2024-06-26,218.82
+P2384,Paciente Maria Torres,64,M,Callao,NA,2023-04-25,126.01
+P2385,Paciente Maria ,67,M,Cajamarca,Dermatología,2021-11-14,150.72
+P2386,Paciente Ana Pérez,44,M,La Molina,Odontología,2020-03-25,
+P2387,Paciente  ,44,F,Lince,Dermatología,2023-06-01,
+P2388,Paciente Luis Torres,20,F,Miraflores,Cardiología,2022-08-13,
+P2389,Paciente Maria García,23,NA,Lince,Dermatología,2022-07-01,255.57
+P2390,Paciente Luis García,6,F,Cajamarca,Odontología,2020-10-25,476.71
+P2391,Paciente Maria ,,M,Surco,Odontología,2022-01-13,265.61
+P2392,Paciente Juan Torres,86,NA,Miraflores,Dermatología,2021-10-05,177.85
+P2393,Paciente Ana ,69,F,Callao,NA,2021-05-12,295.85
+P2394,Paciente Ana Torres,74,NA,Callao,Dermatología,2021-11-26,173.59
+P2395,Paciente Ana García,,M,Miraflores,Dermatología,2023-03-26,470.97
+P2396,Paciente Maria Torres,84,NA,San Isidro,Odontología,2023-03-06,
+P2397,Paciente Ana García,60,M,Callao,Odontología,2023-06-07,173.64
+P2398,Paciente Ana García,20,M,San Isidro,Dermatología,2024-12-17,477.89
+P2399,Paciente Maria Torres,88,M,Lince,Dermatología,2022-08-19,361.5
+P2400,Paciente Juan Pérez,37,M,San Isidro,Cardiología,2020-09-02,105.76
+P2401,Paciente Ana Torres,5,M,Surco,Odontología,2021-02-24,379.79
+P2402,Paciente Ana ,83,NA,La Molina,Odontología,2023-07-04,425.74
+P2403,Paciente Juan Torres,80,M,Callao,Pediatría,2022-11-21,137.05
+P2404,Paciente Luis Pérez,74,NA,Miraflores,Pediatría,2020-07-30,327.92
+P2405,Paciente  Torres,8,NA,Surco,Odontología,2024-02-02,364.62
+P2406,Paciente Luis García,39,F,Lince,Pediatría,2021-05-03,242.47
+P2407,Paciente Luis Torres,56,NA,Lince,Pediatría,2021-10-22,272.55
+P2408,Paciente Maria García,77,F,Miraflores,Pediatría,2021-10-26,76.48
+P2409,Paciente  García,47,NA,Callao,Cardiología,2024-08-01,323.68
+P2410,Paciente Ana ,14,M,San Isidro,Pediatría,2022-04-08,371.43
+P2411,Paciente Maria ,37,F,Callao,Odontología,2024-10-09,196.95
+P2412,Paciente  García,2,NA,San Isidro,Pediatría,2023-10-31,212.09
+P2413,Paciente Maria ,3,NA,Surco,NA,,141.89
+P2414,Paciente Juan Pérez,30,NA,Cajamarca,Dermatología,2024-06-09,481.59
+P2415,Paciente Luis Pérez,65,F,Surco,Dermatología,2021-09-22,434.16
+P2416,Paciente  Torres,55,M,Surco,Odontología,2023-11-22,449.61
+P2417,Paciente Juan García,40,F,Cajamarca,Cardiología,2023-10-30,473.09
+P2418,Paciente  Torres,42,M,San Isidro,Dermatología,2020-09-27,102.98
+P2419,Paciente Luis Pérez,27,M,La Molina,NA,2022-03-02,193.66
+P2420,Paciente Maria ,61,NA,Lince,Dermatología,2023-05-22,445.6
+P2421,Paciente Ana Torres,30,NA,Miraflores,NA,2022-11-02,243.78
+P2422,Paciente Maria Pérez,29,M,San Isidro,Dermatología,2021-09-12,353.7
+P2423,Paciente  García,,F,Surco,Dermatología,2024-06-14,421.23
+P2424,Paciente  Torres,66,NA,La Molina,Pediatría,2021-06-07,257.11
+P2425,Paciente Juan Pérez,79,F,Cajamarca,Odontología,2023-03-04,69.96
+P2426,Paciente  Torres,30,M,Lince,Pediatría,2023-04-27,
+P2427,Paciente Maria García,,NA,Surco,Cardiología,,226.31
+P2428,Paciente Luis ,1,F,San Isidro,Cardiología,2023-11-10,439.38
+P2429,Paciente  Pérez,84,NA,Lince,Pediatría,2020-10-24,384.21
+P2430,Paciente Ana García,65,F,Lince,NA,2022-01-20,496.77
+P2431,Paciente Luis ,88,NA,La Molina,NA,2023-06-10,273.18
+P2432,Paciente Ana Torres,75,NA,Lince,NA,2020-10-06,120.91
+P2433,Paciente  García,57,M,Callao,Dermatología,2021-05-19,450.28
+P2434,Paciente  Torres,,M,Miraflores,NA,2022-06-21,324.8
+P2435,Paciente Luis Pérez,31,NA,San Isidro,Pediatría,2024-03-22,226.16
+P2436,Paciente  García,78,NA,Miraflores,Pediatría,2023-03-17,
+P2437,Paciente Ana Torres,84,M,San Isidro,NA,,222.68
+P2438,Paciente Luis Pérez,1,NA,Cajamarca,NA,,108.59
+P2439,Paciente Juan ,54,F,La Molina,Dermatología,2022-06-06,290.91
+P2440,Paciente  ,61,F,Cajamarca,Odontología,2023-04-12,406.32
+P2441,Paciente Luis Torres,59,F,Callao,Dermatología,2024-01-29,151.95
+P2442,Paciente Ana ,2,F,La Molina,Cardiología,,59.21
+P2443,Paciente Maria Pérez,9,M,Lince,Dermatología,,221.88
+P2444,Paciente Juan García,,M,Lince,Odontología,2021-08-07,126.96
+P2445,Paciente Ana ,45,F,Surco,Pediatría,2022-03-28,160.59
+P2446,Paciente  Pérez,83,F,Lince,Dermatología,2024-07-26,466.03
+P2447,Paciente Luis Pérez,43,M,Miraflores,Pediatría,2024-03-02,166.19
+P2448,Paciente  Pérez,63,F,San Isidro,NA,2021-01-15,
+P2449,Paciente Juan ,16,NA,Cajamarca,Cardiología,2021-08-19,62.96
+P2450,Paciente  García,76,NA,Surco,NA,2020-11-11,312.13
+P2451,Paciente  Torres,,F,San Isidro,Odontología,2023-11-26,140.91
+P2452,Paciente Maria ,66,M,La Molina,NA,2022-07-27,136.72
+P2453,Paciente Maria Pérez,74,F,Surco,Dermatología,2023-09-18,308.92
+P2454,Paciente Luis Pérez,85,M,San Isidro,NA,2023-09-21,
+P2455,Paciente Ana Pérez,38,NA,San Isidro,Dermatología,2020-09-16,459.58
+P2456,Paciente Juan Torres,76,M,San Isidro,Pediatría,2023-04-14,337.06
+P2457,Paciente Juan Pérez,57,M,Lince,Pediatría,2021-02-13,109.63
+P2458,Paciente Luis ,29,F,Surco,Odontología,2021-02-06,179.92
+P2459,Paciente Maria García,43,F,San Isidro,Pediatría,2023-03-23,441.44
+P2460,Paciente Maria ,6,M,Cajamarca,NA,2022-10-24,458.35
+P2461,Paciente Ana Torres,35,M,La Molina,Cardiología,2022-04-01,307.58
+P2462,Paciente  ,59,NA,Cajamarca,Pediatría,2022-03-15,395.47
+P2463,Paciente Luis ,76,NA,La Molina,NA,2022-05-08,214.79
+P2464,Paciente Luis ,16,F,Surco,Odontología,2021-02-28,463.91
+P2465,Paciente Juan Torres,32,M,Miraflores,Pediatría,2020-09-27,80.24
+P2466,Paciente  Torres,17,F,Surco,Cardiología,2021-10-31,169.95
+P2467,Paciente Ana Torres,84,F,La Molina,Odontología,2023-07-14,145.81
+P2468,Paciente Juan Pérez,3,F,Surco,Cardiología,2022-05-28,485.81
+P2469,Paciente Juan García,51,NA,Cajamarca,Odontología,2022-05-21,323.37
+P2470,Paciente Juan Torres,16,NA,La Molina,Pediatría,2021-03-18,264.32
+P2471,Paciente Luis ,66,NA,La Molina,Odontología,2020-11-30,234.66
+P2472,Paciente Juan Pérez,28,F,Miraflores,Odontología,2024-11-16,68.19
+P2473,Paciente Maria ,89,F,Callao,Pediatría,2022-02-22,475.88
+P2474,Paciente  Pérez,49,F,La Molina,NA,2020-07-16,494.48
+P2475,Paciente Maria ,1,NA,Miraflores,NA,2023-12-13,447.35
+P2476,Paciente Ana Pérez,85,M,Cajamarca,Dermatología,2024-02-10,499.98
+P2477,Paciente Juan García,44,M,Callao,Odontología,2021-02-19,213.19
+P2478,Paciente Ana ,80,NA,San Isidro,NA,2023-10-29,391.71
+P2479,Paciente Juan Pérez,25,NA,San Isidro,NA,2022-04-29,416.77
+P2480,Paciente Maria García,81,F,Surco,Odontología,2023-10-31,461.53
+P2481,Paciente  Torres,40,NA,Surco,Odontología,2023-08-05,88.97
+P2482,Paciente  Torres,,M,Lince,Odontología,2020-07-01,350.56
+P2483,Paciente Luis ,38,M,Callao,Cardiología,,115.06
+P2484,Paciente Luis Torres,54,NA,La Molina,NA,2020-06-24,398.72
+P2485,Paciente Ana Torres,60,NA,Miraflores,Odontología,2023-10-24,267.16
+P2486,Paciente Maria Pérez,40,M,Miraflores,Odontología,2021-01-10,284.56
+P2487,Paciente Ana Pérez,31,M,Lince,Pediatría,2020-02-04,448.71
+P2488,Paciente Juan Pérez,87,NA,San Isidro,NA,,186.89
+P2489,Paciente Luis Torres,73,M,Cajamarca,NA,2021-03-23,186.6
+P2490,Paciente Maria ,23,NA,Cajamarca,Dermatología,2022-09-06,85.81
+P2491,Paciente  Pérez,,NA,San Isidro,Dermatología,2023-12-17,466.01
+P2492,Paciente Juan Pérez,68,M,Surco,NA,2022-11-05,433.15
+P2493,Paciente Ana García,59,F,Surco,Pediatría,,286.64
+P2494,Paciente  Pérez,80,NA,Cajamarca,Pediatría,2021-03-09,376.51
+P2495,Paciente Juan Torres,54,M,San Isidro,Odontología,2024-04-14,59.0
+P2496,Paciente  Torres,2,NA,Miraflores,Cardiología,2021-01-17,388.3
+P2497,Paciente Ana Pérez,80,NA,Cajamarca,Cardiología,2022-09-13,270.95
+P2498,Paciente Juan Torres,63,NA,San Isidro,Cardiología,2021-12-08,313.75
+P2499,Paciente  García,51,F,La Molina,Pediatría,2024-04-18,444.44
+P2500,Paciente  Torres,60,NA,Surco,NA,2023-08-22,200.39
+P2501,Paciente Juan ,74,M,Callao,Pediatría,2024-12-13,57.62
+P2502,Paciente Luis ,64,M,Lince,Dermatología,2021-12-14,108.82
+P2503,Paciente Juan Torres,,M,Lince,Odontología,2022-09-05,139.49
+P2504,Paciente Maria Pérez,,M,Miraflores,NA,2020-02-01,103.27
+P2505,Paciente Maria ,23,NA,Miraflores,Cardiología,2021-02-15,348.48
+P2506,Paciente Luis ,,NA,Lince,Dermatología,,412.78
+P2507,Paciente Luis Torres,27,F,Surco,Pediatría,2024-11-13,367.54
+P2508,Paciente Luis Pérez,58,NA,San Isidro,Pediatría,2022-04-06,470.87
+P2509,Paciente Juan ,6,M,San Isidro,Dermatología,2023-05-25,382.77
+P2510,Paciente Luis ,60,M,San Isidro,Odontología,2021-06-10,87.49
+P2511,Paciente Juan Pérez,37,F,La Molina,NA,2021-09-24,173.83
+P2512,Paciente Juan García,45,M,Miraflores,Cardiología,2020-03-10,384.57
+P2513,Paciente  Torres,74,NA,Miraflores,Dermatología,2020-05-06,374.95
+P2514,Paciente Juan ,43,M,San Isidro,Dermatología,2020-08-31,450.52
+P2515,Paciente  ,38,M,La Molina,Odontología,2023-08-18,150.92
+P2516,Paciente Maria ,2,NA,La Molina,Odontología,2022-02-10,318.85
+P2517,Paciente  García,34,F,Callao,Dermatología,2020-08-26,274.28
+P2518,Paciente  García,16,F,Surco,Cardiología,,474.88
+P2519,Paciente  ,2,F,Surco,Odontología,2024-07-28,180.64
+P2520,Paciente Maria ,32,NA,Miraflores,Odontología,2021-07-15,155.09
+P2521,Paciente Juan ,41,F,Cajamarca,Odontología,2022-09-16,339.77
+P2522,Paciente Juan García,83,NA,San Isidro,Pediatría,2023-07-20,292.09
+P2523,Paciente Luis García,56,NA,Surco,Dermatología,2022-01-22,292.2
+P2524,Paciente Maria Pérez,26,M,Surco,Cardiología,2020-01-19,51.89
+P2525,Paciente Maria Torres,86,M,San Isidro,NA,2021-09-23,441.05
+P2526,Paciente Luis Torres,37,F,Callao,Cardiología,2021-07-19,362.09
+P2527,Paciente Ana ,71,M,Miraflores,Pediatría,2023-06-21,407.71
+P2528,Paciente Juan Pérez,64,M,San Isidro,NA,2022-07-12,132.96
+P2529,Paciente Maria ,77,M,San Isidro,NA,2023-01-14,52.5
+P2530,Paciente Luis Torres,64,M,La Molina,Odontología,,125.46
+P2531,Paciente Ana Torres,13,F,La Molina,Dermatología,2020-06-04,218.58
+P2532,Paciente Ana Pérez,42,M,Lince,NA,2022-11-04,238.24
+P2533,Paciente Juan Pérez,28,M,Surco,Dermatología,2022-09-16,167.42
+P2534,Paciente Maria ,85,M,Surco,Pediatría,2020-12-10,73.25
+P2535,Paciente Luis García,80,F,San Isidro,Pediatría,2020-02-07,383.46
+P2536,Paciente Juan García,90,NA,Cajamarca,Dermatología,2023-03-30,128.58
+P2537,Paciente Juan García,32,F,San Isidro,Pediatría,,223.82
+P2538,Paciente Ana García,66,F,Callao,Odontología,,145.13
+P2539,Paciente Juan Pérez,5,M,Miraflores,Pediatría,2021-06-15,379.2
+P2540,Paciente  ,13,M,Surco,NA,,181.19
+P2541,Paciente Ana Pérez,30,M,Lince,NA,,311.6
+P2542,Paciente Ana ,55,NA,Miraflores,Cardiología,2022-06-22,194.3
+P2543,Paciente Ana García,53,F,San Isidro,Pediatría,2021-11-04,463.39
+P2544,Paciente Maria García,34,NA,Cajamarca,Odontología,2023-11-16,87.7
+P2545,Paciente  Pérez,80,M,Surco,Cardiología,2024-05-12,345.07
+P2546,Paciente Juan Pérez,19,NA,La Molina,Dermatología,2023-01-25,235.09
+P2547,Paciente Juan ,3,F,Surco,Dermatología,2024-12-21,179.99
+P2548,Paciente Maria García,46,M,Lince,NA,2023-11-30,120.87
+P2549,Paciente  García,23,M,La Molina,Cardiología,2022-12-14,159.83
+P2550,Paciente Juan García,27,F,La Molina,Pediatría,2023-09-08,399.44
+P2551,Paciente Maria Torres,14,M,Lince,NA,2022-12-11,389.64
+P2552,Paciente Luis ,30,NA,Lince,Dermatología,,428.4
+P2553,Paciente  García,,NA,Cajamarca,Dermatología,2021-06-07,
+P2554,Paciente Maria Torres,45,M,La Molina,Pediatría,2024-04-28,403.56
+P2555,Paciente Ana García,41,NA,La Molina,NA,2021-11-28,
+P2556,Paciente Luis Torres,1,F,La Molina,Odontología,2021-12-14,52.28
+P2557,Paciente Ana Pérez,22,M,Lince,Odontología,2022-01-03,155.24
+P2558,Paciente Ana Torres,44,NA,San Isidro,Odontología,2022-10-17,406.85
+P2559,Paciente Juan García,62,M,San Isidro,Odontología,2023-07-09,182.24
+P2560,Paciente Juan Pérez,53,F,Miraflores,Cardiología,2022-01-27,397.41
+P2561,Paciente Ana Pérez,82,F,Lince,Odontología,2021-10-27,473.97
+P2562,Paciente  García,49,M,Lince,Odontología,2025-01-01,255.91
+P2563,Paciente  Pérez,39,NA,Miraflores,Dermatología,2023-01-13,
+P2564,Paciente  Pérez,30,M,La Molina,Dermatología,2022-02-07,117.98
+P2565,Paciente Juan Pérez,,M,La Molina,Dermatología,2023-01-16,224.99
+P2566,Paciente  Pérez,19,F,Lince,Odontología,2020-02-25,447.08
+P2567,Paciente Maria ,53,NA,Miraflores,Odontología,2023-05-23,445.88
+P2568,Paciente Luis García,7,F,La Molina,Dermatología,2021-08-04,418.24
+P2569,Paciente Maria ,56,M,La Molina,Pediatría,2020-10-31,166.12
+P2570,Paciente Ana Torres,14,NA,Callao,Cardiología,2021-08-06,150.79
+P2571,Paciente Ana ,10,M,Lince,Pediatría,2023-02-19,
+P2572,Paciente Luis ,16,F,La Molina,Dermatología,2020-09-08,220.58
+P2573,Paciente Luis Pérez,,F,San Isidro,Cardiología,2023-11-30,236.98
+P2574,Paciente  ,37,M,San Isidro,Cardiología,2020-04-29,491.73
+P2575,Paciente Maria Pérez,46,NA,Miraflores,Dermatología,2024-02-16,490.33
+P2576,Paciente Juan ,42,F,Callao,Dermatología,2021-05-11,147.09
+P2577,Paciente Ana García,33,M,Surco,Odontología,2024-03-15,145.99
+P2578,Paciente Juan ,24,F,Surco,Odontología,2023-10-05,252.82
+P2579,Paciente Juan Torres,51,F,Surco,Pediatría,2023-08-20,294.96
+P2580,Paciente Juan Pérez,40,F,Cajamarca,Odontología,2024-06-27,213.5
+P2581,Paciente Juan Pérez,17,NA,Lince,NA,2023-03-29,
+P2582,Paciente  García,54,M,Miraflores,Pediatría,2024-04-16,
+P2583,Paciente  ,52,F,Cajamarca,Cardiología,2021-04-12,122.55
+P2584,Paciente Ana Torres,10,F,San Isidro,NA,2024-03-01,244.96
+P2585,Paciente Ana Torres,74,M,Surco,Pediatría,2024-07-22,116.66
+P2586,Paciente Juan Pérez,80,M,Lince,Odontología,2021-08-03,485.91
+P2587,Paciente Maria Torres,46,F,Lince,NA,2023-09-25,193.95
+P2588,Paciente Luis ,70,M,Callao,Cardiología,2020-02-06,120.78
+P2589,Paciente Luis García,81,F,La Molina,Pediatría,2021-04-09,328.24
+P2590,Paciente Juan ,42,NA,La Molina,Dermatología,,214.23
+P2591,Paciente Maria García,22,F,La Molina,Dermatología,2023-04-07,434.57
+P2592,Paciente Luis ,6,M,Miraflores,Odontología,2021-10-02,279.26
+P2593,Paciente  ,84,NA,Lince,Pediatría,2022-02-26,306.02
+P2594,Paciente  Torres,6,NA,Surco,Odontología,2024-11-09,66.38
+P2595,Paciente Luis ,47,F,Lince,NA,2022-11-05,
+P2596,Paciente  García,5,F,San Isidro,NA,2023-03-21,425.69
+P2597,Paciente Maria ,12,NA,Miraflores,Cardiología,2024-03-22,149.66
+P2598,Paciente  García,2,M,Cajamarca,NA,2022-05-13,455.11
+P2599,Paciente Ana Torres,35,M,Miraflores,NA,2024-02-29,169.7
+P2600,Paciente Maria Torres,,F,La Molina,NA,2023-01-07,475.53
+P2601,Paciente Ana Pérez,77,F,La Molina,Dermatología,2020-04-15,
+P2602,Paciente  Torres,80,F,Miraflores,Odontología,2024-06-03,58.98
+P2603,Paciente Luis ,,F,Surco,Dermatología,2020-01-30,389.2
+P2604,Paciente Maria ,44,M,Callao,Odontología,2021-04-28,219.3
+P2605,Paciente Juan Torres,,M,Lince,Cardiología,2023-02-21,340.99
+P2606,Paciente Ana García,41,M,La Molina,Dermatología,2021-10-19,165.55
+P2607,Paciente Maria Pérez,56,F,Lince,NA,,115.8
+P2608,Paciente Ana Pérez,80,NA,Lince,Dermatología,2024-09-22,413.97
+P2609,Paciente Juan ,25,NA,Surco,NA,2021-10-13,248.88
+P2610,Paciente Ana García,81,F,Surco,Odontología,2020-05-21,450.43
+P2611,Paciente  ,3,NA,Surco,NA,2024-09-18,391.13
+P2612,Paciente Ana ,12,NA,San Isidro,Dermatología,2022-03-28,177.0
+P2613,Paciente Maria Torres,87,M,Lince,NA,2022-12-13,295.26
+P2614,Paciente Ana ,18,F,San Isidro,Odontología,2020-03-08,418.53
+P2615,Paciente Juan ,70,M,Lince,NA,2021-05-02,344.14
+P2616,Paciente Luis ,54,F,Callao,NA,2024-01-26,386.77
+P2617,Paciente Maria Pérez,49,M,Miraflores,Odontología,2020-04-09,280.97
+P2618,Paciente Ana García,51,M,Surco,Pediatría,2023-06-24,173.0
+P2619,Paciente Juan Pérez,79,NA,La Molina,Pediatría,2023-07-25,420.69
+P2620,Paciente Maria Torres,47,F,La Molina,Dermatología,2023-09-19,382.96
+P2621,Paciente  ,78,NA,Callao,Odontología,2020-04-14,416.82
+P2622,Paciente Maria García,89,NA,Callao,NA,2020-03-10,484.14
+P2623,Paciente  García,77,F,Callao,Cardiología,2020-10-30,279.87
+P2624,Paciente  Torres,76,NA,San Isidro,NA,2022-01-03,80.0
+P2625,Paciente Ana Pérez,35,NA,Callao,Dermatología,2020-07-27,146.4
+P2626,Paciente  García,58,M,Callao,Pediatría,2024-01-25,196.26
+P2627,Paciente Juan García,90,NA,San Isidro,Odontología,2024-08-14,165.3
+P2628,Paciente Luis Torres,78,F,Callao,Pediatría,2024-07-05,273.13
+P2629,Paciente Maria Torres,48,F,San Isidro,NA,2022-11-03,496.54
+P2630,Paciente  ,55,M,Miraflores,Odontología,2023-12-24,110.34
+P2631,Paciente Ana Torres,7,F,Callao,Odontología,2022-11-13,288.32
+P2632,Paciente Ana Pérez,59,F,San Isidro,Pediatría,2021-07-31,271.3
+P2633,Paciente Luis García,,NA,Callao,NA,2020-08-05,118.24
+P2634,Paciente  García,,M,San Isidro,Pediatría,2020-02-07,73.52
+P2635,Paciente  ,20,M,Lince,Cardiología,2022-07-22,388.52
+P2636,Paciente Juan García,45,F,Callao,NA,,325.98
+P2637,Paciente Maria Pérez,45,M,Callao,Pediatría,2024-07-18,439.42
+P2638,Paciente Luis García,64,NA,San Isidro,Cardiología,2022-03-25,136.32
+P2639,Paciente Luis ,6,M,Surco,NA,2024-03-06,266.98
+P2640,Paciente Luis ,75,F,Lince,Cardiología,2023-08-27,218.03
+P2641,Paciente Luis Torres,35,NA,La Molina,Cardiología,2023-08-08,115.71
+P2642,Paciente Luis Pérez,23,M,Miraflores,Pediatría,,268.4
+P2643,Paciente Juan ,42,NA,Callao,Cardiología,2023-04-15,182.4
+P2644,Paciente Maria Pérez,84,NA,Surco,Odontología,2020-09-27,428.01
+P2645,Paciente Maria Torres,82,M,Miraflores,Pediatría,2022-08-20,77.85
+P2646,Paciente Ana Torres,13,F,Lince,Cardiología,2020-11-22,60.13
+P2647,Paciente  Pérez,4,F,Lince,Cardiología,2024-03-02,174.55
+P2648,Paciente Luis Torres,23,M,San Isidro,NA,2020-09-29,125.39
+P2649,Paciente Ana ,20,M,San Isidro,NA,2024-07-06,427.09
+P2650,Paciente Ana García,39,F,Lince,Cardiología,,77.89
+P2651,Paciente Juan Pérez,45,NA,Surco,Pediatría,2020-05-10,407.5
+P2652,Paciente Maria Torres,17,F,La Molina,Pediatría,2021-01-12,405.72
+P2653,Paciente  ,61,M,San Isidro,NA,2021-07-30,209.66
+P2654,Paciente Maria Torres,11,NA,Surco,NA,2023-12-26,487.31
+P2655,Paciente Ana Pérez,25,NA,La Molina,Pediatría,2020-08-29,84.55
+P2656,Paciente Luis ,76,F,Miraflores,NA,2020-04-08,162.95
+P2657,Paciente Luis García,12,NA,Miraflores,NA,2022-04-30,111.12
+P2658,Paciente Juan ,30,NA,Callao,NA,2021-06-02,167.53
+P2659,Paciente Luis Pérez,50,M,Surco,NA,2022-09-26,
+P2660,Paciente Maria Torres,61,F,Miraflores,Cardiología,2021-06-15,157.92
+P2661,Paciente Luis ,54,M,San Isidro,Cardiología,,364.89
+P2662,Paciente  Pérez,3,M,Callao,Dermatología,2021-03-29,418.15
+P2663,Paciente  Torres,90,F,La Molina,Pediatría,2020-04-15,377.37
+P2664,Paciente Luis ,43,M,San Isidro,Odontología,,397.23
+P2665,Paciente Juan García,76,M,San Isidro,Odontología,2022-01-31,417.52
+P2666,Paciente Luis Pérez,41,NA,Callao,Cardiología,2024-12-08,170.61
+P2667,Paciente Luis Torres,80,NA,Surco,NA,2020-02-12,363.71
+P2668,Paciente Juan Pérez,38,M,Surco,Cardiología,2020-04-25,415.47
+P2669,Paciente Maria ,33,F,Surco,NA,2021-12-24,
+P2670,Paciente Juan Pérez,67,NA,Surco,Odontología,2024-07-15,454.86
+P2671,Paciente Ana Torres,26,F,La Molina,Pediatría,2024-07-21,70.43
+P2672,Paciente Luis ,46,F,San Isidro,Cardiología,2023-05-18,496.68
+P2673,Paciente Ana Pérez,15,F,Surco,NA,2024-04-08,347.92
+P2674,Paciente Luis ,18,NA,San Isidro,Dermatología,2020-10-05,63.8
+P2675,Paciente  ,42,F,Miraflores,Pediatría,2021-03-05,411.97
+P2676,Paciente  Torres,12,NA,Miraflores,Pediatría,2024-01-26,
+P2677,Paciente Maria García,85,NA,San Isidro,Odontología,2022-09-03,426.95
+P2678,Paciente Ana Torres,43,NA,Cajamarca,Odontología,2020-08-29,255.54
+P2679,Paciente  García,11,M,La Molina,NA,,85.67
+P2680,Paciente  ,68,F,Surco,Dermatología,2020-11-15,
+P2681,Paciente Maria ,21,NA,Callao,Cardiología,2022-02-12,401.11
+P2682,Paciente  García,2,NA,Callao,Dermatología,2023-05-15,488.25
+P2683,Paciente Ana Pérez,73,NA,Callao,Pediatría,2022-03-07,381.21
+P2684,Paciente  Torres,89,F,La Molina,Cardiología,2020-12-23,292.75
+P2685,Paciente Juan García,17,NA,La Molina,Odontología,2020-12-18,289.02
+P2686,Paciente Juan Pérez,74,M,Callao,Pediatría,2020-09-02,266.29
+P2687,Paciente  García,,M,Cajamarca,Cardiología,2020-09-19,371.68
+P2688,Paciente  ,60,M,Callao,NA,2020-07-17,381.44
+P2689,Paciente Juan García,5,F,Lince,Odontología,,220.55
+P2690,Paciente Ana Torres,37,F,San Isidro,Cardiología,2021-11-13,476.37
+P2691,Paciente Ana García,88,F,Miraflores,Cardiología,2021-05-03,307.79
+P2692,Paciente Ana ,1,F,Surco,Odontología,2023-06-27,196.18
+P2693,Paciente Juan García,44,NA,Lince,Pediatría,2023-04-30,238.24
+P2694,Paciente Juan ,83,NA,Miraflores,Pediatría,2024-11-15,141.61
+P2695,Paciente Juan Pérez,80,F,San Isidro,NA,2024-04-20,231.44
+P2696,Paciente Juan García,57,M,La Molina,Dermatología,2022-07-26,291.29
+P2697,Paciente Ana ,78,NA,Callao,Odontología,2020-05-15,242.31
+P2698,Paciente Juan Pérez,88,F,Cajamarca,Dermatología,2024-05-12,126.17
+P2699,Paciente Luis Torres,49,M,Lince,Pediatría,2023-10-08,338.13
+P2700,Paciente Juan García,25,F,Lince,Dermatología,2024-05-03,185.8
+P2701,Paciente Ana Pérez,72,NA,Lince,Odontología,2020-05-15,490.16
+P2702,Paciente Ana Torres,69,NA,La Molina,NA,2024-09-02,212.65
+P2703,Paciente Juan Pérez,21,M,Cajamarca,Pediatría,2023-09-17,403.99
+P2704,Paciente Juan García,26,M,Cajamarca,NA,2021-05-13,280.61
+P2705,Paciente  Pérez,9,F,Surco,Pediatría,2023-07-15,217.39
+P2706,Paciente Ana Pérez,19,NA,Surco,Odontología,2021-09-26,77.9
+P2707,Paciente  ,,F,Surco,Pediatría,2020-04-30,65.84
+P2708,Paciente Luis García,76,NA,San Isidro,Odontología,2023-03-19,473.12
+P2709,Paciente Luis ,7,F,Miraflores,NA,2021-02-01,213.66
+P2710,Paciente  ,49,NA,Lince,NA,2021-07-11,106.74
+P2711,Paciente Ana García,54,M,Lince,Dermatología,2020-09-26,58.45
+P2712,Paciente Luis Pérez,38,NA,San Isidro,Pediatría,2020-01-08,178.62
+P2713,Paciente Ana Torres,69,M,Cajamarca,NA,2024-04-24,123.26
+P2714,Paciente  ,14,NA,Cajamarca,NA,2022-05-28,143.19
+P2715,Paciente Ana García,19,F,Surco,Cardiología,2024-12-10,342.33
+P2716,Paciente Luis ,18,F,Miraflores,Dermatología,2023-08-15,194.4
+P2717,Paciente Luis ,88,F,Surco,Cardiología,2023-03-26,117.66
+P2718,Paciente Ana ,88,F,Cajamarca,Dermatología,2021-02-15,295.35
+P2719,Paciente Luis Pérez,59,M,Miraflores,NA,2022-10-21,420.89
+P2720,Paciente  Pérez,66,F,Miraflores,Dermatología,2021-12-16,324.71
+P2721,Paciente Juan Pérez,60,M,La Molina,NA,2021-06-09,272.07
+P2722,Paciente Maria Pérez,39,F,Lince,Dermatología,2024-07-09,465.85
+P2723,Paciente Juan ,61,NA,San Isidro,Pediatría,2024-06-10,427.22
+P2724,Paciente Luis ,26,M,Miraflores,Pediatría,2022-05-20,240.71
+P2725,Paciente Ana Pérez,73,F,Callao,Odontología,2022-11-02,108.85
+P2726,Paciente Juan Torres,7,NA,Cajamarca,Dermatología,2021-02-22,111.86
+P2727,Paciente  García,22,M,Surco,Dermatología,2021-06-19,302.11
+P2728,Paciente  Torres,69,M,Cajamarca,NA,2021-11-23,192.33
+P2729,Paciente Juan Pérez,46,M,Surco,Odontología,2024-12-06,177.59
+P2730,Paciente Luis Torres,56,NA,Cajamarca,Odontología,2023-12-14,367.94
+P2731,Paciente Luis García,36,M,San Isidro,Odontología,2021-04-03,130.58
+P2732,Paciente  García,34,M,Callao,Dermatología,2020-07-09,440.09
+P2733,Paciente Ana García,65,F,Surco,Odontología,2021-04-18,368.88
+P2734,Paciente Maria García,66,F,Callao,Cardiología,2023-01-03,328.13
+P2735,Paciente Luis Torres,77,NA,Cajamarca,Pediatría,2023-09-27,448.27
+P2736,Paciente Maria Pérez,34,M,La Molina,NA,2022-03-12,237.8
+P2737,Paciente  Pérez,28,NA,La Molina,Odontología,2022-01-14,274.11
+P2738,Paciente Maria García,86,NA,Surco,Cardiología,2021-10-16,226.6
+P2739,Paciente Juan ,30,NA,Miraflores,Pediatría,2022-05-12,443.38
+P2740,Paciente Ana Pérez,,NA,La Molina,NA,2021-06-18,195.24
+P2741,Paciente Juan Pérez,51,NA,Cajamarca,NA,2020-01-24,267.63
+P2742,Paciente Maria ,45,F,San Isidro,Dermatología,2020-03-28,419.63
+P2743,Paciente Juan García,18,M,Cajamarca,Dermatología,2024-04-05,263.28
+P2744,Paciente  ,,M,Surco,Dermatología,2023-02-28,264.02
+P2745,Paciente Luis Pérez,70,NA,Lince,Odontología,2020-03-23,476.36
+P2746,Paciente Luis ,55,F,Callao,Odontología,2020-11-28,320.15
+P2747,Paciente Ana García,19,M,Cajamarca,Dermatología,2024-09-21,363.23
+P2748,Paciente Juan ,61,NA,Surco,Pediatría,,51.76
+P2749,Paciente  Pérez,12,F,Callao,Cardiología,2022-06-06,433.84
+P2750,Paciente Luis Torres,,M,Miraflores,Dermatología,2024-07-26,356.73
+P2751,Paciente Maria García,22,F,Surco,Odontología,2023-03-27,291.64
+P2752,Paciente Ana García,30,M,Cajamarca,NA,2023-02-01,125.09
+P2753,Paciente Ana Pérez,31,M,Lince,Pediatría,2022-11-13,445.19
+P2754,Paciente Ana Pérez,47,F,Miraflores,Cardiología,2024-11-19,482.39
+P2755,Paciente  Pérez,3,NA,Miraflores,NA,2024-06-24,164.77
+P2756,Paciente  Torres,77,NA,Lince,Pediatría,2024-04-01,88.26
+P2757,Paciente Maria Pérez,53,F,Miraflores,Dermatología,2024-04-16,102.81
+P2758,Paciente Juan García,42,F,Miraflores,Cardiología,2021-02-12,197.3
+P2759,Paciente Ana ,77,F,La Molina,NA,2022-08-14,342.21
+P2760,Paciente Luis García,3,M,Surco,Odontología,2023-03-25,
+P2761,Paciente Luis García,77,M,Cajamarca,Cardiología,2021-05-28,167.93
+P2762,Paciente Ana ,64,M,La Molina,Dermatología,2021-08-07,138.77
+P2763,Paciente Maria Torres,,F,San Isidro,NA,2023-01-07,440.44
+P2764,Paciente Luis ,78,F,Callao,NA,2022-01-04,118.04
+P2765,Paciente Ana Pérez,17,M,Callao,Dermatología,2023-08-02,365.92
+P2766,Paciente  Pérez,4,NA,Callao,Dermatología,2023-04-12,202.05
+P2767,Paciente  Torres,83,F,Surco,Odontología,2021-09-24,191.83
+P2768,Paciente Juan Pérez,23,M,San Isidro,Cardiología,2024-05-26,110.5
+P2769,Paciente Maria García,6,M,Surco,Cardiología,2021-02-07,432.81
+P2770,Paciente Ana ,76,NA,Miraflores,NA,2023-05-26,366.75
+P2771,Paciente  Torres,32,F,Surco,NA,2024-07-28,294.39
+P2772,Paciente Juan García,9,NA,Lince,Odontología,2020-11-20,243.69
+P2773,Paciente Ana Pérez,54,M,Callao,Dermatología,2022-11-09,
+P2774,Paciente Maria García,32,M,Surco,NA,2022-05-03,255.23
+P2775,Paciente Ana ,50,M,Callao,NA,2023-01-07,326.17
+P2776,Paciente Maria Pérez,77,F,San Isidro,Dermatología,2022-09-08,92.52
+P2777,Paciente  Torres,3,NA,Surco,Cardiología,,241.13
+P2778,Paciente Juan García,55,M,Surco,NA,2021-05-14,
+P2779,Paciente Ana Pérez,1,M,Surco,NA,2023-03-23,240.93
+P2780,Paciente  Torres,21,NA,La Molina,NA,2023-06-07,374.67
+P2781,Paciente Luis Pérez,85,M,Callao,Cardiología,2020-04-20,250.14
+P2782,Paciente Ana García,41,NA,San Isidro,Dermatología,2020-04-17,402.8
+P2783,Paciente Maria Pérez,76,F,Callao,Dermatología,2024-05-19,208.5
+P2784,Paciente Maria Pérez,39,NA,Surco,NA,2022-02-08,154.17
+P2785,Paciente Luis Torres,4,M,Surco,Cardiología,2022-06-14,301.77
+P2786,Paciente Luis ,48,NA,Lince,Dermatología,2022-10-17,208.45
+P2787,Paciente Maria Torres,53,M,Lince,Odontología,2020-10-14,280.22
+P2788,Paciente Maria ,46,M,San Isidro,Cardiología,2021-10-19,139.34
+P2789,Paciente Ana García,6,F,San Isidro,NA,2020-07-27,54.61
+P2790,Paciente Maria Pérez,8,F,San Isidro,NA,,107.56
+P2791,Paciente Maria ,30,NA,Miraflores,NA,2022-10-15,287.31
+P2792,Paciente  Torres,66,F,San Isidro,Cardiología,,54.67
+P2793,Paciente Juan Torres,30,F,San Isidro,Dermatología,2022-08-25,85.54
+P2794,Paciente Luis Torres,46,NA,La Molina,Pediatría,2023-04-14,467.26
+P2795,Paciente Maria ,87,F,San Isidro,Pediatría,2022-08-11,246.99
+P2796,Paciente Maria García,46,F,La Molina,NA,2024-02-12,329.53
+P2797,Paciente Juan Torres,80,NA,Surco,Cardiología,2024-12-31,230.96
+P2798,Paciente Juan García,30,NA,Cajamarca,Cardiología,2021-04-30,458.88
+P2799,Paciente Ana Pérez,13,NA,San Isidro,Cardiología,2024-04-28,381.55
+P2800,Paciente  ,41,F,La Molina,NA,2022-12-09,394.42
+P2801,Paciente  Torres,55,M,Lince,Odontología,,427.35
+P2802,Paciente  Torres,26,NA,Surco,NA,2022-08-20,365.89
+P2803,Paciente  García,53,NA,Callao,Pediatría,2020-03-23,162.82
+P2804,Paciente Luis ,62,F,La Molina,Dermatología,2022-04-03,131.69
+P2805,Paciente Juan García,45,NA,San Isidro,Dermatología,2023-05-10,158.79
+P2806,Paciente  ,32,NA,Surco,Odontología,2021-05-04,472.51
+P2807,Paciente  ,1,M,Cajamarca,Pediatría,2022-12-06,156.32
+P2808,Paciente  Torres,84,M,Callao,Pediatría,2024-07-28,71.14
+P2809,Paciente Ana Torres,83,F,San Isidro,Odontología,2021-07-06,462.78
+P2810,Paciente  Pérez,48,F,Cajamarca,NA,2020-05-15,235.42
+P2811,Paciente  ,4,M,Surco,Cardiología,2020-09-16,343.85
+P2812,Paciente Luis ,61,NA,Miraflores,Odontología,2020-07-05,192.51
+P2813,Paciente  ,9,M,Surco,Odontología,2023-03-17,232.26
+P2814,Paciente Ana Torres,79,NA,Callao,Dermatología,2020-03-05,71.49
+P2815,Paciente Ana García,56,NA,Surco,Dermatología,2024-06-10,109.83
+P2816,Paciente  Torres,26,M,Lince,NA,2024-03-28,153.67
+P2817,Paciente Ana García,87,NA,Lince,Cardiología,2023-12-22,142.06
+P2818,Paciente Ana Torres,30,NA,Callao,Cardiología,2024-02-03,58.9
+P2819,Paciente  Torres,46,NA,Cajamarca,Pediatría,2022-10-22,180.88
+P2820,Paciente  García,64,M,Lince,Dermatología,,261.0
+P2821,Paciente Maria Pérez,89,F,La Molina,Odontología,2022-01-04,155.77
+P2822,Paciente Maria García,,F,Surco,Cardiología,2022-09-24,300.04
+P2823,Paciente Luis Torres,68,F,Cajamarca,Odontología,2022-10-22,317.66
+P2824,Paciente Luis ,49,NA,Miraflores,Odontología,2024-03-17,324.91
+P2825,Paciente  García,17,F,La Molina,Pediatría,2022-03-21,170.5
+P2826,Paciente Ana Pérez,70,M,La Molina,NA,2020-05-03,
+P2827,Paciente Maria Pérez,23,M,Miraflores,Dermatología,2022-04-07,446.24
+P2828,Paciente Luis García,46,NA,Cajamarca,Odontología,2022-06-06,438.39
+P2829,Paciente Ana Pérez,80,NA,Miraflores,Cardiología,,
+P2830,Paciente  Pérez,75,M,Cajamarca,Odontología,2023-01-27,124.58
+P2831,Paciente Luis Pérez,,M,Cajamarca,Odontología,2022-03-06,299.79
+P2832,Paciente Luis ,87,F,Miraflores,Dermatología,2024-06-06,250.55
+P2833,Paciente  Pérez,86,F,Lince,NA,2023-12-18,391.37
+P2834,Paciente  ,58,M,Lince,Cardiología,2022-01-24,55.45
+P2835,Paciente  Pérez,2,M,Cajamarca,NA,,411.19
+P2836,Paciente Ana García,59,F,Lince,Dermatología,2022-01-12,318.53
+P2837,Paciente Luis ,56,M,San Isidro,Pediatría,2023-06-23,271.91
+P2838,Paciente  ,39,F,Miraflores,NA,2022-06-09,87.66
+P2839,Paciente Ana Pérez,68,NA,Cajamarca,Cardiología,2020-02-24,384.76
+P2840,Paciente  García,33,F,Miraflores,Odontología,2020-10-04,287.13
+P2841,Paciente  Torres,84,F,La Molina,Dermatología,2022-06-14,75.12
+P2842,Paciente Luis ,83,NA,Cajamarca,Odontología,2021-03-27,141.47
+P2843,Paciente Luis ,72,F,Lince,Cardiología,2021-11-09,368.83
+P2844,Paciente Ana ,3,M,Callao,Pediatría,2024-01-12,206.43
+P2845,Paciente Juan Torres,28,F,Miraflores,Pediatría,2022-10-06,67.51
+P2846,Paciente Ana ,16,M,La Molina,Dermatología,2022-12-01,428.24
+P2847,Paciente Maria Torres,85,F,Surco,NA,2021-04-27,111.08
+P2848,Paciente Maria Torres,78,NA,San Isidro,Pediatría,2021-03-20,103.06
+P2849,Paciente Juan Pérez,13,NA,Miraflores,Pediatría,2024-12-12,404.64
+P2850,Paciente Juan Pérez,46,M,Callao,Pediatría,2022-12-15,
+P2851,Paciente  Pérez,43,F,Callao,Pediatría,2021-01-26,461.02
+P2852,Paciente  Pérez,54,F,Surco,NA,2020-01-13,170.57
+P2853,Paciente Ana ,38,F,Lince,Pediatría,2020-11-07,206.4
+P2854,Paciente  Torres,44,M,Surco,Odontología,2022-04-11,193.43
+P2855,Paciente Maria ,46,M,Cajamarca,Pediatría,2022-09-20,133.66
+P2856,Paciente  ,5,NA,Lince,NA,2024-09-16,101.03
+P2857,Paciente Maria García,89,M,Lince,NA,2021-06-28,470.57
+P2858,Paciente Ana Torres,42,M,Surco,Cardiología,2021-07-31,281.31
+P2859,Paciente Luis Torres,23,M,San Isidro,NA,2023-12-05,278.74
+P2860,Paciente Ana García,30,M,La Molina,NA,2020-07-11,175.55
+P2861,Paciente Luis García,17,M,Callao,Odontología,2023-04-14,67.77
+P2862,Paciente Juan Torres,26,M,Callao,Pediatría,2022-07-21,
+P2863,Paciente Ana Pérez,59,F,San Isidro,Odontología,2024-01-13,274.13
+P2864,Paciente Luis Torres,82,NA,San Isidro,NA,2023-04-17,354.61
+P2865,Paciente Luis ,64,NA,Cajamarca,Dermatología,2020-05-05,249.63
+P2866,Paciente Ana García,46,NA,Callao,NA,2021-12-02,138.08
+P2867,Paciente Juan Pérez,11,M,Surco,Cardiología,2023-02-15,235.6
+P2868,Paciente Luis ,21,F,La Molina,NA,2022-12-21,495.89
+P2869,Paciente Luis García,81,M,Surco,Cardiología,2024-01-08,119.28
+P2870,Paciente  García,52,F,San Isidro,Cardiología,2021-01-12,168.72
+P2871,Paciente Juan Pérez,31,M,La Molina,Cardiología,2022-05-19,305.13
+P2872,Paciente Ana ,37,NA,La Molina,Odontología,2020-10-11,400.72
+P2873,Paciente  Pérez,85,M,San Isidro,Odontología,2022-05-01,459.42
+P2874,Paciente  ,17,NA,Lince,Pediatría,2021-03-19,290.25
+P2875,Paciente Luis Pérez,75,NA,Surco,NA,2021-03-06,57.9
+P2876,Paciente Juan García,3,F,La Molina,Cardiología,2020-12-27,373.98
+P2877,Paciente  García,17,NA,Lince,Pediatría,2024-02-09,327.31
+P2878,Paciente Ana Pérez,55,M,Lince,Pediatría,2020-05-15,260.39
+P2879,Paciente Maria ,4,F,Lince,NA,2021-06-26,347.12
+P2880,Paciente Ana Torres,1,M,Miraflores,Dermatología,2024-02-25,394.63
+P2881,Paciente  García,59,F,La Molina,Pediatría,2020-08-17,98.47
+P2882,Paciente Ana García,78,M,Callao,Cardiología,2022-07-15,476.03
+P2883,Paciente  Pérez,25,NA,Callao,Pediatría,2023-02-27,475.12
+P2884,Paciente Luis Torres,63,F,La Molina,NA,2020-10-16,213.86
+P2885,Paciente Maria Pérez,65,M,Callao,NA,2022-01-30,299.24
+P2886,Paciente Ana García,74,F,Surco,NA,2021-11-20,
+P2887,Paciente Ana García,69,M,La Molina,Dermatología,2023-04-17,220.36
+P2888,Paciente Luis Torres,44,NA,Miraflores,Dermatología,2021-04-25,257.61
+P2889,Paciente Luis Torres,11,F,Surco,NA,2021-03-23,422.88
+P2890,Paciente Juan Pérez,73,M,Surco,Cardiología,2020-06-23,182.24
+P2891,Paciente  Torres,37,F,Miraflores,Dermatología,2024-01-04,117.99
+P2892,Paciente Luis Torres,90,M,Miraflores,Pediatría,,416.6
+P2893,Paciente Ana ,51,F,Callao,Cardiología,2024-10-25,494.12
+P2894,Paciente Maria Pérez,76,M,Callao,Pediatría,2022-04-17,162.75
+P2895,Paciente Luis ,,NA,La Molina,NA,2021-08-08,290.97
+P2896,Paciente Luis Pérez,31,M,Callao,Cardiología,2023-12-26,307.33
+P2897,Paciente Luis Pérez,9,M,La Molina,NA,2020-09-07,229.44
+P2898,Paciente  García,62,F,Cajamarca,NA,2022-04-11,60.3
+P2899,Paciente Ana ,17,NA,Surco,Dermatología,2022-02-05,98.39
+P2900,Paciente  Pérez,49,F,Lince,Cardiología,2023-07-24,105.41
+P2901,Paciente Luis García,9,F,Miraflores,Dermatología,2022-09-22,271.52
+P2902,Paciente Ana Pérez,7,M,La Molina,Cardiología,2024-11-02,119.97
+P2903,Paciente Maria Torres,58,F,Cajamarca,NA,2022-02-14,288.09
+P2904,Paciente  Pérez,,M,Miraflores,NA,2020-05-07,
+P2905,Paciente Ana Pérez,18,M,Cajamarca,NA,2022-06-27,333.64
+P2906,Paciente Maria Pérez,13,F,San Isidro,Odontología,2020-01-27,422.78
+P2907,Paciente Luis García,,NA,Miraflores,Dermatología,,364.68
+P2908,Paciente  ,81,NA,La Molina,Cardiología,2024-05-02,287.96
+P2909,Paciente  García,51,NA,Cajamarca,Pediatría,2020-07-04,121.52
+P2910,Paciente  Torres,1,F,Miraflores,NA,2021-11-07,59.63
+P2911,Paciente  ,74,M,Lince,Odontología,2024-12-04,299.81
+P2912,Paciente Juan ,26,NA,Surco,Dermatología,2020-07-30,280.46
+P2913,Paciente Ana García,79,F,Miraflores,Odontología,2021-12-15,367.79
+P2914,Paciente Maria Pérez,49,M,Callao,Dermatología,2021-11-27,
+P2915,Paciente Maria Torres,89,F,Cajamarca,Odontología,2023-10-19,382.14
+P2916,Paciente Ana Torres,51,NA,San Isidro,NA,2021-07-24,293.75
+P2917,Paciente  ,23,F,Cajamarca,NA,2023-06-12,474.32
+P2918,Paciente Ana García,67,F,San Isidro,NA,2024-03-05,194.32
+P2919,Paciente  Pérez,58,F,Surco,Dermatología,2024-05-13,300.63
+P2920,Paciente  García,57,NA,Lince,Odontología,2021-11-11,387.99
+P2921,Paciente Juan ,72,NA,Miraflores,Cardiología,2022-11-06,341.77
+P2922,Paciente Juan García,26,F,Lince,Odontología,2020-12-22,124.07
+P2923,Paciente Maria García,41,M,Cajamarca,Odontología,,239.3
+P2924,Paciente Luis ,84,NA,Surco,NA,2021-08-07,165.64
+P2925,Paciente Juan García,73,F,Callao,NA,2024-12-31,80.04
+P2926,Paciente Ana Pérez,90,M,Miraflores,Pediatría,2024-07-02,472.47
+P2927,Paciente Maria ,40,M,Callao,Dermatología,2023-01-21,124.44
+P2928,Paciente Ana Pérez,50,M,San Isidro,NA,2020-05-26,444.78
+P2929,Paciente Ana García,81,M,San Isidro,Odontología,2023-11-22,378.31
+P2930,Paciente Maria García,33,M,Surco,Odontología,2023-11-05,437.97
+P2931,Paciente Ana ,12,NA,Miraflores,Dermatología,2020-02-04,278.55
+P2932,Paciente Luis Pérez,11,M,Cajamarca,Odontología,2021-09-14,403.84
+P2933,Paciente Ana ,55,NA,San Isidro,Cardiología,2023-11-23,442.88
+P2934,Paciente  Pérez,69,F,Cajamarca,Odontología,2022-11-03,218.2
+P2935,Paciente Maria Torres,8,NA,La Molina,NA,2023-11-04,230.87
+P2936,Paciente Ana García,9,NA,San Isidro,Odontología,2022-09-10,60.79
+P2937,Paciente Juan Torres,45,F,La Molina,Cardiología,2020-11-11,198.76
+P2938,Paciente Ana Torres,41,M,San Isidro,Odontología,2023-11-14,269.28
+P2939,Paciente Luis Pérez,62,M,Callao,NA,2024-06-07,122.23
+P2940,Paciente  Pérez,64,NA,Callao,Odontología,2021-11-13,226.06
+P2941,Paciente Juan García,60,NA,La Molina,Dermatología,2022-10-24,385.66
+P2942,Paciente Luis García,85,M,La Molina,Odontología,2023-05-29,349.32
+P2943,Paciente Ana ,42,F,Callao,Cardiología,2020-04-01,380.63
+P2944,Paciente Luis ,82,M,Cajamarca,Pediatría,2024-06-11,497.05
+P2945,Paciente Ana Torres,57,M,Callao,Dermatología,2022-11-29,338.5
+P2946,Paciente Juan Torres,47,M,Cajamarca,Cardiología,2023-10-28,445.18
+P2947,Paciente Maria García,,F,Surco,Cardiología,2022-08-27,343.49
+P2948,Paciente Luis Pérez,63,M,La Molina,Cardiología,2020-02-07,103.77
+P2949,Paciente Luis Pérez,35,NA,Cajamarca,NA,2024-02-13,
+P2950,Paciente  García,,M,Cajamarca,Dermatología,2023-05-31,316.88
+P2951,Paciente  Torres,10,NA,Callao,Dermatología,2022-01-28,247.52
+P2952,Paciente Ana Torres,15,F,Surco,Pediatría,2020-05-27,327.08
+P2953,Paciente Luis Torres,,NA,Miraflores,Odontología,2020-06-02,355.39
+P2954,Paciente Luis García,73,M,Miraflores,Cardiología,2020-10-16,107.51
+P2955,Paciente Ana Pérez,9,NA,Cajamarca,Pediatría,2023-10-12,79.78
+P2956,Paciente Ana Torres,59,M,Surco,Dermatología,2023-09-10,461.58
+P2957,Paciente Juan ,34,M,Surco,Dermatología,2021-01-04,381.22
+P2958,Paciente Ana Torres,44,F,Miraflores,Cardiología,,295.49
+P2959,Paciente Luis ,43,NA,Surco,Pediatría,2021-03-03,295.18
+P2960,Paciente Ana Torres,17,M,La Molina,Pediatría,2020-02-06,452.29
+P2961,Paciente Ana García,70,M,La Molina,Cardiología,2021-07-03,311.87
+P2962,Paciente Luis ,10,M,Callao,Odontología,2023-05-05,237.89
+P2963,Paciente Ana Torres,47,M,Surco,Cardiología,2023-04-02,158.8
+P2964,Paciente Luis Torres,43,NA,La Molina,Pediatría,2022-04-18,419.29
+P2965,Paciente Maria García,10,M,Surco,NA,2022-10-08,376.57
+P2966,Paciente Juan ,87,M,Callao,Pediatría,2023-12-24,116.37
+P2967,Paciente Juan García,34,M,Callao,Cardiología,2023-05-18,144.31
+P2968,Paciente  Torres,3,M,Cajamarca,Odontología,2022-02-19,326.38
+P2969,Paciente Luis Pérez,80,M,San Isidro,Dermatología,2022-12-11,175.38
+P2970,Paciente Maria Pérez,1,NA,San Isidro,Pediatría,2022-06-22,434.09
+P2971,Paciente Juan ,6,F,Callao,Odontología,2020-01-30,271.27
+P2972,Paciente Ana Pérez,16,NA,La Molina,Dermatología,2023-07-13,335.38
+P2973,Paciente Maria Torres,30,NA,San Isidro,Odontología,2021-09-17,161.93
+P2974,Paciente Maria García,24,NA,La Molina,Dermatología,2021-10-17,285.92
+P2975,Paciente Luis Pérez,43,M,San Isidro,Dermatología,2024-12-23,123.58
+P2976,Paciente  García,55,F,Miraflores,Pediatría,2023-04-08,115.92
+P2977,Paciente Maria García,61,M,Miraflores,Pediatría,2024-06-23,362.27
+P2978,Paciente Maria Pérez,80,F,Lince,Cardiología,2024-10-28,269.4
+P2979,Paciente Juan ,81,F,Miraflores,NA,2022-05-30,168.26
+P2980,Paciente Maria García,17,F,Callao,Cardiología,2022-01-11,457.85
+P2981,Paciente Juan García,40,M,San Isidro,Pediatría,2022-02-19,211.59
+P2982,Paciente  Torres,28,F,La Molina,NA,2020-12-21,283.98
+P2983,Paciente Juan García,37,M,Cajamarca,Pediatría,,166.82
+P2984,Paciente  Pérez,55,F,Cajamarca,Odontología,2024-03-30,323.35
+P2985,Paciente Luis García,70,NA,Lince,Pediatría,2021-12-26,346.42
+P2986,Paciente Luis Torres,82,F,Miraflores,Pediatría,2020-07-30,358.66
+P2987,Paciente Maria Torres,78,M,Cajamarca,Pediatría,2021-11-17,184.29
+P2988,Paciente  Pérez,30,F,San Isidro,Odontología,2022-08-04,118.05
+P2989,Paciente Maria Torres,19,F,San Isidro,Odontología,2020-06-17,105.44
+P2990,Paciente Luis ,37,F,San Isidro,NA,2022-07-31,312.11
+P2991,Paciente  García,68,M,Callao,NA,2024-09-17,364.52
+P2992,Paciente Ana García,16,M,Surco,Cardiología,2020-02-28,270.42
+P2993,Paciente  ,56,M,Callao,Odontología,2024-03-15,439.34
+P2994,Paciente  Torres,48,NA,Callao,Odontología,2024-05-24,403.5
+P2995,Paciente Juan Pérez,30,NA,Miraflores,Odontología,2021-09-09,390.64
+P2996,Paciente Juan García,9,NA,Cajamarca,Pediatría,2024-08-11,454.74
+P2997,Paciente Juan Pérez,3,M,San Isidro,NA,2022-07-21,459.03
+P2998,Paciente Ana ,62,F,Lince,NA,2024-04-20,390.49
+P2999,Paciente Juan Pérez,63,M,Callao,Odontología,2022-02-02,142.31
+P3000,Paciente Luis García,27,NA,Miraflores,NA,2021-03-25,131.54

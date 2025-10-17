@@ -39,7 +39,7 @@ SaludDigitalA_E1/
 ├── scripts/
 │   └── 1_Crear_Carpetas.ipynb
 │   └── 2_Crear_Estructura.ipynb
-│   └── 3_Generar_Data_Turismo.ipynb
+│   └── 3_Generar_Data_Pacientes.ipynb
 │   └── 4_Proceso_ETL.ipynb
 │   └── 5_Loading_MongoDB.ipynb
 │   └── 6_Reportes.ipynb
